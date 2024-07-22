@@ -1,0 +1,1001 @@
+Fecha,Materia,Clima,Día de la Semana,Hora,Profesor,Asistencia,Historial de Faltas del Mes Pasado,Renta,Traslado
+2023-08-19,Biología,Nublado,Lunes,12:00,Profesor B,1,9,1,combi
+2023-07-16,Matemáticas,Soleado,Jueves,14:00,Profesor C,1,2,1,moto
+2023-11-13,Matemáticas,Soleado,Martes,12:00,Profesor B,0,5,0,combi
+2023-07-12,Biología,Nublado,Miércoles,10:00,Profesor B,0,3,0,auto propio
+2023-06-14,Física,Soleado,Martes,14:00,Profesor A,1,1,0,taxi
+2023-02-24,Historia,Ventoso,Miércoles,08:00,Profesor A,1,0,0,combi
+2023-06-08,Matemáticas,Ventoso,Jueves,14:00,Profesor A,0,10,0,moto
+2023-11-22,Historia,Lluvioso,Lunes,10:00,Profesor A,0,8,0,camina
+2023-01-13,Biología,Lluvioso,Viernes,12:00,Profesor D,0,5,0,combi
+2023-01-02,Biología,Ventoso,Martes,08:00,Profesor C,0,2,0,taxi
+2023-07-08,Historia,Ventoso,Jueves,16:00,Profesor C,1,8,1,auto propio
+2023-08-05,Biología,Ventoso,Miércoles,14:00,Profesor A,0,8,0,combi
+2023-06-02,Biología,Ventoso,Lunes,08:00,Profesor A,1,4,0,camina
+2023-12-18,Matemáticas,Lluvioso,Viernes,16:00,Profesor D,0,4,0,camión
+2023-07-03,Historia,Soleado,Miércoles,10:00,Profesor D,0,10,1,camión
+2023-07-09,Biología,Lluvioso,Jueves,14:00,Profesor B,1,7,1,combi
+2023-09-21,Biología,Soleado,Miércoles,12:00,Profesor C,0,5,1,taxi
+2023-09-26,Matemáticas,Ventoso,Viernes,10:00,Profesor A,1,10,0,bicicleta
+2023-10-19,Biología,Ventoso,Lunes,14:00,Profesor D,0,9,0,bicicleta
+2023-08-10,Física,Ventoso,Martes,10:00,Profesor C,0,8,1,bicicleta
+2023-10-24,Matemáticas,Lluvioso,Martes,16:00,Profesor D,0,3,1,taxi
+2023-05-24,Historia,Ventoso,Jueves,14:00,Profesor B,0,6,0,camina
+2023-07-23,Historia,Soleado,Viernes,14:00,Profesor D,0,2,1,combi
+2023-06-06,Historia,Ventoso,Jueves,16:00,Profesor D,0,2,0,combi
+2023-01-04,Historia,Nublado,Lunes,14:00,Profesor A,1,10,0,moto
+2023-07-01,Química,Soleado,Martes,14:00,Profesor D,1,4,1,moto
+2023-07-30,Matemáticas,Soleado,Miércoles,08:00,Profesor B,1,6,1,camión
+2023-10-17,Historia,Ventoso,Martes,10:00,Profesor D,1,5,0,auto propio
+2023-01-09,Historia,Soleado,Martes,08:00,Profesor D,0,10,0,camina
+2023-05-02,Física,Lluvioso,Martes,08:00,Profesor D,0,10,1,combi
+2023-05-23,Matemáticas,Soleado,Martes,16:00,Profesor D,0,0,0,taxi
+2023-04-27,Historia,Ventoso,Viernes,08:00,Profesor C,1,5,1,bicicleta
+2023-11-26,Biología,Lluvioso,Martes,14:00,Profesor D,1,2,1,auto propio
+2023-04-18,Matemáticas,Soleado,Martes,08:00,Profesor D,1,0,0,camión
+2023-08-27,Historia,Soleado,Viernes,14:00,Profesor B,0,10,0,moto
+2023-03-13,Matemáticas,Nublado,Lunes,14:00,Profesor B,1,0,0,camina
+2023-07-07,Historia,Nublado,Jueves,12:00,Profesor C,1,10,1,taxi
+2023-08-15,Matemáticas,Ventoso,Viernes,16:00,Profesor D,0,10,1,camión
+2023-04-07,Biología,Lluvioso,Lunes,16:00,Profesor C,1,1,1,auto propio
+2023-06-12,Biología,Nublado,Lunes,12:00,Profesor A,1,4,1,bicicleta
+2023-03-08,Física,Ventoso,Martes,08:00,Profesor B,0,7,0,camina
+2023-08-20,Historia,Nublado,Viernes,12:00,Profesor B,0,1,0,bicicleta
+2023-11-05,Historia,Soleado,Jueves,10:00,Profesor B,1,8,1,bicicleta
+2023-04-02,Historia,Soleado,Lunes,12:00,Profesor A,0,8,0,combi
+2023-01-26,Biología,Ventoso,Jueves,10:00,Profesor B,0,8,0,camión
+2023-01-09,Física,Soleado,Martes,16:00,Profesor A,1,7,0,camión
+2023-01-14,Historia,Lluvioso,Jueves,10:00,Profesor A,0,6,0,bicicleta
+2023-08-24,Química,Nublado,Viernes,14:00,Profesor B,1,0,1,taxi
+2023-05-07,Matemáticas,Lluvioso,Lunes,10:00,Profesor A,1,10,0,bicicleta
+2023-05-08,Matemáticas,Soleado,Jueves,14:00,Profesor C,0,3,1,combi
+2023-07-31,Física,Ventoso,Viernes,12:00,Profesor C,1,1,1,taxi
+2023-08-05,Matemáticas,Soleado,Viernes,12:00,Profesor C,1,0,0,combi
+2023-08-12,Matemáticas,Soleado,Lunes,14:00,Profesor C,1,9,1,combi
+2023-01-22,Física,Lluvioso,Miércoles,16:00,Profesor C,1,6,0,combi
+2023-11-26,Química,Ventoso,Jueves,10:00,Profesor D,0,1,0,combi
+2023-02-15,Matemáticas,Soleado,Miércoles,12:00,Profesor D,1,8,1,camina
+2023-01-24,Biología,Ventoso,Miércoles,08:00,Profesor B,0,2,1,bicicleta
+2023-04-20,Física,Nublado,Jueves,14:00,Profesor A,0,5,0,bicicleta
+2023-08-12,Biología,Nublado,Lunes,16:00,Profesor C,1,1,0,camión
+2023-08-28,Química,Nublado,Lunes,12:00,Profesor B,0,3,0,moto
+2023-01-24,Química,Nublado,Martes,16:00,Profesor C,1,0,1,auto propio
+2023-08-02,Historia,Soleado,Martes,16:00,Profesor A,1,10,1,moto
+2023-11-16,Química,Soleado,Martes,12:00,Profesor A,0,8,1,bicicleta
+2023-10-26,Química,Nublado,Lunes,14:00,Profesor A,0,0,0,bicicleta
+2023-07-22,Química,Lluvioso,Miércoles,10:00,Profesor B,0,7,0,combi
+2023-09-08,Matemáticas,Nublado,Lunes,08:00,Profesor B,1,5,0,camión
+2023-12-29,Biología,Soleado,Miércoles,16:00,Profesor A,1,9,0,camina
+2023-01-11,Historia,Lluvioso,Viernes,10:00,Profesor D,0,1,0,auto propio
+2023-01-21,Historia,Lluvioso,Lunes,08:00,Profesor B,0,9,1,auto propio
+2023-04-19,Química,Nublado,Martes,10:00,Profesor C,1,5,1,auto propio
+2023-12-10,Matemáticas,Nublado,Miércoles,16:00,Profesor C,1,6,1,camina
+2023-09-05,Biología,Lluvioso,Miércoles,14:00,Profesor D,1,6,0,combi
+2023-08-11,Historia,Lluvioso,Jueves,08:00,Profesor D,0,8,1,auto propio
+2023-04-29,Biología,Ventoso,Viernes,12:00,Profesor B,0,6,1,camión
+2023-03-13,Historia,Nublado,Miércoles,12:00,Profesor A,1,1,0,moto
+2023-05-19,Matemáticas,Soleado,Jueves,16:00,Profesor D,1,6,0,camión
+2023-05-14,Química,Nublado,Viernes,14:00,Profesor C,0,10,1,bicicleta
+2023-11-14,Química,Lluvioso,Martes,12:00,Profesor A,1,10,0,combi
+2023-10-09,Matemáticas,Ventoso,Miércoles,14:00,Profesor A,0,4,1,bicicleta
+2023-09-22,Química,Soleado,Lunes,14:00,Profesor D,1,7,1,camión
+2023-09-06,Historia,Nublado,Viernes,14:00,Profesor C,1,9,1,camina
+2023-11-05,Química,Soleado,Lunes,10:00,Profesor A,1,4,1,bicicleta
+2023-02-20,Química,Nublado,Martes,16:00,Profesor D,0,3,1,auto propio
+2023-03-08,Biología,Ventoso,Miércoles,08:00,Profesor A,1,5,1,camión
+2023-06-15,Química,Soleado,Lunes,16:00,Profesor B,1,7,1,combi
+2023-09-05,Biología,Ventoso,Martes,08:00,Profesor C,0,10,1,bicicleta
+2023-09-12,Matemáticas,Ventoso,Martes,16:00,Profesor C,0,1,1,camina
+2023-09-21,Matemáticas,Lluvioso,Lunes,10:00,Profesor C,0,2,1,auto propio
+2023-08-26,Biología,Lluvioso,Jueves,16:00,Profesor D,1,6,1,camina
+2023-03-24,Química,Soleado,Jueves,14:00,Profesor B,0,7,1,combi
+2023-02-09,Historia,Lluvioso,Lunes,10:00,Profesor A,0,2,0,bicicleta
+2023-04-05,Biología,Ventoso,Jueves,10:00,Profesor B,1,1,1,camión
+2023-06-15,Física,Ventoso,Martes,12:00,Profesor C,1,1,0,taxi
+2023-12-23,Matemáticas,Ventoso,Lunes,14:00,Profesor C,0,3,0,bicicleta
+2023-01-21,Química,Lluvioso,Lunes,08:00,Profesor C,1,6,1,camión
+2023-01-26,Química,Nublado,Martes,16:00,Profesor D,0,2,0,combi
+2023-12-11,Biología,Soleado,Miércoles,12:00,Profesor B,1,2,0,camión
+2023-09-16,Historia,Nublado,Jueves,14:00,Profesor B,0,2,0,camión
+2023-01-30,Química,Nublado,Jueves,16:00,Profesor C,1,9,1,combi
+2023-08-04,Historia,Nublado,Lunes,16:00,Profesor B,0,6,0,moto
+2023-05-29,Física,Nublado,Miércoles,14:00,Profesor A,0,8,0,bicicleta
+2023-10-06,Química,Soleado,Jueves,16:00,Profesor A,0,9,0,bicicleta
+2023-05-27,Biología,Nublado,Lunes,14:00,Profesor C,1,5,0,moto
+2023-08-29,Historia,Ventoso,Viernes,10:00,Profesor C,0,2,1,moto
+2023-09-25,Física,Ventoso,Martes,12:00,Profesor A,1,3,0,moto
+2023-08-07,Química,Nublado,Lunes,08:00,Profesor A,1,1,1,auto propio
+2023-03-15,Física,Lluvioso,Miércoles,14:00,Profesor A,1,7,1,camina
+2023-07-22,Física,Ventoso,Lunes,12:00,Profesor D,0,7,1,combi
+2023-06-03,Física,Lluvioso,Viernes,10:00,Profesor B,1,7,0,camión
+2023-10-03,Química,Lluvioso,Jueves,10:00,Profesor D,0,1,0,moto
+2023-08-29,Historia,Soleado,Miércoles,08:00,Profesor B,0,4,0,camina
+2023-05-17,Química,Ventoso,Miércoles,14:00,Profesor A,1,10,0,taxi
+2023-01-05,Matemáticas,Ventoso,Jueves,10:00,Profesor A,1,1,1,auto propio
+2023-11-22,Historia,Soleado,Jueves,08:00,Profesor A,0,4,0,camión
+2023-12-29,Historia,Lluvioso,Lunes,10:00,Profesor C,1,4,1,combi
+2023-04-19,Historia,Ventoso,Martes,08:00,Profesor B,1,4,1,bicicleta
+2023-09-11,Química,Lluvioso,Martes,08:00,Profesor D,1,0,0,combi
+2023-02-13,Biología,Ventoso,Miércoles,12:00,Profesor B,1,4,1,camina
+2023-04-28,Física,Nublado,Jueves,08:00,Profesor A,0,1,1,moto
+2023-07-15,Historia,Ventoso,Jueves,12:00,Profesor A,1,8,0,taxi
+2023-10-01,Química,Ventoso,Lunes,12:00,Profesor D,1,6,0,camión
+2023-03-17,Química,Nublado,Viernes,12:00,Profesor B,0,1,0,moto
+2023-02-16,Matemáticas,Soleado,Viernes,10:00,Profesor C,1,2,0,bicicleta
+2023-07-30,Biología,Ventoso,Miércoles,12:00,Profesor A,1,4,0,moto
+2023-08-31,Biología,Nublado,Viernes,16:00,Profesor D,0,7,0,camión
+2023-12-31,Historia,Soleado,Martes,16:00,Profesor D,0,6,0,combi
+2023-09-09,Química,Nublado,Jueves,08:00,Profesor A,1,6,0,bicicleta
+2023-02-25,Historia,Soleado,Martes,08:00,Profesor B,0,8,0,combi
+2023-12-02,Matemáticas,Nublado,Viernes,14:00,Profesor A,1,2,0,camina
+2023-05-02,Química,Soleado,Miércoles,08:00,Profesor A,0,10,1,taxi
+2023-07-01,Biología,Ventoso,Lunes,14:00,Profesor C,1,3,1,moto
+2023-03-21,Historia,Lluvioso,Martes,08:00,Profesor A,0,7,1,camina
+2023-07-13,Física,Nublado,Lunes,16:00,Profesor A,1,3,1,camina
+2023-07-31,Química,Lluvioso,Lunes,08:00,Profesor A,0,8,1,camina
+2023-10-20,Historia,Ventoso,Viernes,10:00,Profesor B,1,5,1,taxi
+2023-12-17,Historia,Ventoso,Miércoles,14:00,Profesor A,1,5,0,taxi
+2023-10-28,Química,Nublado,Viernes,08:00,Profesor A,1,0,0,bicicleta
+2023-11-18,Física,Lluvioso,Viernes,14:00,Profesor D,1,8,1,camión
+2023-05-09,Matemáticas,Nublado,Jueves,16:00,Profesor B,0,6,0,camina
+2023-03-04,Biología,Soleado,Miércoles,12:00,Profesor B,1,1,0,camina
+2023-09-21,Biología,Lluvioso,Martes,14:00,Profesor A,1,7,0,camión
+2023-05-22,Biología,Ventoso,Lunes,16:00,Profesor B,0,8,0,camina
+2023-03-26,Matemáticas,Nublado,Lunes,12:00,Profesor C,1,5,0,camión
+2023-09-14,Historia,Nublado,Miércoles,12:00,Profesor D,1,0,0,camina
+2023-10-03,Química,Ventoso,Viernes,14:00,Profesor C,1,7,1,camión
+2023-11-16,Historia,Nublado,Viernes,14:00,Profesor A,1,7,0,auto propio
+2023-04-01,Química,Nublado,Martes,14:00,Profesor C,0,4,1,camión
+2023-04-20,Historia,Nublado,Martes,16:00,Profesor D,1,10,1,taxi
+2023-05-24,Historia,Lluvioso,Lunes,10:00,Profesor C,0,9,0,moto
+2023-11-18,Química,Lluvioso,Viernes,10:00,Profesor B,0,9,1,auto propio
+2023-10-20,Matemáticas,Nublado,Viernes,12:00,Profesor D,1,6,1,combi
+2023-04-27,Biología,Ventoso,Miércoles,08:00,Profesor C,1,7,0,camina
+2023-01-17,Química,Nublado,Martes,12:00,Profesor C,0,0,1,combi
+2023-06-16,Matemáticas,Lluvioso,Miércoles,10:00,Profesor C,1,4,1,combi
+2023-06-09,Física,Soleado,Viernes,14:00,Profesor D,0,0,1,camión
+2023-06-18,Física,Nublado,Jueves,16:00,Profesor C,0,2,1,bicicleta
+2023-04-19,Química,Nublado,Viernes,10:00,Profesor C,0,10,1,bicicleta
+2023-02-28,Química,Ventoso,Jueves,12:00,Profesor D,0,5,1,moto
+2023-06-01,Física,Nublado,Miércoles,16:00,Profesor C,0,9,0,camión
+2023-05-04,Biología,Nublado,Martes,08:00,Profesor A,0,8,1,camina
+2023-12-11,Biología,Nublado,Martes,16:00,Profesor A,1,5,0,taxi
+2023-08-17,Matemáticas,Soleado,Viernes,10:00,Profesor B,1,3,0,taxi
+2023-01-02,Química,Lluvioso,Lunes,12:00,Profesor C,0,1,1,camión
+2023-01-19,Matemáticas,Ventoso,Jueves,14:00,Profesor A,1,7,1,bicicleta
+2023-10-21,Matemáticas,Ventoso,Miércoles,08:00,Profesor D,0,5,0,combi
+2023-03-07,Biología,Ventoso,Lunes,12:00,Profesor C,0,1,0,bicicleta
+2023-08-25,Historia,Nublado,Viernes,10:00,Profesor B,0,2,1,moto
+2023-03-18,Historia,Nublado,Lunes,12:00,Profesor B,0,10,1,moto
+2023-10-18,Física,Soleado,Jueves,16:00,Profesor D,1,2,0,combi
+2023-01-03,Física,Ventoso,Jueves,12:00,Profesor C,1,8,1,camión
+2023-09-29,Biología,Ventoso,Martes,10:00,Profesor C,1,7,0,combi
+2023-01-07,Biología,Soleado,Jueves,10:00,Profesor D,0,3,1,camión
+2023-03-02,Física,Lluvioso,Jueves,14:00,Profesor C,1,3,0,camión
+2023-06-13,Física,Lluvioso,Jueves,16:00,Profesor B,1,7,0,taxi
+2023-03-10,Física,Lluvioso,Lunes,12:00,Profesor B,0,3,1,auto propio
+2023-12-07,Historia,Ventoso,Lunes,14:00,Profesor A,1,7,0,moto
+2023-12-08,Biología,Lluvioso,Miércoles,16:00,Profesor B,0,0,1,camina
+2023-05-27,Química,Ventoso,Lunes,08:00,Profesor D,0,7,1,camión
+2023-03-04,Historia,Soleado,Martes,08:00,Profesor C,1,5,1,camión
+2023-03-20,Biología,Lluvioso,Martes,10:00,Profesor B,1,0,1,moto
+2023-04-05,Biología,Lluvioso,Martes,14:00,Profesor C,0,4,1,camina
+2023-07-21,Matemáticas,Lluvioso,Lunes,14:00,Profesor D,1,0,0,moto
+2023-07-27,Biología,Nublado,Jueves,16:00,Profesor C,0,4,1,combi
+2023-08-24,Matemáticas,Nublado,Jueves,16:00,Profesor C,0,9,0,camina
+2023-09-25,Matemáticas,Soleado,Lunes,08:00,Profesor A,1,5,0,taxi
+2023-10-27,Biología,Nublado,Lunes,12:00,Profesor D,0,9,0,combi
+2023-06-07,Matemáticas,Nublado,Viernes,12:00,Profesor D,0,0,0,bicicleta
+2023-06-15,Matemáticas,Soleado,Lunes,12:00,Profesor D,1,3,0,auto propio
+2023-10-19,Biología,Ventoso,Lunes,14:00,Profesor B,1,0,1,moto
+2023-08-02,Matemáticas,Lluvioso,Miércoles,16:00,Profesor A,1,6,1,combi
+2023-02-10,Historia,Lluvioso,Lunes,10:00,Profesor B,0,8,0,bicicleta
+2023-12-19,Historia,Soleado,Jueves,12:00,Profesor D,1,3,1,auto propio
+2023-12-09,Matemáticas,Nublado,Miércoles,12:00,Profesor A,1,9,1,auto propio
+2023-05-13,Biología,Soleado,Jueves,12:00,Profesor D,0,1,1,auto propio
+2023-06-03,Historia,Nublado,Lunes,10:00,Profesor C,0,10,1,auto propio
+2023-08-26,Química,Soleado,Viernes,12:00,Profesor C,1,8,1,taxi
+2023-05-13,Física,Nublado,Jueves,08:00,Profesor D,0,7,1,combi
+2023-08-24,Física,Nublado,Martes,14:00,Profesor A,0,3,1,moto
+2023-12-21,Matemáticas,Lluvioso,Martes,14:00,Profesor A,0,2,0,auto propio
+2023-11-02,Biología,Nublado,Martes,08:00,Profesor C,1,3,0,combi
+2023-09-28,Matemáticas,Nublado,Martes,14:00,Profesor C,1,4,1,camina
+2023-05-15,Biología,Ventoso,Viernes,16:00,Profesor B,1,4,0,camina
+2023-08-19,Química,Ventoso,Martes,10:00,Profesor A,0,7,0,moto
+2023-06-25,Química,Soleado,Jueves,08:00,Profesor C,1,9,0,combi
+2023-10-05,Química,Soleado,Martes,16:00,Profesor C,1,5,1,moto
+2023-08-05,Historia,Nublado,Jueves,16:00,Profesor B,0,10,0,camión
+2023-09-29,Biología,Soleado,Miércoles,14:00,Profesor A,0,4,1,bicicleta
+2023-11-07,Física,Soleado,Viernes,14:00,Profesor A,0,8,1,taxi
+2023-02-21,Química,Nublado,Martes,14:00,Profesor C,1,2,0,taxi
+2023-08-09,Química,Lluvioso,Miércoles,08:00,Profesor B,1,10,1,taxi
+2023-09-16,Historia,Lluvioso,Miércoles,14:00,Profesor A,1,0,0,combi
+2023-12-30,Historia,Nublado,Jueves,16:00,Profesor B,1,8,0,bicicleta
+2023-02-02,Historia,Soleado,Lunes,10:00,Profesor C,1,8,1,bicicleta
+2023-12-07,Química,Lluvioso,Jueves,08:00,Profesor D,1,10,0,camina
+2023-03-03,Biología,Ventoso,Miércoles,12:00,Profesor B,0,9,1,camina
+2023-10-23,Física,Lluvioso,Lunes,08:00,Profesor B,0,2,0,camina
+2023-04-28,Física,Nublado,Martes,08:00,Profesor D,0,10,0,moto
+2023-06-01,Física,Nublado,Jueves,10:00,Profesor B,0,0,0,combi
+2023-05-23,Historia,Soleado,Jueves,12:00,Profesor A,0,10,0,auto propio
+2023-11-22,Biología,Soleado,Lunes,14:00,Profesor A,1,5,1,moto
+2023-02-11,Historia,Ventoso,Miércoles,14:00,Profesor D,1,6,1,camina
+2023-06-07,Física,Lluvioso,Lunes,16:00,Profesor D,1,4,0,moto
+2023-10-28,Historia,Nublado,Jueves,10:00,Profesor C,0,6,1,combi
+2023-12-19,Física,Ventoso,Martes,16:00,Profesor B,0,8,0,combi
+2023-05-25,Física,Ventoso,Miércoles,14:00,Profesor D,1,0,0,combi
+2023-03-29,Física,Ventoso,Miércoles,10:00,Profesor B,1,1,0,combi
+2023-08-17,Química,Soleado,Viernes,08:00,Profesor D,1,6,1,auto propio
+2023-11-01,Matemáticas,Lluvioso,Martes,16:00,Profesor B,0,3,0,camión
+2023-03-26,Historia,Nublado,Miércoles,08:00,Profesor A,0,7,0,auto propio
+2023-04-11,Historia,Lluvioso,Lunes,12:00,Profesor D,1,0,1,taxi
+2023-10-27,Biología,Ventoso,Miércoles,10:00,Profesor D,1,7,0,taxi
+2023-08-04,Historia,Soleado,Martes,08:00,Profesor B,1,1,0,auto propio
+2023-09-25,Química,Nublado,Lunes,08:00,Profesor A,0,4,1,camión
+2023-04-07,Biología,Nublado,Miércoles,12:00,Profesor D,1,7,0,bicicleta
+2023-05-09,Química,Lluvioso,Miércoles,16:00,Profesor A,0,6,1,bicicleta
+2023-11-27,Física,Lluvioso,Jueves,12:00,Profesor B,0,2,1,bicicleta
+2023-06-21,Física,Ventoso,Miércoles,08:00,Profesor D,1,7,0,combi
+2023-12-26,Matemáticas,Ventoso,Miércoles,14:00,Profesor A,0,2,0,auto propio
+2023-05-21,Física,Lluvioso,Lunes,12:00,Profesor B,0,2,1,taxi
+2023-11-09,Física,Nublado,Lunes,16:00,Profesor A,1,9,1,camión
+2023-12-09,Física,Soleado,Lunes,08:00,Profesor D,1,9,0,camión
+2023-01-04,Matemáticas,Nublado,Miércoles,12:00,Profesor A,1,8,0,combi
+2023-08-27,Física,Lluvioso,Jueves,12:00,Profesor B,1,8,1,combi
+2023-04-21,Historia,Nublado,Miércoles,12:00,Profesor A,0,2,1,moto
+2023-05-24,Biología,Nublado,Viernes,10:00,Profesor C,0,0,1,bicicleta
+2023-05-28,Física,Ventoso,Lunes,08:00,Profesor D,1,8,1,camina
+2023-10-10,Historia,Lluvioso,Viernes,12:00,Profesor C,1,10,1,bicicleta
+2023-08-17,Física,Nublado,Miércoles,16:00,Profesor C,1,7,0,camión
+2023-09-11,Biología,Soleado,Viernes,14:00,Profesor B,1,7,0,camina
+2023-10-07,Historia,Soleado,Lunes,16:00,Profesor A,0,7,0,taxi
+2023-11-24,Física,Nublado,Lunes,08:00,Profesor C,0,0,1,auto propio
+2023-01-25,Física,Soleado,Martes,08:00,Profesor B,1,8,1,taxi
+2023-10-30,Biología,Soleado,Jueves,10:00,Profesor D,1,6,0,combi
+2023-11-28,Historia,Soleado,Miércoles,12:00,Profesor B,1,4,0,camión
+2023-10-11,Física,Lluvioso,Martes,10:00,Profesor B,1,0,1,camión
+2023-04-22,Historia,Lluvioso,Martes,12:00,Profesor C,1,7,0,taxi
+2023-02-01,Biología,Nublado,Martes,10:00,Profesor A,1,10,0,taxi
+2023-09-10,Física,Nublado,Miércoles,10:00,Profesor A,0,8,1,auto propio
+2023-02-24,Matemáticas,Ventoso,Martes,10:00,Profesor D,1,4,1,camión
+2023-02-16,Química,Ventoso,Martes,16:00,Profesor B,1,8,1,bicicleta
+2023-03-16,Matemáticas,Nublado,Lunes,14:00,Profesor C,0,8,0,combi
+2023-06-06,Física,Lluvioso,Miércoles,14:00,Profesor D,1,1,1,moto
+2023-09-06,Historia,Ventoso,Lunes,10:00,Profesor C,0,7,0,taxi
+2023-03-10,Química,Ventoso,Viernes,12:00,Profesor A,1,3,0,camión
+2023-01-06,Química,Ventoso,Jueves,10:00,Profesor B,1,9,1,camión
+2023-05-12,Historia,Soleado,Viernes,14:00,Profesor C,0,6,0,bicicleta
+2023-06-14,Historia,Nublado,Lunes,12:00,Profesor A,1,5,0,camión
+2023-07-31,Historia,Soleado,Martes,08:00,Profesor B,0,6,0,camina
+2023-08-29,Química,Lluvioso,Martes,12:00,Profesor C,0,9,0,taxi
+2023-01-12,Química,Nublado,Jueves,12:00,Profesor A,1,3,0,combi
+2023-12-06,Biología,Ventoso,Viernes,08:00,Profesor B,0,9,1,auto propio
+2023-04-28,Química,Lluvioso,Jueves,12:00,Profesor D,1,10,0,taxi
+2023-08-22,Biología,Ventoso,Martes,14:00,Profesor D,0,2,0,moto
+2023-08-07,Física,Lluvioso,Viernes,08:00,Profesor D,1,6,0,camión
+2023-09-14,Física,Lluvioso,Martes,10:00,Profesor D,1,7,1,moto
+2023-04-05,Matemáticas,Nublado,Lunes,14:00,Profesor B,1,0,1,taxi
+2023-06-30,Química,Soleado,Martes,16:00,Profesor C,0,2,1,moto
+2023-04-15,Historia,Nublado,Martes,14:00,Profesor B,1,6,1,taxi
+2023-01-01,Química,Nublado,Miércoles,08:00,Profesor D,0,9,1,combi
+2023-12-18,Física,Lluvioso,Jueves,10:00,Profesor C,1,4,1,camión
+2023-02-16,Física,Nublado,Miércoles,12:00,Profesor A,1,8,0,bicicleta
+2023-03-11,Química,Ventoso,Miércoles,12:00,Profesor B,0,5,1,taxi
+2023-10-11,Historia,Lluvioso,Viernes,14:00,Profesor A,1,3,0,taxi
+2023-02-23,Física,Nublado,Lunes,10:00,Profesor D,0,2,0,auto propio
+2023-08-29,Química,Lluvioso,Lunes,10:00,Profesor B,1,6,1,moto
+2023-08-18,Química,Lluvioso,Lunes,10:00,Profesor A,1,6,0,moto
+2023-10-19,Matemáticas,Lluvioso,Jueves,08:00,Profesor D,0,3,1,combi
+2023-03-23,Matemáticas,Ventoso,Viernes,14:00,Profesor D,0,2,1,auto propio
+2023-06-21,Biología,Nublado,Jueves,16:00,Profesor C,0,7,1,moto
+2023-10-24,Historia,Nublado,Jueves,08:00,Profesor A,0,4,0,combi
+2023-02-14,Química,Nublado,Lunes,10:00,Profesor C,1,10,0,moto
+2023-11-27,Física,Nublado,Viernes,16:00,Profesor C,0,1,0,camión
+2023-08-25,Matemáticas,Lluvioso,Martes,10:00,Profesor A,1,8,1,auto propio
+2023-05-01,Matemáticas,Lluvioso,Lunes,16:00,Profesor B,1,0,1,combi
+2023-04-20,Química,Ventoso,Miércoles,16:00,Profesor C,1,10,1,moto
+2023-09-02,Historia,Soleado,Viernes,16:00,Profesor B,0,6,1,moto
+2023-10-21,Física,Nublado,Jueves,08:00,Profesor D,0,3,1,camina
+2023-04-28,Química,Nublado,Viernes,10:00,Profesor D,0,4,0,camión
+2023-06-04,Física,Ventoso,Martes,12:00,Profesor D,1,0,0,camión
+2023-08-25,Matemáticas,Ventoso,Martes,10:00,Profesor B,0,8,0,taxi
+2023-02-02,Biología,Lluvioso,Jueves,14:00,Profesor B,1,9,0,combi
+2023-09-09,Matemáticas,Lluvioso,Lunes,16:00,Profesor B,1,0,0,moto
+2023-09-16,Historia,Ventoso,Viernes,14:00,Profesor C,1,8,1,taxi
+2023-04-23,Historia,Ventoso,Lunes,16:00,Profesor B,0,8,0,auto propio
+2023-09-22,Física,Soleado,Jueves,08:00,Profesor B,1,3,1,auto propio
+2023-06-06,Química,Ventoso,Viernes,16:00,Profesor B,1,1,1,moto
+2023-12-23,Física,Soleado,Jueves,14:00,Profesor A,1,4,0,auto propio
+2023-07-16,Química,Nublado,Miércoles,14:00,Profesor D,1,1,0,combi
+2023-12-23,Biología,Soleado,Viernes,16:00,Profesor A,1,1,1,combi
+2023-01-12,Física,Ventoso,Viernes,12:00,Profesor A,1,9,1,auto propio
+2023-02-28,Historia,Nublado,Viernes,10:00,Profesor A,1,2,0,bicicleta
+2023-06-04,Biología,Nublado,Martes,12:00,Profesor C,1,9,0,camión
+2023-09-20,Biología,Soleado,Lunes,10:00,Profesor A,0,7,1,combi
+2023-09-21,Física,Nublado,Martes,10:00,Profesor C,1,0,0,moto
+2023-10-24,Química,Nublado,Viernes,16:00,Profesor A,0,9,1,bicicleta
+2023-06-10,Física,Ventoso,Martes,12:00,Profesor B,1,8,0,taxi
+2023-07-28,Química,Ventoso,Jueves,12:00,Profesor D,1,1,1,moto
+2023-07-28,Química,Lluvioso,Jueves,14:00,Profesor C,0,3,1,combi
+2023-04-09,Física,Soleado,Lunes,16:00,Profesor A,0,1,0,taxi
+2023-12-12,Biología,Nublado,Viernes,12:00,Profesor D,0,10,0,auto propio
+2023-06-22,Física,Nublado,Jueves,08:00,Profesor C,0,3,0,auto propio
+2023-06-17,Biología,Nublado,Viernes,10:00,Profesor D,1,6,1,taxi
+2023-12-20,Física,Lluvioso,Lunes,14:00,Profesor D,0,10,0,camión
+2023-03-23,Química,Lluvioso,Lunes,10:00,Profesor C,0,8,1,camión
+2023-06-27,Física,Nublado,Lunes,12:00,Profesor A,1,10,1,camión
+2023-11-17,Matemáticas,Soleado,Viernes,14:00,Profesor A,0,2,1,bicicleta
+2023-06-05,Biología,Soleado,Martes,08:00,Profesor C,1,6,0,moto
+2023-10-10,Química,Nublado,Miércoles,14:00,Profesor A,0,9,1,combi
+2023-04-14,Física,Nublado,Viernes,08:00,Profesor C,1,9,1,moto
+2023-11-09,Historia,Lluvioso,Miércoles,10:00,Profesor D,1,8,1,bicicleta
+2023-02-19,Biología,Soleado,Martes,08:00,Profesor D,1,2,0,camión
+2023-10-18,Física,Soleado,Viernes,14:00,Profesor D,0,1,0,auto propio
+2023-05-08,Biología,Soleado,Miércoles,08:00,Profesor A,0,9,0,camina
+2023-11-30,Matemáticas,Nublado,Jueves,08:00,Profesor D,1,6,0,combi
+2023-10-04,Historia,Lluvioso,Martes,16:00,Profesor D,1,7,1,combi
+2023-09-27,Química,Ventoso,Miércoles,12:00,Profesor B,1,4,0,bicicleta
+2023-06-16,Matemáticas,Nublado,Viernes,14:00,Profesor C,1,1,0,camina
+2023-07-20,Física,Nublado,Lunes,10:00,Profesor D,1,0,1,auto propio
+2023-08-02,Historia,Soleado,Lunes,14:00,Profesor C,1,9,0,camión
+2023-08-17,Historia,Soleado,Martes,16:00,Profesor B,0,9,1,combi
+2023-07-23,Física,Nublado,Martes,10:00,Profesor A,1,8,1,moto
+2023-02-01,Física,Lluvioso,Lunes,10:00,Profesor D,0,10,1,taxi
+2023-04-19,Historia,Soleado,Jueves,08:00,Profesor C,0,2,1,moto
+2023-08-02,Biología,Ventoso,Miércoles,12:00,Profesor D,1,4,1,combi
+2023-07-05,Química,Nublado,Viernes,08:00,Profesor C,0,9,0,bicicleta
+2023-04-14,Química,Soleado,Jueves,10:00,Profesor C,0,10,1,camión
+2023-04-08,Química,Soleado,Viernes,12:00,Profesor C,0,8,1,camina
+2023-02-21,Biología,Soleado,Miércoles,12:00,Profesor A,0,8,1,moto
+2023-02-04,Matemáticas,Ventoso,Jueves,14:00,Profesor C,0,10,0,combi
+2023-07-18,Historia,Soleado,Jueves,16:00,Profesor C,1,5,0,taxi
+2023-03-09,Biología,Soleado,Viernes,12:00,Profesor C,1,9,1,moto
+2023-10-24,Química,Ventoso,Viernes,10:00,Profesor D,0,10,0,moto
+2023-11-05,Química,Lluvioso,Miércoles,14:00,Profesor B,0,6,0,combi
+2023-04-07,Biología,Nublado,Lunes,12:00,Profesor D,0,3,1,bicicleta
+2023-12-22,Biología,Soleado,Lunes,10:00,Profesor A,1,1,1,camina
+2023-02-09,Física,Lluvioso,Miércoles,12:00,Profesor A,1,9,1,combi
+2023-01-10,Física,Nublado,Lunes,12:00,Profesor A,1,10,0,bicicleta
+2023-05-29,Historia,Ventoso,Jueves,10:00,Profesor A,0,2,1,camina
+2023-02-15,Biología,Ventoso,Martes,08:00,Profesor A,1,9,1,camión
+2023-07-04,Física,Lluvioso,Lunes,12:00,Profesor A,0,9,1,moto
+2023-07-31,Matemáticas,Lluvioso,Jueves,16:00,Profesor D,1,2,1,camina
+2023-04-09,Matemáticas,Lluvioso,Lunes,14:00,Profesor C,1,7,1,taxi
+2023-03-18,Matemáticas,Lluvioso,Lunes,12:00,Profesor C,1,4,0,moto
+2023-11-21,Química,Nublado,Martes,10:00,Profesor B,1,8,0,camina
+2023-12-27,Matemáticas,Nublado,Martes,12:00,Profesor B,1,6,0,combi
+2023-10-04,Biología,Ventoso,Martes,12:00,Profesor B,1,3,1,bicicleta
+2023-05-20,Historia,Soleado,Martes,16:00,Profesor B,1,0,1,camina
+2023-04-09,Matemáticas,Lluvioso,Martes,12:00,Profesor A,1,2,1,taxi
+2023-09-09,Química,Ventoso,Martes,12:00,Profesor A,1,2,0,moto
+2023-04-03,Química,Ventoso,Viernes,08:00,Profesor C,0,3,0,taxi
+2023-08-27,Historia,Lluvioso,Martes,14:00,Profesor C,1,9,0,bicicleta
+2023-12-28,Química,Ventoso,Jueves,16:00,Profesor B,1,1,1,camión
+2023-12-21,Matemáticas,Lluvioso,Miércoles,10:00,Profesor B,1,10,0,moto
+2023-05-24,Historia,Nublado,Martes,16:00,Profesor D,1,6,1,taxi
+2023-09-12,Física,Lluvioso,Jueves,12:00,Profesor D,1,7,0,bicicleta
+2023-11-07,Química,Ventoso,Viernes,12:00,Profesor C,0,5,1,camión
+2023-09-01,Biología,Soleado,Jueves,12:00,Profesor D,0,4,1,bicicleta
+2023-08-11,Matemáticas,Lluvioso,Martes,10:00,Profesor D,1,9,1,taxi
+2023-01-28,Química,Soleado,Lunes,08:00,Profesor B,1,2,0,bicicleta
+2023-03-14,Matemáticas,Ventoso,Martes,10:00,Profesor B,0,0,1,bicicleta
+2023-06-19,Matemáticas,Nublado,Viernes,08:00,Profesor C,1,9,0,moto
+2023-10-04,Matemáticas,Ventoso,Martes,16:00,Profesor A,1,4,1,camión
+2023-01-15,Historia,Ventoso,Jueves,12:00,Profesor C,0,2,0,camión
+2023-11-30,Física,Nublado,Martes,16:00,Profesor A,1,0,0,combi
+2023-10-10,Matemáticas,Lluvioso,Jueves,08:00,Profesor D,0,5,0,auto propio
+2023-03-07,Historia,Soleado,Miércoles,10:00,Profesor B,1,6,1,camina
+2023-08-30,Biología,Lluvioso,Jueves,14:00,Profesor A,1,9,0,camina
+2023-12-04,Matemáticas,Nublado,Miércoles,12:00,Profesor B,0,9,0,combi
+2023-05-21,Historia,Nublado,Lunes,14:00,Profesor D,0,6,0,auto propio
+2023-03-03,Física,Ventoso,Jueves,08:00,Profesor A,1,9,0,bicicleta
+2023-07-25,Química,Nublado,Lunes,16:00,Profesor B,1,7,1,auto propio
+2023-11-09,Física,Lluvioso,Lunes,12:00,Profesor B,0,4,1,combi
+2023-07-09,Química,Nublado,Miércoles,12:00,Profesor C,1,7,0,camina
+2023-03-14,Biología,Nublado,Lunes,10:00,Profesor B,0,1,1,taxi
+2023-01-03,Física,Nublado,Lunes,08:00,Profesor A,0,4,1,camión
+2023-09-21,Física,Ventoso,Viernes,10:00,Profesor A,0,3,1,bicicleta
+2023-03-04,Historia,Lluvioso,Jueves,08:00,Profesor D,1,2,1,auto propio
+2023-02-04,Biología,Nublado,Lunes,12:00,Profesor D,1,0,0,taxi
+2023-07-19,Matemáticas,Nublado,Miércoles,12:00,Profesor C,0,10,0,auto propio
+2023-02-17,Matemáticas,Nublado,Lunes,10:00,Profesor A,1,3,1,auto propio
+2023-04-01,Química,Nublado,Viernes,12:00,Profesor B,1,9,0,bicicleta
+2023-12-22,Matemáticas,Nublado,Lunes,12:00,Profesor A,0,1,0,camión
+2023-01-03,Biología,Ventoso,Lunes,08:00,Profesor C,1,3,1,camina
+2023-12-22,Matemáticas,Soleado,Miércoles,14:00,Profesor D,1,10,1,camión
+2023-04-12,Historia,Nublado,Jueves,14:00,Profesor A,0,8,1,auto propio
+2023-07-04,Historia,Ventoso,Viernes,14:00,Profesor C,0,3,0,taxi
+2023-07-23,Historia,Nublado,Viernes,14:00,Profesor C,1,3,1,auto propio
+2023-02-08,Historia,Ventoso,Martes,10:00,Profesor D,1,3,0,camión
+2023-12-04,Química,Ventoso,Miércoles,14:00,Profesor A,0,2,1,camina
+2023-05-28,Biología,Ventoso,Miércoles,14:00,Profesor A,1,5,1,taxi
+2023-02-19,Matemáticas,Soleado,Martes,08:00,Profesor D,0,0,0,bicicleta
+2023-07-28,Matemáticas,Lluvioso,Viernes,14:00,Profesor D,0,10,0,moto
+2023-10-07,Física,Lluvioso,Martes,14:00,Profesor A,0,10,0,auto propio
+2023-01-12,Biología,Nublado,Jueves,08:00,Profesor D,0,0,1,combi
+2023-11-18,Química,Nublado,Miércoles,12:00,Profesor B,0,7,0,camina
+2023-02-04,Química,Lluvioso,Jueves,16:00,Profesor A,1,6,1,taxi
+2023-12-27,Biología,Nublado,Lunes,14:00,Profesor A,1,5,1,bicicleta
+2023-11-04,Química,Lluvioso,Viernes,08:00,Profesor A,0,2,1,camión
+2023-03-18,Química,Soleado,Viernes,08:00,Profesor D,0,4,1,taxi
+2023-09-29,Biología,Nublado,Martes,14:00,Profesor A,1,7,0,auto propio
+2023-07-06,Física,Lluvioso,Miércoles,16:00,Profesor A,0,9,0,taxi
+2023-09-11,Biología,Soleado,Martes,08:00,Profesor D,0,7,1,moto
+2023-01-22,Química,Lluvioso,Viernes,10:00,Profesor B,0,5,1,auto propio
+2023-02-14,Química,Ventoso,Viernes,10:00,Profesor A,1,6,0,bicicleta
+2023-08-13,Historia,Lluvioso,Viernes,08:00,Profesor B,1,2,0,moto
+2023-09-22,Química,Soleado,Lunes,10:00,Profesor C,0,8,1,bicicleta
+2023-08-01,Química,Ventoso,Jueves,14:00,Profesor B,1,9,0,auto propio
+2023-09-16,Química,Ventoso,Lunes,12:00,Profesor B,0,9,1,moto
+2023-02-08,Química,Soleado,Martes,16:00,Profesor B,0,1,0,auto propio
+2023-11-12,Física,Nublado,Miércoles,08:00,Profesor C,1,3,1,auto propio
+2023-11-25,Química,Ventoso,Martes,16:00,Profesor A,0,1,0,taxi
+2023-08-25,Matemáticas,Soleado,Miércoles,10:00,Profesor B,1,9,1,bicicleta
+2023-10-27,Historia,Nublado,Jueves,08:00,Profesor D,0,1,1,auto propio
+2023-04-16,Biología,Nublado,Lunes,08:00,Profesor C,1,4,0,combi
+2023-08-23,Biología,Lluvioso,Lunes,16:00,Profesor A,1,0,1,camina
+2023-05-20,Física,Soleado,Martes,16:00,Profesor A,0,7,0,bicicleta
+2023-12-06,Química,Nublado,Miércoles,16:00,Profesor D,0,1,1,auto propio
+2023-04-14,Química,Lluvioso,Martes,10:00,Profesor D,0,1,1,auto propio
+2023-07-04,Historia,Soleado,Viernes,08:00,Profesor D,0,8,0,camina
+2023-01-04,Historia,Lluvioso,Jueves,12:00,Profesor B,1,1,0,taxi
+2023-08-18,Química,Ventoso,Martes,14:00,Profesor B,1,0,0,camina
+2023-02-27,Historia,Ventoso,Miércoles,10:00,Profesor C,0,8,1,taxi
+2023-07-20,Biología,Ventoso,Jueves,10:00,Profesor C,1,4,1,combi
+2023-08-16,Biología,Lluvioso,Martes,14:00,Profesor B,0,1,1,bicicleta
+2023-08-30,Biología,Lluvioso,Lunes,10:00,Profesor B,0,0,0,combi
+2023-08-05,Biología,Ventoso,Miércoles,10:00,Profesor C,0,8,0,camina
+2023-06-19,Matemáticas,Soleado,Jueves,12:00,Profesor A,0,5,1,combi
+2023-11-14,Química,Soleado,Viernes,10:00,Profesor C,0,6,1,bicicleta
+2023-09-10,Biología,Lluvioso,Lunes,16:00,Profesor C,1,6,0,camina
+2023-09-25,Química,Lluvioso,Viernes,16:00,Profesor C,1,5,0,camina
+2023-11-11,Química,Soleado,Jueves,08:00,Profesor C,0,9,1,camión
+2023-09-18,Biología,Nublado,Lunes,16:00,Profesor A,1,3,0,moto
+2023-10-30,Biología,Nublado,Viernes,08:00,Profesor B,0,7,0,taxi
+2023-03-20,Física,Ventoso,Lunes,10:00,Profesor A,0,7,0,auto propio
+2023-08-10,Biología,Nublado,Martes,08:00,Profesor A,0,6,0,taxi
+2023-10-16,Biología,Lluvioso,Jueves,16:00,Profesor B,1,6,1,bicicleta
+2023-10-12,Química,Nublado,Lunes,08:00,Profesor B,1,4,1,bicicleta
+2023-02-19,Química,Ventoso,Jueves,14:00,Profesor A,1,3,0,camión
+2023-01-18,Historia,Lluvioso,Viernes,12:00,Profesor B,0,5,0,combi
+2023-03-30,Biología,Lluvioso,Miércoles,08:00,Profesor B,1,6,1,combi
+2023-10-11,Historia,Soleado,Viernes,08:00,Profesor C,0,9,1,bicicleta
+2023-02-07,Historia,Lluvioso,Jueves,16:00,Profesor C,0,1,0,moto
+2023-05-04,Física,Lluvioso,Viernes,16:00,Profesor D,1,10,0,taxi
+2023-05-04,Historia,Soleado,Miércoles,08:00,Profesor B,0,4,1,auto propio
+2023-10-28,Historia,Ventoso,Miércoles,14:00,Profesor D,1,1,0,moto
+2023-07-06,Física,Nublado,Martes,08:00,Profesor D,0,9,1,camina
+2023-07-23,Historia,Soleado,Jueves,14:00,Profesor A,1,6,0,taxi
+2023-09-08,Química,Lluvioso,Miércoles,08:00,Profesor D,0,3,0,combi
+2023-05-10,Química,Soleado,Lunes,10:00,Profesor D,0,2,0,moto
+2023-05-12,Historia,Ventoso,Lunes,14:00,Profesor D,1,1,0,moto
+2023-04-06,Biología,Ventoso,Viernes,14:00,Profesor D,0,8,1,camión
+2023-02-12,Química,Lluvioso,Lunes,14:00,Profesor C,1,1,0,bicicleta
+2023-07-11,Física,Soleado,Miércoles,10:00,Profesor B,0,6,1,taxi
+2023-02-17,Matemáticas,Soleado,Lunes,14:00,Profesor D,1,8,1,taxi
+2023-12-27,Matemáticas,Soleado,Lunes,08:00,Profesor D,0,4,0,camina
+2023-05-21,Química,Soleado,Jueves,08:00,Profesor A,0,4,1,taxi
+2023-06-01,Física,Lluvioso,Martes,08:00,Profesor C,0,4,0,camión
+2023-05-26,Historia,Soleado,Miércoles,08:00,Profesor D,1,6,0,combi
+2023-01-06,Biología,Ventoso,Jueves,14:00,Profesor C,1,4,0,moto
+2023-03-17,Matemáticas,Nublado,Miércoles,16:00,Profesor A,0,2,0,combi
+2023-07-24,Matemáticas,Ventoso,Lunes,16:00,Profesor D,1,7,0,combi
+2023-07-06,Matemáticas,Lluvioso,Jueves,08:00,Profesor A,0,0,0,combi
+2023-11-23,Historia,Nublado,Martes,12:00,Profesor C,1,2,0,camión
+2023-09-17,Biología,Nublado,Miércoles,14:00,Profesor C,1,5,1,camión
+2023-04-18,Historia,Nublado,Martes,08:00,Profesor A,0,1,0,camina
+2023-10-29,Historia,Soleado,Martes,12:00,Profesor C,1,4,1,bicicleta
+2023-07-23,Química,Ventoso,Miércoles,12:00,Profesor A,0,7,1,moto
+2023-02-02,Matemáticas,Soleado,Lunes,16:00,Profesor B,0,2,0,auto propio
+2023-09-14,Física,Lluvioso,Martes,16:00,Profesor B,1,4,1,moto
+2023-11-26,Historia,Nublado,Viernes,12:00,Profesor B,1,7,0,camión
+2023-01-25,Historia,Ventoso,Lunes,14:00,Profesor D,0,4,1,auto propio
+2023-02-26,Biología,Lluvioso,Jueves,12:00,Profesor D,0,2,0,combi
+2023-05-19,Matemáticas,Lluvioso,Miércoles,12:00,Profesor D,1,3,0,bicicleta
+2023-03-26,Química,Soleado,Jueves,12:00,Profesor B,0,5,0,combi
+2023-04-10,Física,Soleado,Viernes,08:00,Profesor B,1,3,0,camión
+2023-08-30,Biología,Lluvioso,Viernes,08:00,Profesor D,1,0,0,bicicleta
+2023-09-15,Física,Lluvioso,Jueves,14:00,Profesor D,1,7,1,camión
+2023-05-30,Química,Lluvioso,Viernes,14:00,Profesor C,1,6,0,taxi
+2023-04-08,Química,Nublado,Lunes,08:00,Profesor B,0,6,1,bicicleta
+2023-06-21,Física,Nublado,Martes,14:00,Profesor B,1,6,0,taxi
+2023-05-04,Historia,Ventoso,Jueves,16:00,Profesor A,1,5,0,auto propio
+2023-05-27,Matemáticas,Soleado,Viernes,14:00,Profesor C,0,10,0,combi
+2023-02-16,Física,Nublado,Lunes,08:00,Profesor B,0,1,0,camión
+2023-10-06,Matemáticas,Ventoso,Martes,14:00,Profesor A,0,10,0,combi
+2023-11-29,Historia,Lluvioso,Jueves,14:00,Profesor D,0,10,1,auto propio
+2023-04-27,Biología,Soleado,Viernes,14:00,Profesor A,0,9,0,taxi
+2023-03-02,Biología,Ventoso,Viernes,14:00,Profesor A,1,7,1,moto
+2023-05-06,Matemáticas,Nublado,Martes,10:00,Profesor B,1,10,0,bicicleta
+2023-05-12,Historia,Nublado,Miércoles,12:00,Profesor B,0,9,0,bicicleta
+2023-01-14,Física,Ventoso,Miércoles,08:00,Profesor A,0,2,0,bicicleta
+2023-12-12,Química,Nublado,Jueves,12:00,Profesor A,0,3,1,camina
+2023-12-28,Química,Ventoso,Martes,16:00,Profesor A,1,2,0,auto propio
+2023-01-30,Biología,Soleado,Viernes,14:00,Profesor A,0,7,1,taxi
+2023-04-28,Matemáticas,Lluvioso,Jueves,12:00,Profesor A,1,5,0,camina
+2023-11-25,Historia,Ventoso,Martes,10:00,Profesor D,1,10,0,taxi
+2023-04-17,Biología,Ventoso,Jueves,16:00,Profesor A,0,5,0,camión
+2023-12-29,Biología,Nublado,Martes,16:00,Profesor C,0,0,0,combi
+2023-01-28,Física,Nublado,Miércoles,10:00,Profesor B,1,8,1,camina
+2023-02-28,Matemáticas,Ventoso,Lunes,10:00,Profesor D,1,6,0,auto propio
+2023-02-08,Matemáticas,Lluvioso,Martes,14:00,Profesor A,0,8,0,taxi
+2023-03-22,Química,Nublado,Lunes,12:00,Profesor A,1,1,0,combi
+2023-02-28,Química,Lluvioso,Jueves,14:00,Profesor A,1,7,0,camión
+2023-12-26,Física,Soleado,Lunes,10:00,Profesor B,1,2,0,auto propio
+2023-09-27,Historia,Soleado,Jueves,12:00,Profesor C,1,6,1,camina
+2023-01-27,Historia,Soleado,Martes,12:00,Profesor A,1,2,1,camión
+2023-07-20,Matemáticas,Soleado,Martes,14:00,Profesor A,0,2,1,camina
+2023-01-18,Matemáticas,Soleado,Lunes,16:00,Profesor A,1,8,1,combi
+2023-07-12,Historia,Nublado,Martes,14:00,Profesor C,0,2,0,bicicleta
+2023-10-30,Física,Nublado,Miércoles,12:00,Profesor C,1,8,0,camión
+2023-03-07,Historia,Nublado,Lunes,08:00,Profesor C,1,5,1,camión
+2023-04-26,Química,Nublado,Martes,14:00,Profesor A,0,2,0,moto
+2023-01-24,Historia,Ventoso,Lunes,08:00,Profesor A,0,5,0,moto
+2023-08-07,Biología,Nublado,Jueves,08:00,Profesor B,0,3,0,auto propio
+2023-12-22,Historia,Lluvioso,Martes,08:00,Profesor A,0,1,0,bicicleta
+2023-02-07,Química,Soleado,Viernes,14:00,Profesor D,0,9,0,bicicleta
+2023-06-24,Matemáticas,Ventoso,Lunes,14:00,Profesor D,0,0,0,bicicleta
+2023-05-30,Historia,Soleado,Lunes,16:00,Profesor A,1,0,0,combi
+2023-11-22,Biología,Lluvioso,Martes,08:00,Profesor C,0,4,1,bicicleta
+2023-11-14,Biología,Lluvioso,Martes,14:00,Profesor A,1,9,0,auto propio
+2023-12-05,Biología,Ventoso,Jueves,08:00,Profesor C,1,10,1,moto
+2023-09-11,Historia,Soleado,Jueves,16:00,Profesor B,1,6,1,auto propio
+2023-05-21,Biología,Soleado,Viernes,12:00,Profesor C,0,2,1,camina
+2023-03-19,Química,Soleado,Lunes,12:00,Profesor A,0,4,0,camión
+2023-09-30,Biología,Nublado,Miércoles,10:00,Profesor D,0,6,0,combi
+2023-03-29,Química,Soleado,Lunes,14:00,Profesor A,1,8,1,taxi
+2023-05-31,Matemáticas,Ventoso,Viernes,14:00,Profesor D,0,6,1,taxi
+2023-09-01,Biología,Lluvioso,Viernes,08:00,Profesor C,0,7,0,combi
+2023-04-05,Biología,Ventoso,Viernes,14:00,Profesor B,1,9,1,combi
+2023-05-07,Química,Nublado,Miércoles,08:00,Profesor C,1,7,0,moto
+2023-02-26,Matemáticas,Lluvioso,Martes,12:00,Profesor B,1,3,1,moto
+2023-01-26,Matemáticas,Ventoso,Lunes,10:00,Profesor D,0,10,1,auto propio
+2023-10-30,Biología,Soleado,Lunes,14:00,Profesor A,0,4,1,camión
+2023-03-07,Historia,Lluvioso,Jueves,10:00,Profesor A,1,4,0,taxi
+2023-02-22,Biología,Nublado,Martes,12:00,Profesor D,0,9,0,moto
+2023-09-17,Historia,Nublado,Viernes,16:00,Profesor D,1,0,1,auto propio
+2023-03-15,Matemáticas,Ventoso,Viernes,16:00,Profesor D,0,6,1,combi
+2023-03-28,Biología,Ventoso,Viernes,16:00,Profesor A,1,4,1,camión
+2023-03-04,Matemáticas,Soleado,Viernes,14:00,Profesor D,1,1,0,taxi
+2023-09-02,Biología,Soleado,Lunes,10:00,Profesor D,1,0,1,taxi
+2023-04-11,Historia,Soleado,Martes,16:00,Profesor C,0,8,1,combi
+2023-04-08,Matemáticas,Ventoso,Miércoles,16:00,Profesor D,0,0,1,moto
+2023-01-13,Biología,Ventoso,Jueves,08:00,Profesor B,0,7,0,camina
+2023-04-04,Historia,Nublado,Martes,16:00,Profesor B,0,0,1,camión
+2023-09-11,Historia,Ventoso,Jueves,14:00,Profesor D,1,9,1,camión
+2023-07-14,Matemáticas,Ventoso,Lunes,12:00,Profesor D,1,5,0,taxi
+2023-10-23,Historia,Nublado,Lunes,16:00,Profesor D,0,8,0,taxi
+2023-01-27,Biología,Nublado,Miércoles,16:00,Profesor D,1,1,1,camina
+2023-03-18,Biología,Lluvioso,Lunes,16:00,Profesor B,0,9,1,auto propio
+2023-05-08,Historia,Lluvioso,Martes,14:00,Profesor D,0,5,0,camión
+2023-02-19,Historia,Nublado,Lunes,10:00,Profesor D,0,4,0,moto
+2023-09-28,Física,Nublado,Viernes,14:00,Profesor D,1,7,0,auto propio
+2023-08-04,Física,Nublado,Jueves,08:00,Profesor A,1,10,0,camión
+2023-10-31,Historia,Nublado,Martes,10:00,Profesor C,1,2,1,combi
+2023-09-22,Física,Soleado,Miércoles,12:00,Profesor A,0,7,1,combi
+2023-11-09,Biología,Lluvioso,Miércoles,14:00,Profesor C,0,7,1,combi
+2023-11-10,Física,Ventoso,Lunes,14:00,Profesor D,0,4,0,camión
+2023-10-13,Física,Lluvioso,Martes,16:00,Profesor B,0,10,0,moto
+2023-10-03,Matemáticas,Soleado,Viernes,16:00,Profesor B,1,1,0,bicicleta
+2023-06-16,Historia,Soleado,Jueves,16:00,Profesor B,1,9,0,auto propio
+2023-07-18,Historia,Soleado,Lunes,14:00,Profesor C,1,2,1,camión
+2023-07-31,Química,Lluvioso,Lunes,14:00,Profesor A,0,5,0,combi
+2023-03-11,Física,Ventoso,Jueves,08:00,Profesor A,0,10,1,camión
+2023-04-01,Historia,Nublado,Jueves,12:00,Profesor C,1,2,1,moto
+2023-01-26,Matemáticas,Nublado,Lunes,16:00,Profesor D,0,6,1,combi
+2023-08-19,Biología,Lluvioso,Miércoles,08:00,Profesor D,1,9,0,camión
+2023-11-05,Química,Nublado,Lunes,08:00,Profesor B,1,8,1,taxi
+2023-08-18,Química,Ventoso,Jueves,10:00,Profesor D,0,2,1,camina
+2023-05-29,Biología,Ventoso,Martes,14:00,Profesor A,0,7,1,combi
+2023-10-14,Química,Lluvioso,Lunes,16:00,Profesor A,0,5,0,camina
+2023-09-10,Biología,Soleado,Miércoles,12:00,Profesor D,0,0,0,auto propio
+2023-11-21,Historia,Ventoso,Miércoles,12:00,Profesor B,1,9,0,camina
+2023-03-14,Biología,Lluvioso,Viernes,14:00,Profesor C,1,2,1,camión
+2023-08-24,Matemáticas,Soleado,Martes,12:00,Profesor A,1,6,1,camión
+2023-03-24,Biología,Soleado,Martes,12:00,Profesor C,1,8,1,camina
+2023-10-26,Matemáticas,Ventoso,Viernes,14:00,Profesor C,0,5,0,auto propio
+2023-05-26,Historia,Soleado,Miércoles,10:00,Profesor C,0,1,0,camión
+2023-09-20,Física,Ventoso,Viernes,12:00,Profesor A,1,3,1,taxi
+2023-03-06,Física,Ventoso,Martes,08:00,Profesor A,1,6,1,combi
+2023-11-11,Historia,Soleado,Miércoles,08:00,Profesor A,0,5,1,camión
+2023-06-05,Física,Ventoso,Lunes,10:00,Profesor B,0,9,0,camina
+2023-12-06,Química,Lluvioso,Viernes,08:00,Profesor C,0,3,1,camina
+2023-12-04,Química,Lluvioso,Martes,12:00,Profesor C,1,4,0,camina
+2023-06-15,Historia,Lluvioso,Viernes,10:00,Profesor D,1,5,1,camina
+2023-11-29,Historia,Soleado,Viernes,08:00,Profesor A,0,4,1,moto
+2023-12-06,Biología,Lluvioso,Lunes,08:00,Profesor D,0,0,1,combi
+2023-12-18,Biología,Soleado,Miércoles,08:00,Profesor C,1,1,1,camina
+2023-05-20,Historia,Lluvioso,Lunes,16:00,Profesor B,1,2,1,camina
+2023-07-16,Historia,Nublado,Martes,16:00,Profesor D,0,9,1,taxi
+2023-06-10,Física,Soleado,Martes,08:00,Profesor C,1,2,1,camina
+2023-09-06,Matemáticas,Lluvioso,Viernes,16:00,Profesor B,1,4,0,bicicleta
+2023-02-23,Biología,Lluvioso,Miércoles,10:00,Profesor D,0,5,1,moto
+2023-07-15,Matemáticas,Soleado,Miércoles,14:00,Profesor A,1,6,0,camión
+2023-08-24,Biología,Soleado,Martes,12:00,Profesor A,0,1,0,moto
+2023-10-18,Química,Soleado,Lunes,16:00,Profesor D,0,7,1,auto propio
+2023-02-12,Biología,Nublado,Miércoles,16:00,Profesor C,0,2,1,bicicleta
+2023-04-22,Biología,Soleado,Lunes,10:00,Profesor B,0,9,1,moto
+2023-06-14,Matemáticas,Nublado,Miércoles,12:00,Profesor D,1,1,1,camión
+2023-12-04,Biología,Nublado,Martes,12:00,Profesor D,0,8,1,combi
+2023-05-23,Matemáticas,Nublado,Martes,08:00,Profesor A,0,8,1,taxi
+2023-06-30,Matemáticas,Nublado,Jueves,12:00,Profesor A,0,2,1,auto propio
+2023-04-03,Matemáticas,Nublado,Martes,12:00,Profesor D,0,2,0,combi
+2023-10-30,Matemáticas,Nublado,Lunes,10:00,Profesor C,0,0,1,bicicleta
+2023-01-27,Matemáticas,Nublado,Viernes,08:00,Profesor B,0,7,1,auto propio
+2023-10-16,Biología,Nublado,Martes,14:00,Profesor B,0,5,0,bicicleta
+2023-02-20,Historia,Soleado,Lunes,10:00,Profesor D,0,9,1,moto
+2023-04-24,Biología,Soleado,Lunes,12:00,Profesor C,1,1,1,auto propio
+2023-09-03,Física,Ventoso,Jueves,10:00,Profesor B,1,7,0,taxi
+2023-07-29,Física,Nublado,Jueves,12:00,Profesor C,0,2,1,combi
+2023-04-20,Física,Ventoso,Jueves,10:00,Profesor B,1,3,1,taxi
+2023-12-14,Física,Lluvioso,Jueves,10:00,Profesor D,0,9,0,taxi
+2023-11-28,Historia,Lluvioso,Lunes,08:00,Profesor C,0,3,0,taxi
+2023-05-13,Biología,Soleado,Viernes,12:00,Profesor C,0,0,0,combi
+2023-07-20,Matemáticas,Lluvioso,Jueves,12:00,Profesor A,0,3,0,camina
+2023-03-09,Química,Lluvioso,Martes,12:00,Profesor D,1,9,0,camión
+2023-12-26,Física,Ventoso,Jueves,10:00,Profesor A,1,7,0,combi
+2023-05-26,Química,Nublado,Miércoles,08:00,Profesor B,1,3,1,bicicleta
+2023-10-15,Matemáticas,Soleado,Jueves,08:00,Profesor C,0,10,1,camión
+2023-11-18,Química,Soleado,Miércoles,14:00,Profesor D,1,1,0,taxi
+2023-08-14,Física,Lluvioso,Martes,14:00,Profesor A,0,5,1,auto propio
+2023-06-06,Historia,Soleado,Lunes,08:00,Profesor D,1,9,1,auto propio
+2023-08-04,Química,Ventoso,Martes,16:00,Profesor A,0,0,0,bicicleta
+2023-07-13,Química,Ventoso,Viernes,10:00,Profesor A,0,7,1,camión
+2023-01-25,Química,Nublado,Jueves,14:00,Profesor D,0,9,0,camina
+2023-02-16,Biología,Nublado,Martes,10:00,Profesor A,1,6,1,combi
+2023-09-28,Historia,Nublado,Lunes,10:00,Profesor A,1,8,0,camión
+2023-08-20,Física,Soleado,Jueves,12:00,Profesor C,1,3,1,auto propio
+2023-11-09,Química,Nublado,Lunes,08:00,Profesor A,0,1,1,camina
+2023-08-27,Biología,Ventoso,Viernes,08:00,Profesor A,1,9,1,camión
+2023-02-02,Biología,Soleado,Martes,14:00,Profesor C,0,9,0,taxi
+2023-02-20,Biología,Ventoso,Lunes,16:00,Profesor C,1,4,0,camión
+2023-11-29,Biología,Ventoso,Lunes,16:00,Profesor B,0,2,1,camión
+2023-05-14,Matemáticas,Ventoso,Miércoles,16:00,Profesor C,0,8,1,auto propio
+2023-08-27,Biología,Lluvioso,Martes,08:00,Profesor B,1,10,0,moto
+2023-05-11,Biología,Soleado,Lunes,16:00,Profesor A,1,10,1,moto
+2023-09-23,Química,Ventoso,Martes,14:00,Profesor A,0,8,1,moto
+2023-11-10,Biología,Ventoso,Miércoles,08:00,Profesor A,1,6,0,combi
+2023-04-03,Historia,Nublado,Jueves,14:00,Profesor C,1,4,1,auto propio
+2023-09-08,Química,Ventoso,Martes,14:00,Profesor C,0,7,1,camión
+2023-08-31,Historia,Nublado,Martes,08:00,Profesor D,0,8,0,taxi
+2023-11-15,Química,Nublado,Miércoles,12:00,Profesor D,0,4,1,bicicleta
+2023-04-17,Química,Soleado,Viernes,16:00,Profesor A,1,5,0,moto
+2023-01-05,Física,Lluvioso,Martes,14:00,Profesor D,0,5,1,auto propio
+2023-01-12,Física,Nublado,Martes,16:00,Profesor A,0,2,1,bicicleta
+2023-01-05,Física,Nublado,Miércoles,12:00,Profesor D,1,4,0,auto propio
+2023-12-19,Matemáticas,Nublado,Martes,10:00,Profesor A,1,3,1,taxi
+2023-11-27,Física,Nublado,Viernes,10:00,Profesor A,1,9,1,camión
+2023-06-05,Física,Lluvioso,Martes,14:00,Profesor D,0,9,1,moto
+2023-04-16,Matemáticas,Ventoso,Viernes,16:00,Profesor D,1,10,1,camión
+2023-09-26,Física,Soleado,Lunes,08:00,Profesor C,0,2,1,bicicleta
+2023-01-17,Matemáticas,Nublado,Lunes,16:00,Profesor A,1,4,1,auto propio
+2023-12-27,Matemáticas,Ventoso,Jueves,14:00,Profesor C,1,8,0,auto propio
+2023-07-15,Biología,Ventoso,Martes,12:00,Profesor A,0,9,0,bicicleta
+2023-11-03,Química,Soleado,Martes,12:00,Profesor A,0,5,1,taxi
+2023-06-24,Historia,Nublado,Miércoles,14:00,Profesor A,0,9,0,taxi
+2023-05-16,Química,Lluvioso,Martes,12:00,Profesor C,0,8,1,combi
+2023-07-27,Química,Lluvioso,Miércoles,16:00,Profesor D,1,1,1,moto
+2023-08-18,Biología,Soleado,Viernes,12:00,Profesor B,1,7,0,combi
+2023-12-09,Física,Soleado,Martes,16:00,Profesor A,0,2,0,bicicleta
+2023-04-28,Química,Nublado,Miércoles,12:00,Profesor C,1,2,1,bicicleta
+2023-01-26,Química,Ventoso,Lunes,14:00,Profesor B,0,2,0,moto
+2023-08-15,Química,Lluvioso,Jueves,14:00,Profesor A,1,2,1,bicicleta
+2023-06-10,Física,Soleado,Jueves,16:00,Profesor C,0,8,1,bicicleta
+2023-03-25,Biología,Soleado,Lunes,08:00,Profesor A,1,6,1,camión
+2023-11-10,Matemáticas,Ventoso,Martes,14:00,Profesor C,1,8,0,bicicleta
+2023-06-08,Matemáticas,Lluvioso,Lunes,14:00,Profesor C,1,7,1,camión
+2023-02-22,Física,Soleado,Miércoles,08:00,Profesor A,0,7,0,moto
+2023-09-30,Biología,Soleado,Jueves,12:00,Profesor C,0,7,1,taxi
+2023-11-15,Matemáticas,Soleado,Lunes,16:00,Profesor A,0,9,1,combi
+2023-02-23,Biología,Ventoso,Viernes,14:00,Profesor D,0,5,1,combi
+2023-08-30,Biología,Nublado,Jueves,08:00,Profesor D,0,10,1,moto
+2023-05-18,Física,Ventoso,Lunes,14:00,Profesor D,1,4,0,moto
+2023-07-19,Historia,Nublado,Miércoles,08:00,Profesor D,0,5,1,moto
+2023-01-14,Matemáticas,Nublado,Lunes,12:00,Profesor C,1,2,0,bicicleta
+2023-04-21,Matemáticas,Nublado,Viernes,10:00,Profesor A,1,7,0,camión
+2023-01-03,Matemáticas,Nublado,Miércoles,08:00,Profesor B,0,4,0,auto propio
+2023-11-01,Biología,Ventoso,Jueves,14:00,Profesor D,1,3,0,taxi
+2023-05-31,Historia,Nublado,Miércoles,12:00,Profesor B,0,5,0,camina
+2023-10-12,Química,Nublado,Martes,12:00,Profesor A,1,2,0,camina
+2023-05-14,Química,Nublado,Viernes,14:00,Profesor C,1,10,1,camión
+2023-06-19,Historia,Nublado,Martes,14:00,Profesor D,0,2,1,auto propio
+2023-01-25,Matemáticas,Lluvioso,Lunes,08:00,Profesor A,0,4,0,moto
+2023-04-21,Química,Lluvioso,Jueves,14:00,Profesor C,1,4,0,bicicleta
+2023-06-09,Química,Nublado,Miércoles,14:00,Profesor C,0,0,1,combi
+2023-11-05,Física,Nublado,Lunes,10:00,Profesor D,0,7,1,camión
+2023-07-22,Química,Nublado,Lunes,12:00,Profesor B,0,9,0,camión
+2023-12-11,Historia,Lluvioso,Viernes,12:00,Profesor D,1,0,1,taxi
+2023-02-25,Biología,Nublado,Martes,16:00,Profesor C,1,7,1,camión
+2023-11-09,Matemáticas,Nublado,Viernes,16:00,Profesor C,1,0,0,camión
+2023-08-23,Física,Soleado,Jueves,08:00,Profesor A,1,9,0,combi
+2023-02-26,Física,Soleado,Martes,14:00,Profesor C,0,3,1,camina
+2023-12-30,Biología,Nublado,Lunes,12:00,Profesor C,0,3,0,taxi
+2023-08-12,Historia,Soleado,Miércoles,14:00,Profesor A,1,1,1,auto propio
+2023-05-01,Biología,Lluvioso,Lunes,10:00,Profesor D,1,6,1,combi
+2023-10-29,Biología,Soleado,Viernes,08:00,Profesor A,1,4,1,auto propio
+2023-12-05,Física,Nublado,Viernes,08:00,Profesor A,1,3,1,bicicleta
+2023-09-05,Química,Nublado,Jueves,08:00,Profesor A,0,5,1,camina
+2023-03-04,Historia,Nublado,Lunes,10:00,Profesor C,0,4,1,auto propio
+2023-12-21,Física,Nublado,Martes,12:00,Profesor A,0,4,1,camión
+2023-08-01,Biología,Lluvioso,Martes,14:00,Profesor A,1,2,0,bicicleta
+2023-11-29,Historia,Ventoso,Viernes,10:00,Profesor B,1,8,0,taxi
+2023-03-10,Historia,Ventoso,Miércoles,08:00,Profesor B,0,4,1,camión
+2023-08-28,Biología,Nublado,Lunes,16:00,Profesor A,0,3,1,auto propio
+2023-06-29,Biología,Ventoso,Jueves,16:00,Profesor A,1,5,1,moto
+2023-05-19,Matemáticas,Soleado,Miércoles,16:00,Profesor D,0,2,1,camión
+2023-11-24,Física,Lluvioso,Viernes,16:00,Profesor B,1,5,0,moto
+2023-10-01,Química,Nublado,Lunes,14:00,Profesor B,0,6,0,camina
+2023-07-30,Biología,Ventoso,Miércoles,16:00,Profesor B,1,6,1,taxi
+2023-12-13,Química,Nublado,Viernes,16:00,Profesor A,0,2,1,taxi
+2023-05-30,Física,Nublado,Jueves,14:00,Profesor A,0,3,0,auto propio
+2023-02-15,Historia,Soleado,Miércoles,14:00,Profesor D,1,6,1,combi
+2023-01-07,Matemáticas,Nublado,Jueves,12:00,Profesor A,0,5,1,taxi
+2023-04-05,Historia,Nublado,Miércoles,16:00,Profesor D,0,8,1,camión
+2023-04-15,Matemáticas,Lluvioso,Miércoles,14:00,Profesor A,1,8,1,combi
+2023-09-19,Química,Ventoso,Lunes,08:00,Profesor C,0,2,0,camión
+2023-03-09,Química,Nublado,Viernes,08:00,Profesor D,0,1,0,bicicleta
+2023-05-23,Física,Ventoso,Lunes,16:00,Profesor D,1,6,1,combi
+2023-03-22,Química,Lluvioso,Viernes,10:00,Profesor C,0,0,0,camina
+2023-06-25,Biología,Soleado,Lunes,10:00,Profesor B,1,8,0,auto propio
+2023-10-27,Física,Soleado,Jueves,10:00,Profesor B,0,6,1,taxi
+2023-05-20,Biología,Nublado,Viernes,16:00,Profesor A,1,9,1,camina
+2023-05-20,Física,Soleado,Viernes,10:00,Profesor D,0,10,1,taxi
+2023-03-21,Historia,Ventoso,Jueves,08:00,Profesor B,1,8,1,camión
+2023-06-27,Historia,Ventoso,Martes,08:00,Profesor D,0,6,0,camión
+2023-06-21,Biología,Nublado,Miércoles,16:00,Profesor A,0,1,1,bicicleta
+2023-03-11,Química,Ventoso,Martes,12:00,Profesor A,0,0,1,auto propio
+2023-07-09,Química,Nublado,Jueves,12:00,Profesor B,0,7,1,moto
+2023-03-04,Física,Soleado,Jueves,10:00,Profesor A,0,10,1,camina
+2023-08-12,Historia,Ventoso,Martes,08:00,Profesor D,1,5,1,auto propio
+2023-01-23,Biología,Ventoso,Miércoles,16:00,Profesor A,0,9,0,bicicleta
+2023-05-11,Matemáticas,Lluvioso,Viernes,16:00,Profesor D,0,9,1,combi
+2023-05-20,Matemáticas,Nublado,Martes,16:00,Profesor C,0,8,1,bicicleta
+2023-05-28,Biología,Nublado,Miércoles,10:00,Profesor B,0,8,0,camina
+2023-02-19,Física,Ventoso,Martes,16:00,Profesor D,0,5,0,camina
+2023-11-19,Física,Soleado,Lunes,12:00,Profesor A,0,1,1,auto propio
+2023-02-28,Matemáticas,Soleado,Martes,08:00,Profesor D,1,4,1,camión
+2023-02-12,Física,Soleado,Jueves,08:00,Profesor B,0,0,0,camina
+2023-03-11,Química,Lluvioso,Jueves,10:00,Profesor B,0,9,0,combi
+2023-05-06,Química,Lluvioso,Lunes,14:00,Profesor C,1,10,0,camina
+2023-05-06,Historia,Ventoso,Miércoles,08:00,Profesor C,1,9,1,auto propio
+2023-04-22,Matemáticas,Soleado,Miércoles,14:00,Profesor A,1,10,0,bicicleta
+2023-11-05,Física,Soleado,Viernes,14:00,Profesor C,1,1,1,moto
+2023-07-24,Física,Ventoso,Jueves,16:00,Profesor D,0,5,1,combi
+2023-11-28,Química,Ventoso,Miércoles,08:00,Profesor D,0,6,0,camión
+2023-06-01,Historia,Ventoso,Martes,14:00,Profesor B,0,1,0,taxi
+2023-05-07,Matemáticas,Soleado,Miércoles,16:00,Profesor C,1,5,1,taxi
+2023-06-16,Historia,Ventoso,Viernes,16:00,Profesor D,1,1,0,auto propio
+2023-06-01,Física,Nublado,Jueves,16:00,Profesor D,1,6,0,auto propio
+2023-09-20,Matemáticas,Nublado,Viernes,08:00,Profesor A,1,0,1,taxi
+2023-10-29,Física,Ventoso,Jueves,14:00,Profesor B,0,4,0,taxi
+2023-07-08,Física,Lluvioso,Martes,12:00,Profesor A,1,0,1,moto
+2023-05-12,Historia,Ventoso,Lunes,10:00,Profesor B,1,3,0,moto
+2023-06-10,Física,Soleado,Jueves,14:00,Profesor C,1,2,1,taxi
+2023-07-31,Historia,Ventoso,Lunes,12:00,Profesor B,0,8,1,taxi
+2023-08-09,Biología,Ventoso,Jueves,14:00,Profesor C,0,7,1,bicicleta
+2023-09-06,Biología,Nublado,Lunes,08:00,Profesor C,1,1,0,camión
+2023-02-06,Biología,Ventoso,Viernes,12:00,Profesor A,0,4,0,camina
+2023-04-16,Química,Nublado,Lunes,12:00,Profesor A,0,4,0,auto propio
+2023-09-28,Química,Ventoso,Jueves,16:00,Profesor B,0,10,0,camión
+2023-11-25,Química,Nublado,Jueves,08:00,Profesor D,1,3,0,taxi
+2023-09-23,Matemáticas,Ventoso,Martes,14:00,Profesor B,0,2,0,camina
+2023-06-06,Matemáticas,Soleado,Jueves,10:00,Profesor A,0,4,1,auto propio
+2023-05-12,Biología,Soleado,Lunes,08:00,Profesor B,1,0,1,moto
+2023-03-01,Biología,Soleado,Viernes,12:00,Profesor B,0,5,0,taxi
+2023-01-07,Física,Lluvioso,Martes,10:00,Profesor D,0,6,0,auto propio
+2023-07-20,Química,Nublado,Jueves,10:00,Profesor C,1,1,1,auto propio
+2023-07-20,Matemáticas,Lluvioso,Lunes,10:00,Profesor A,0,3,0,bicicleta
+2023-08-16,Química,Lluvioso,Miércoles,08:00,Profesor A,1,1,0,taxi
+2023-06-27,Química,Ventoso,Viernes,14:00,Profesor B,1,3,0,camina
+2023-11-02,Matemáticas,Soleado,Jueves,12:00,Profesor B,0,1,0,taxi
+2023-07-12,Matemáticas,Soleado,Martes,16:00,Profesor D,0,10,0,camión
+2023-08-18,Física,Lluvioso,Lunes,14:00,Profesor A,0,9,0,taxi
+2023-02-24,Biología,Soleado,Miércoles,14:00,Profesor B,1,8,1,moto
+2023-02-23,Física,Lluvioso,Miércoles,10:00,Profesor B,1,4,1,bicicleta
+2023-08-13,Física,Lluvioso,Miércoles,12:00,Profesor D,0,1,0,camión
+2023-06-15,Física,Soleado,Lunes,10:00,Profesor D,0,6,0,taxi
+2023-11-29,Biología,Ventoso,Viernes,10:00,Profesor D,1,4,1,moto
+2023-04-10,Química,Lluvioso,Martes,14:00,Profesor B,1,2,0,camina
+2023-03-21,Historia,Soleado,Lunes,12:00,Profesor B,0,4,1,bicicleta
+2023-10-30,Química,Lluvioso,Miércoles,16:00,Profesor B,1,1,1,combi
+2023-12-27,Biología,Ventoso,Lunes,14:00,Profesor B,1,9,0,bicicleta
+2023-02-18,Historia,Nublado,Miércoles,08:00,Profesor C,0,1,0,camina
+2023-09-17,Biología,Ventoso,Martes,12:00,Profesor C,0,3,0,combi
+2023-09-22,Biología,Soleado,Lunes,10:00,Profesor B,0,2,1,camión
+2023-06-16,Matemáticas,Nublado,Lunes,12:00,Profesor A,0,9,1,moto
+2023-11-06,Biología,Ventoso,Martes,14:00,Profesor A,1,8,0,camión
+2023-05-04,Química,Nublado,Miércoles,16:00,Profesor B,0,9,1,combi
+2023-05-20,Biología,Nublado,Viernes,08:00,Profesor A,1,1,0,auto propio
+2023-05-28,Historia,Ventoso,Miércoles,14:00,Profesor C,0,5,1,auto propio
+2023-05-05,Biología,Soleado,Martes,16:00,Profesor B,1,9,0,auto propio
+2023-03-25,Historia,Lluvioso,Viernes,08:00,Profesor D,0,10,0,taxi
+2023-05-15,Física,Lluvioso,Miércoles,12:00,Profesor D,0,9,1,camión
+2023-11-07,Física,Soleado,Viernes,16:00,Profesor C,0,2,0,bicicleta
+2023-07-29,Física,Ventoso,Miércoles,16:00,Profesor D,1,0,1,auto propio
+2023-11-29,Historia,Lluvioso,Jueves,16:00,Profesor C,1,8,0,auto propio
+2023-04-18,Biología,Soleado,Viernes,12:00,Profesor A,0,2,0,moto
+2023-07-23,Biología,Nublado,Jueves,10:00,Profesor D,1,1,1,camión
+2023-01-21,Matemáticas,Ventoso,Miércoles,16:00,Profesor D,1,0,1,camina
+2023-10-28,Historia,Nublado,Viernes,08:00,Profesor D,1,4,1,moto
+2023-11-18,Matemáticas,Nublado,Jueves,14:00,Profesor B,1,10,0,camión
+2023-12-17,Matemáticas,Ventoso,Jueves,08:00,Profesor B,0,6,0,camión
+2023-04-05,Química,Ventoso,Miércoles,12:00,Profesor B,1,5,0,camión
+2023-01-22,Biología,Lluvioso,Martes,16:00,Profesor C,0,2,1,auto propio
+2023-06-11,Biología,Soleado,Miércoles,08:00,Profesor D,1,7,1,combi
+2023-11-22,Matemáticas,Soleado,Miércoles,14:00,Profesor D,1,3,0,bicicleta
+2023-05-06,Biología,Nublado,Viernes,12:00,Profesor A,1,5,1,camión
+2023-02-07,Química,Nublado,Jueves,16:00,Profesor B,0,7,0,camina
+2023-03-13,Biología,Soleado,Lunes,14:00,Profesor C,0,10,1,bicicleta
+2023-07-10,Química,Ventoso,Jueves,16:00,Profesor D,1,7,0,taxi
+2023-09-09,Química,Lluvioso,Miércoles,16:00,Profesor D,0,8,1,moto
+2023-05-29,Biología,Lluvioso,Lunes,10:00,Profesor A,1,9,1,moto
+2023-12-14,Matemáticas,Ventoso,Lunes,14:00,Profesor B,1,9,0,combi
+2023-09-01,Física,Nublado,Miércoles,14:00,Profesor B,1,3,0,moto
+2023-07-02,Matemáticas,Lluvioso,Miércoles,16:00,Profesor B,1,3,1,auto propio
+2023-08-07,Biología,Ventoso,Miércoles,10:00,Profesor D,1,0,1,taxi
+2023-12-06,Historia,Nublado,Martes,08:00,Profesor D,1,2,1,camión
+2023-11-24,Física,Nublado,Lunes,12:00,Profesor D,1,4,0,taxi
+2023-12-30,Biología,Soleado,Jueves,10:00,Profesor A,0,1,0,bicicleta
+2023-03-16,Biología,Lluvioso,Miércoles,08:00,Profesor C,1,8,1,moto
+2023-05-25,Física,Soleado,Miércoles,12:00,Profesor D,0,8,0,combi
+2023-07-03,Matemáticas,Lluvioso,Miércoles,12:00,Profesor B,1,10,0,camión
+2023-12-19,Matemáticas,Soleado,Miércoles,12:00,Profesor A,0,10,0,camión
+2023-03-15,Física,Soleado,Lunes,12:00,Profesor D,1,4,1,camina
+2023-06-12,Historia,Nublado,Jueves,14:00,Profesor B,1,6,1,camión
+2023-09-11,Matemáticas,Soleado,Lunes,12:00,Profesor A,1,3,0,camina
+2023-04-25,Física,Soleado,Lunes,08:00,Profesor A,1,7,0,auto propio
+2023-03-01,Historia,Lluvioso,Viernes,10:00,Profesor B,1,3,0,taxi
+2023-12-13,Biología,Nublado,Miércoles,14:00,Profesor A,1,7,0,camina
+2023-12-30,Química,Ventoso,Viernes,08:00,Profesor B,0,5,1,taxi
+2023-01-01,Química,Soleado,Viernes,08:00,Profesor D,1,10,0,camión
+2023-05-30,Historia,Ventoso,Jueves,10:00,Profesor C,0,5,1,auto propio
+2023-11-14,Física,Nublado,Lunes,14:00,Profesor C,1,9,1,auto propio
+2023-03-09,Química,Ventoso,Lunes,16:00,Profesor D,1,6,1,taxi
+2023-08-23,Biología,Ventoso,Viernes,16:00,Profesor A,0,2,0,moto
+2023-05-28,Física,Nublado,Miércoles,12:00,Profesor C,0,6,0,taxi
+2023-05-06,Historia,Soleado,Miércoles,08:00,Profesor A,0,10,0,bicicleta
+2023-06-22,Química,Ventoso,Jueves,16:00,Profesor D,0,0,1,camión
+2023-02-23,Biología,Ventoso,Martes,10:00,Profesor C,0,5,1,camina
+2023-07-23,Matemáticas,Nublado,Miércoles,16:00,Profesor B,1,5,0,auto propio
+2023-08-11,Biología,Soleado,Martes,10:00,Profesor A,1,3,1,taxi
+2023-02-02,Historia,Lluvioso,Viernes,08:00,Profesor A,1,8,1,moto
+2023-06-01,Biología,Nublado,Lunes,14:00,Profesor C,1,4,0,camión
+2023-05-23,Matemáticas,Lluvioso,Lunes,12:00,Profesor D,0,6,0,camión
+2023-07-12,Biología,Ventoso,Viernes,16:00,Profesor C,1,0,0,camina
+2023-07-01,Matemáticas,Soleado,Lunes,08:00,Profesor C,0,9,1,camina
+2023-11-03,Física,Nublado,Viernes,14:00,Profesor D,1,5,1,combi
+2023-04-15,Biología,Nublado,Miércoles,14:00,Profesor B,1,7,0,bicicleta
+2023-03-21,Historia,Nublado,Miércoles,12:00,Profesor B,0,8,1,camión
+2023-05-03,Química,Ventoso,Lunes,10:00,Profesor D,1,1,0,moto
+2023-01-06,Química,Lluvioso,Jueves,14:00,Profesor A,1,3,1,camina
+2023-11-13,Química,Ventoso,Viernes,12:00,Profesor B,1,3,0,combi
+2023-11-23,Historia,Nublado,Miércoles,10:00,Profesor B,1,7,1,combi
+2023-09-23,Historia,Ventoso,Lunes,16:00,Profesor A,0,10,0,combi
+2023-05-25,Biología,Soleado,Jueves,08:00,Profesor A,1,8,0,taxi
+2023-02-19,Física,Lluvioso,Jueves,14:00,Profesor D,0,7,1,auto propio
+2023-10-04,Física,Soleado,Miércoles,12:00,Profesor A,0,4,1,combi
+2023-11-16,Biología,Lluvioso,Viernes,16:00,Profesor B,1,10,0,bicicleta
+2023-01-01,Biología,Ventoso,Miércoles,08:00,Profesor C,1,7,0,camión
+2023-10-07,Matemáticas,Nublado,Martes,08:00,Profesor A,1,4,0,moto
+2023-04-06,Física,Soleado,Jueves,12:00,Profesor A,1,7,0,taxi
+2023-11-23,Biología,Nublado,Jueves,08:00,Profesor B,1,8,1,taxi
+2023-12-01,Química,Soleado,Jueves,10:00,Profesor C,1,2,1,auto propio
+2023-04-29,Biología,Lluvioso,Jueves,14:00,Profesor B,0,4,1,combi
+2023-01-15,Historia,Soleado,Viernes,10:00,Profesor B,1,2,1,auto propio
+2023-03-03,Biología,Nublado,Miércoles,12:00,Profesor B,1,1,0,moto
+2023-03-02,Física,Ventoso,Jueves,12:00,Profesor C,1,2,1,camina
+2023-11-06,Biología,Ventoso,Miércoles,12:00,Profesor C,1,6,0,moto
+2023-04-17,Biología,Soleado,Miércoles,12:00,Profesor B,0,1,0,combi
+2023-07-25,Química,Soleado,Lunes,10:00,Profesor C,1,10,0,combi
+2023-05-10,Historia,Soleado,Lunes,16:00,Profesor C,0,1,1,combi
+2023-04-17,Historia,Lluvioso,Viernes,10:00,Profesor A,0,0,0,camina
+2023-12-20,Química,Soleado,Martes,14:00,Profesor C,0,3,0,auto propio
+2023-06-30,Física,Nublado,Viernes,16:00,Profesor B,0,7,1,bicicleta
+2023-07-29,Física,Lluvioso,Martes,14:00,Profesor D,1,7,0,camión
+2023-03-09,Física,Ventoso,Miércoles,16:00,Profesor D,0,0,0,auto propio
+2023-07-26,Matemáticas,Lluvioso,Miércoles,12:00,Profesor C,1,5,1,auto propio
+2023-05-14,Química,Ventoso,Jueves,10:00,Profesor A,1,7,1,camina
+2023-01-25,Matemáticas,Lluvioso,Miércoles,14:00,Profesor C,1,0,0,taxi
+2023-10-12,Física,Nublado,Viernes,12:00,Profesor B,0,9,0,camina
+2023-03-06,Química,Soleado,Martes,10:00,Profesor A,0,5,1,auto propio
+2023-05-13,Biología,Ventoso,Viernes,14:00,Profesor D,0,4,1,camión
+2023-09-02,Historia,Ventoso,Miércoles,14:00,Profesor B,1,1,1,taxi
+2023-09-11,Biología,Ventoso,Miércoles,12:00,Profesor C,0,6,1,taxi
+2023-02-06,Física,Nublado,Jueves,10:00,Profesor B,0,10,0,auto propio
+2023-02-07,Matemáticas,Nublado,Lunes,14:00,Profesor D,0,5,1,taxi
+2023-07-20,Química,Ventoso,Jueves,14:00,Profesor D,1,0,0,bicicleta
+2023-12-03,Historia,Lluvioso,Lunes,10:00,Profesor A,1,7,1,camina
+2023-02-23,Física,Soleado,Viernes,16:00,Profesor D,0,8,0,combi
+2023-05-24,Física,Ventoso,Jueves,14:00,Profesor A,1,6,1,camina
+2023-10-27,Biología,Soleado,Martes,14:00,Profesor B,1,9,0,camina
+2023-03-10,Matemáticas,Ventoso,Lunes,10:00,Profesor B,0,0,0,combi
+2023-03-04,Matemáticas,Ventoso,Miércoles,16:00,Profesor D,0,5,1,camión
+2023-07-17,Química,Nublado,Miércoles,12:00,Profesor B,1,6,1,bicicleta
+2023-03-30,Biología,Lluvioso,Martes,12:00,Profesor A,1,0,1,bicicleta
+2023-10-22,Matemáticas,Soleado,Jueves,16:00,Profesor A,0,2,0,camión
+2023-07-10,Química,Ventoso,Lunes,14:00,Profesor A,0,4,1,camión
+2023-12-07,Biología,Ventoso,Miércoles,08:00,Profesor D,1,3,1,moto
+2023-08-04,Química,Ventoso,Lunes,10:00,Profesor B,0,8,0,camina
+2023-09-14,Química,Ventoso,Martes,16:00,Profesor A,1,3,1,auto propio
+2023-02-06,Química,Nublado,Miércoles,16:00,Profesor A,1,6,1,camión
+2023-04-22,Biología,Ventoso,Lunes,14:00,Profesor C,1,7,0,taxi
+2023-01-19,Historia,Lluvioso,Jueves,12:00,Profesor A,0,0,1,combi
+2023-02-16,Matemáticas,Nublado,Viernes,12:00,Profesor C,1,10,1,bicicleta
+2023-05-29,Física,Nublado,Viernes,16:00,Profesor B,1,2,1,camión
+2023-07-09,Química,Ventoso,Martes,08:00,Profesor D,0,0,0,bicicleta
+2023-01-23,Física,Nublado,Martes,14:00,Profesor D,1,6,0,camina
+2023-11-23,Historia,Soleado,Miércoles,08:00,Profesor C,1,9,0,taxi
+2023-01-11,Física,Nublado,Lunes,08:00,Profesor D,0,5,1,moto
+2023-03-25,Química,Lluvioso,Lunes,16:00,Profesor B,0,9,1,auto propio
+2023-07-03,Matemáticas,Lluvioso,Martes,12:00,Profesor C,1,8,1,moto
+2023-04-25,Física,Soleado,Martes,08:00,Profesor D,0,9,1,auto propio
+2023-09-09,Física,Nublado,Miércoles,16:00,Profesor D,0,0,0,taxi
+2023-10-05,Matemáticas,Soleado,Viernes,16:00,Profesor A,0,1,0,auto propio
+2023-05-11,Física,Soleado,Viernes,12:00,Profesor D,0,5,1,moto
+2023-10-22,Química,Ventoso,Miércoles,10:00,Profesor D,1,1,0,camión
+2023-02-11,Física,Soleado,Viernes,08:00,Profesor D,0,7,1,auto propio
+2023-09-01,Biología,Nublado,Martes,14:00,Profesor B,1,2,1,bicicleta
+2023-10-30,Historia,Soleado,Jueves,16:00,Profesor B,1,0,1,bicicleta
+2023-02-12,Física,Lluvioso,Lunes,10:00,Profesor B,1,5,1,taxi
+2023-11-21,Química,Ventoso,Miércoles,08:00,Profesor A,1,6,0,taxi
+2023-12-09,Matemáticas,Soleado,Jueves,16:00,Profesor A,0,3,1,camina
+2023-04-04,Matemáticas,Soleado,Jueves,10:00,Profesor B,1,9,1,combi
+2023-06-06,Química,Ventoso,Martes,16:00,Profesor D,1,7,0,taxi
+2023-09-04,Historia,Lluvioso,Viernes,12:00,Profesor D,1,2,0,bicicleta
+2023-11-27,Matemáticas,Lluvioso,Miércoles,08:00,Profesor A,1,4,1,auto propio
+2023-10-28,Matemáticas,Lluvioso,Lunes,12:00,Profesor A,1,6,1,auto propio
+2023-11-17,Química,Ventoso,Jueves,10:00,Profesor C,1,7,0,camina
+2023-09-14,Física,Nublado,Lunes,10:00,Profesor D,0,7,0,auto propio
+2023-01-23,Química,Ventoso,Lunes,14:00,Profesor D,1,8,1,camión
+2023-02-01,Química,Lluvioso,Lunes,12:00,Profesor B,1,8,1,taxi
+2023-11-14,Biología,Soleado,Jueves,16:00,Profesor C,0,6,1,combi
+2023-03-28,Física,Lluvioso,Lunes,08:00,Profesor D,0,1,0,camina
+2023-10-02,Física,Nublado,Miércoles,10:00,Profesor B,1,9,1,combi
+2023-03-31,Biología,Lluvioso,Viernes,14:00,Profesor A,1,9,0,taxi
+2023-10-27,Física,Ventoso,Viernes,16:00,Profesor A,0,6,1,bicicleta
+2023-01-14,Biología,Nublado,Miércoles,12:00,Profesor C,0,7,0,moto
+2023-07-03,Biología,Soleado,Miércoles,14:00,Profesor A,1,8,1,taxi
+2023-07-20,Biología,Ventoso,Jueves,14:00,Profesor A,1,7,1,bicicleta
+2023-05-09,Historia,Nublado,Martes,08:00,Profesor D,1,4,0,bicicleta
+2023-06-04,Historia,Soleado,Jueves,10:00,Profesor C,1,7,0,camina
+2023-11-02,Historia,Nublado,Viernes,14:00,Profesor D,0,9,1,moto
+2023-02-20,Historia,Lluvioso,Viernes,12:00,Profesor A,1,7,1,auto propio
+2023-05-09,Biología,Soleado,Miércoles,14:00,Profesor B,0,1,1,camión
+2023-02-23,Matemáticas,Nublado,Martes,10:00,Profesor A,1,3,1,camión
+2023-02-14,Historia,Lluvioso,Lunes,12:00,Profesor C,1,6,0,bicicleta
+2023-10-29,Historia,Soleado,Jueves,12:00,Profesor A,0,4,0,bicicleta
+2023-09-09,Biología,Soleado,Miércoles,14:00,Profesor C,0,4,1,auto propio
+2023-11-06,Matemáticas,Soleado,Miércoles,08:00,Profesor D,0,7,0,combi
+2023-09-20,Matemáticas,Lluvioso,Miércoles,08:00,Profesor C,0,3,1,auto propio
+2023-11-26,Matemáticas,Ventoso,Jueves,08:00,Profesor B,1,2,0,camión
+2023-04-15,Matemáticas,Lluvioso,Viernes,08:00,Profesor A,1,9,1,taxi
+2023-06-05,Biología,Nublado,Miércoles,14:00,Profesor C,0,3,0,combi
+2023-10-06,Química,Lluvioso,Jueves,16:00,Profesor B,0,9,0,auto propio
+2023-08-21,Biología,Ventoso,Miércoles,10:00,Profesor B,0,5,1,combi
+2023-01-14,Biología,Ventoso,Jueves,16:00,Profesor A,0,7,0,combi
+2023-06-05,Física,Lluvioso,Viernes,14:00,Profesor C,0,10,1,taxi
+2023-10-25,Historia,Nublado,Miércoles,14:00,Profesor C,0,10,1,combi
+2023-11-04,Matemáticas,Nublado,Lunes,10:00,Profesor D,1,6,1,camina
+2023-12-24,Matemáticas,Soleado,Viernes,08:00,Profesor D,0,0,0,camina
+2023-04-07,Química,Ventoso,Martes,12:00,Profesor B,1,2,1,taxi
+2023-05-05,Historia,Ventoso,Viernes,10:00,Profesor C,0,7,0,taxi
+2023-08-07,Biología,Nublado,Miércoles,08:00,Profesor D,1,4,0,camina
+2023-03-20,Química,Lluvioso,Martes,16:00,Profesor B,0,10,1,camina
+2023-05-20,Matemáticas,Ventoso,Miércoles,16:00,Profesor B,1,2,1,moto
+2023-11-20,Historia,Soleado,Martes,14:00,Profesor C,0,5,1,auto propio
+2023-11-23,Matemáticas,Lluvioso,Lunes,16:00,Profesor D,0,4,1,bicicleta
+2023-03-25,Química,Nublado,Martes,14:00,Profesor D,0,9,1,taxi
+2023-12-02,Matemáticas,Ventoso,Jueves,16:00,Profesor C,0,5,1,camina
+2023-09-28,Química,Soleado,Jueves,16:00,Profesor D,1,5,0,camión
+2023-07-09,Química,Nublado,Jueves,08:00,Profesor B,1,3,0,bicicleta
+2023-12-04,Historia,Nublado,Jueves,16:00,Profesor D,0,2,1,taxi
+2023-05-13,Química,Soleado,Martes,10:00,Profesor A,0,9,0,moto
+2023-03-24,Matemáticas,Soleado,Miércoles,16:00,Profesor A,1,6,1,auto propio
+2023-10-27,Matemáticas,Soleado,Martes,12:00,Profesor C,1,6,1,camión
+2023-04-29,Historia,Soleado,Viernes,12:00,Profesor A,1,6,0,camión
+2023-09-10,Biología,Soleado,Lunes,10:00,Profesor A,1,2,0,camión
+2023-05-14,Historia,Nublado,Lunes,10:00,Profesor D,0,8,0,camión
+2023-08-02,Matemáticas,Lluvioso,Viernes,16:00,Profesor D,1,10,0,moto
+2023-08-19,Biología,Soleado,Jueves,16:00,Profesor B,1,10,0,moto
+2023-03-19,Historia,Ventoso,Martes,16:00,Profesor A,0,8,1,camión
+2023-10-12,Matemáticas,Nublado,Viernes,12:00,Profesor B,1,1,0,taxi
