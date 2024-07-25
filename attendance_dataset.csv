@@ -1,0 +1,2001 @@
+Materia,DíaSemana,Hora,Profesor,Asistencia,HistorialFaltasMesPasado,Renta,Traslado
+Matemáticas,Lunes,13:00,Norma,0,5,0,taxi
+Química,Martes,09:00,Ana,1,2,1,auto propio
+Biología,Miércoles,11:00,Juan,0,3,1,camina
+Historia,Lunes,13:00,Jose,0,3,0,camina
+Biología,Martes,09:00,Ana,0,5,1,bicicleta
+Química,Viernes,08:00,Ana,0,3,0,camina
+Química,Viernes,11:00,Ana,0,2,1,camina
+Historia,Miércoles,11:00,Jose,0,4,1,combi
+Historia,Miércoles,13:00,Juan,0,3,1,camión
+Física,Martes,13:00,Norma,0,3,0,camión
+Historia,Lunes,11:00,Ana,0,3,1,taxi
+Química,Jueves,11:00,Juan,0,4,1,moto
+Matemáticas,Miércoles,11:00,Carmen,0,3,1,combi
+Química,Martes,08:00,Ana,0,0,0,camión
+Biología,Jueves,12:00,Jose,1,1,1,auto propio
+Biología,Viernes,12:00,Juan,0,0,1,bicicleta
+Química,Martes,11:00,Juan,1,0,1,taxi
+Física,Viernes,11:00,Norma,0,1,1,camina
+Química,Viernes,13:00,Norma,0,0,1,camión
+Química,Jueves,13:00,Carmen,0,3,0,bicicleta
+Matemáticas,Miércoles,08:00,Ana,0,4,0,camión
+Historia,Martes,13:00,Ana,0,1,0,taxi
+Química,Viernes,13:00,Ana,0,3,0,taxi
+Historia,Martes,11:00,Ana,0,0,1,camión
+Matemáticas,Viernes,12:00,Ana,0,2,1,camina
+Química,Jueves,13:00,Carmen,0,4,1,camión
+Física,Lunes,12:00,Jose,0,4,0,camión
+Historia,Miércoles,11:00,Carmen,0,2,0,camión
+Biología,Martes,13:00,Norma,0,3,0,camina
+Biología,Viernes,08:00,Ana,0,4,0,bicicleta
+Química,Martes,13:00,Juan,0,2,1,camina
+Biología,Miércoles,11:00,Juan,0,3,0,moto
+Física,Jueves,13:00,Ana,0,4,0,combi
+Química,Jueves,12:00,Ana,0,5,1,bicicleta
+Biología,Martes,09:00,Jose,0,0,0,taxi
+Biología,Lunes,08:00,Carmen,0,5,1,taxi
+Historia,Lunes,08:00,Juan,0,5,1,bicicleta
+Química,Miércoles,09:00,Ana,1,1,1,bicicleta
+Biología,Miércoles,12:00,Carmen,1,2,1,moto
+Química,Jueves,12:00,Carmen,0,2,0,auto propio
+Historia,Jueves,09:00,Carmen,0,3,1,bicicleta
+Matemáticas,Lunes,09:00,Carmen,0,1,0,camina
+Química,Martes,13:00,Jose,0,5,0,camión
+Química,Jueves,09:00,Ana,0,5,1,bicicleta
+Historia,Jueves,08:00,Ana,0,5,1,taxi
+Matemáticas,Jueves,12:00,Carmen,1,1,1,camina
+Física,Lunes,12:00,Carmen,0,0,0,camión
+Historia,Lunes,13:00,Ana,0,2,0,taxi
+Química,Martes,11:00,Jose,0,4,1,taxi
+Biología,Miércoles,11:00,Juan,0,1,0,bicicleta
+Biología,Martes,09:00,Jose,0,0,1,combi
+Química,Miércoles,13:00,Juan,0,4,0,combi
+Física,Lunes,12:00,Carmen,0,4,0,taxi
+Biología,Lunes,09:00,Carmen,0,3,0,bicicleta
+Física,Miércoles,11:00,Carmen,0,2,0,taxi
+Biología,Jueves,13:00,Jose,0,5,1,moto
+Química,Martes,12:00,Ana,0,5,0,taxi
+Biología,Miércoles,11:00,Juan,0,4,1,camión
+Matemáticas,Viernes,12:00,Carmen,0,1,0,auto propio
+Química,Martes,13:00,Jose,0,0,1,combi
+Biología,Jueves,13:00,Carmen,0,1,1,camina
+Matemáticas,Martes,09:00,Norma,0,5,1,taxi
+Química,Jueves,13:00,Carmen,0,0,1,taxi
+Física,Jueves,09:00,Carmen,1,0,1,camina
+Historia,Lunes,08:00,Norma,0,0,0,combi
+Matemáticas,Jueves,09:00,Jose,1,1,1,bicicleta
+Física,Martes,12:00,Jose,0,3,1,camión
+Matemáticas,Viernes,09:00,Ana,0,2,1,auto propio
+Historia,Viernes,09:00,Norma,0,1,1,auto propio
+Biología,Martes,11:00,Norma,1,1,1,camina
+Historia,Miércoles,11:00,Carmen,0,0,0,combi
+Física,Lunes,12:00,Jose,0,5,1,camina
+Historia,Miércoles,08:00,Ana,0,1,1,bicicleta
+Historia,Lunes,13:00,Juan,0,3,0,taxi
+Matemáticas,Lunes,08:00,Norma,0,2,0,camina
+Química,Viernes,08:00,Jose,0,5,1,camina
+Química,Miércoles,12:00,Carmen,1,2,1,camina
+Historia,Miércoles,11:00,Ana,0,4,0,camina
+Historia,Miércoles,12:00,Norma,0,3,0,taxi
+Química,Martes,13:00,Carmen,0,1,1,combi
+Matemáticas,Viernes,13:00,Juan,0,4,0,camina
+Matemáticas,Lunes,09:00,Jose,0,0,1,camina
+Matemáticas,Viernes,09:00,Norma,0,5,0,bicicleta
+Física,Miércoles,11:00,Juan,1,1,1,taxi
+Historia,Viernes,13:00,Carmen,0,1,0,moto
+Historia,Jueves,08:00,Jose,0,2,0,bicicleta
+Química,Jueves,12:00,Jose,0,5,1,taxi
+Física,Jueves,11:00,Carmen,0,5,1,bicicleta
+Historia,Martes,13:00,Jose,0,2,1,moto
+Historia,Martes,09:00,Ana,0,5,0,camión
+Historia,Jueves,13:00,Jose,0,5,1,camina
+Historia,Viernes,11:00,Norma,0,0,0,combi
+Química,Viernes,12:00,Ana,0,2,0,auto propio
+Biología,Martes,11:00,Ana,1,2,1,moto
+Química,Miércoles,11:00,Ana,1,0,1,camina
+Química,Miércoles,13:00,Jose,0,3,0,auto propio
+Biología,Miércoles,08:00,Carmen,0,4,1,bicicleta
+Matemáticas,Viernes,09:00,Norma,0,3,1,combi
+Matemáticas,Martes,13:00,Juan,0,2,1,camión
+Historia,Lunes,09:00,Juan,0,3,1,taxi
+Física,Lunes,08:00,Norma,0,0,1,bicicleta
+Historia,Viernes,13:00,Norma,0,4,1,auto propio
+Biología,Jueves,11:00,Carmen,0,1,0,taxi
+Física,Viernes,08:00,Jose,0,3,0,moto
+Biología,Viernes,13:00,Jose,0,2,0,bicicleta
+Biología,Martes,13:00,Juan,0,3,1,bicicleta
+Historia,Lunes,12:00,Ana,0,4,0,moto
+Química,Lunes,12:00,Carmen,0,4,0,moto
+Matemáticas,Lunes,11:00,Juan,0,3,0,moto
+Historia,Viernes,12:00,Juan,0,0,0,bicicleta
+Física,Jueves,11:00,Carmen,0,0,0,bicicleta
+Biología,Jueves,11:00,Ana,0,4,0,combi
+Biología,Jueves,09:00,Juan,0,2,0,taxi
+Biología,Lunes,09:00,Jose,0,3,0,taxi
+Química,Miércoles,08:00,Carmen,0,3,0,camión
+Biología,Miércoles,11:00,Juan,1,0,1,auto propio
+Física,Viernes,13:00,Norma,0,3,0,bicicleta
+Biología,Miércoles,11:00,Carmen,0,5,0,bicicleta
+Física,Lunes,11:00,Juan,0,3,1,camión
+Biología,Jueves,12:00,Jose,0,1,0,moto
+Química,Martes,09:00,Juan,0,4,0,combi
+Historia,Lunes,08:00,Ana,0,4,1,camión
+Matemáticas,Viernes,09:00,Carmen,0,5,1,bicicleta
+Biología,Martes,13:00,Ana,0,1,1,camina
+Historia,Miércoles,08:00,Juan,0,5,1,moto
+Historia,Viernes,12:00,Carmen,0,1,1,moto
+Historia,Jueves,08:00,Carmen,0,3,0,camina
+Historia,Lunes,09:00,Jose,0,0,1,moto
+Matemáticas,Jueves,13:00,Ana,0,1,1,camina
+Química,Martes,11:00,Jose,0,4,0,auto propio
+Biología,Martes,11:00,Ana,1,1,1,auto propio
+Historia,Miércoles,11:00,Ana,0,0,0,camión
+Biología,Viernes,12:00,Ana,0,3,0,auto propio
+Matemáticas,Lunes,11:00,Ana,0,5,1,taxi
+Historia,Jueves,12:00,Juan,0,5,0,auto propio
+Historia,Miércoles,08:00,Jose,0,2,1,moto
+Historia,Jueves,08:00,Carmen,0,2,0,auto propio
+Química,Jueves,13:00,Jose,0,2,0,auto propio
+Biología,Viernes,12:00,Carmen,0,3,1,taxi
+Matemáticas,Martes,13:00,Juan,0,0,1,camina
+Biología,Viernes,08:00,Jose,0,0,0,camina
+Química,Jueves,09:00,Norma,1,0,1,taxi
+Matemáticas,Miércoles,08:00,Norma,0,4,1,bicicleta
+Biología,Viernes,08:00,Ana,0,1,0,camión
+Química,Viernes,11:00,Carmen,0,5,0,combi
+Biología,Miércoles,09:00,Juan,0,1,0,camión
+Química,Miércoles,09:00,Ana,0,5,0,taxi
+Biología,Lunes,09:00,Carmen,0,4,0,combi
+Matemáticas,Viernes,09:00,Juan,0,4,0,bicicleta
+Matemáticas,Jueves,11:00,Norma,0,0,1,combi
+Historia,Miércoles,13:00,Ana,0,3,1,moto
+Matemáticas,Jueves,08:00,Ana,0,1,1,camina
+Física,Lunes,12:00,Norma,0,1,0,moto
+Biología,Viernes,11:00,Ana,0,1,1,taxi
+Historia,Martes,12:00,Ana,0,5,0,camina
+Física,Miércoles,08:00,Norma,0,0,0,camina
+Matemáticas,Viernes,09:00,Norma,0,3,1,combi
+Matemáticas,Miércoles,13:00,Norma,0,5,0,taxi
+Matemáticas,Lunes,11:00,Jose,0,1,1,combi
+Matemáticas,Viernes,09:00,Ana,0,3,1,camina
+Matemáticas,Martes,08:00,Jose,0,2,0,bicicleta
+Química,Jueves,13:00,Ana,0,0,0,camina
+Química,Miércoles,12:00,Ana,0,3,1,camión
+Historia,Martes,08:00,Norma,0,3,1,auto propio
+Química,Jueves,13:00,Norma,0,4,0,camión
+Biología,Jueves,13:00,Ana,0,5,1,bicicleta
+Física,Jueves,13:00,Jose,0,2,1,combi
+Historia,Miércoles,11:00,Carmen,0,1,0,camión
+Historia,Martes,11:00,Norma,0,1,1,combi
+Biología,Jueves,09:00,Norma,0,4,1,auto propio
+Física,Martes,08:00,Jose,0,2,1,auto propio
+Química,Viernes,12:00,Carmen,0,5,0,moto
+Matemáticas,Viernes,13:00,Carmen,0,0,0,moto
+Historia,Viernes,13:00,Carmen,0,0,1,combi
+Biología,Martes,08:00,Ana,0,0,0,combi
+Matemáticas,Lunes,11:00,Juan,0,2,1,camión
+Historia,Viernes,12:00,Norma,0,4,0,moto
+Historia,Martes,13:00,Ana,0,2,1,moto
+Biología,Martes,12:00,Ana,0,1,1,combi
+Historia,Lunes,08:00,Juan,0,4,1,bicicleta
+Historia,Lunes,11:00,Carmen,0,3,1,camión
+Física,Jueves,13:00,Carmen,0,0,0,taxi
+Biología,Martes,09:00,Norma,0,3,1,auto propio
+Historia,Lunes,11:00,Jose,0,2,0,taxi
+Historia,Jueves,12:00,Norma,0,5,0,moto
+Matemáticas,Jueves,12:00,Norma,0,1,0,combi
+Matemáticas,Miércoles,13:00,Carmen,0,5,1,camina
+Química,Viernes,11:00,Ana,0,5,0,auto propio
+Historia,Martes,13:00,Carmen,0,2,1,combi
+Matemáticas,Miércoles,08:00,Carmen,0,4,1,auto propio
+Química,Jueves,11:00,Carmen,1,0,1,auto propio
+Biología,Miércoles,11:00,Jose,1,1,1,auto propio
+Química,Jueves,13:00,Juan,0,2,0,bicicleta
+Química,Martes,11:00,Jose,0,4,1,bicicleta
+Biología,Martes,11:00,Carmen,0,3,1,camión
+Historia,Lunes,11:00,Juan,0,0,1,moto
+Física,Jueves,09:00,Norma,0,3,0,taxi
+Química,Jueves,09:00,Juan,1,1,1,camina
+Química,Viernes,11:00,Jose,0,0,1,combi
+Física,Lunes,11:00,Norma,0,3,1,taxi
+Biología,Lunes,12:00,Juan,0,0,0,moto
+Historia,Lunes,12:00,Juan,0,2,1,moto
+Biología,Viernes,13:00,Norma,0,4,0,combi
+Matemáticas,Lunes,12:00,Juan,0,1,1,auto propio
+Biología,Jueves,08:00,Jose,0,5,1,taxi
+Historia,Lunes,11:00,Jose,0,5,1,camina
+Historia,Lunes,13:00,Ana,0,0,1,bicicleta
+Física,Lunes,11:00,Jose,0,5,1,bicicleta
+Historia,Miércoles,11:00,Jose,0,3,1,camina
+Biología,Miércoles,08:00,Juan,0,2,1,moto
+Química,Viernes,12:00,Carmen,0,4,1,bicicleta
+Física,Lunes,11:00,Juan,0,0,0,camina
+Física,Viernes,11:00,Carmen,0,4,0,camión
+Matemáticas,Lunes,13:00,Carmen,0,1,0,auto propio
+Matemáticas,Viernes,13:00,Juan,0,1,0,taxi
+Química,Viernes,08:00,Norma,0,5,0,camina
+Historia,Jueves,13:00,Carmen,0,1,0,auto propio
+Matemáticas,Martes,13:00,Carmen,0,0,1,moto
+Física,Miércoles,11:00,Norma,0,4,1,moto
+Biología,Jueves,08:00,Juan,0,0,0,camión
+Química,Lunes,13:00,Carmen,0,3,1,auto propio
+Química,Miércoles,13:00,Juan,0,1,1,moto
+Matemáticas,Lunes,08:00,Norma,0,0,0,camión
+Matemáticas,Lunes,09:00,Carmen,0,1,0,auto propio
+Historia,Jueves,11:00,Jose,0,0,0,camión
+Matemáticas,Viernes,09:00,Norma,0,4,0,taxi
+Biología,Jueves,13:00,Norma,0,5,1,moto
+Física,Martes,13:00,Carmen,0,2,0,auto propio
+Biología,Jueves,11:00,Jose,0,0,1,combi
+Biología,Viernes,11:00,Ana,0,2,0,moto
+Historia,Viernes,11:00,Jose,0,3,1,taxi
+Química,Jueves,08:00,Juan,0,3,0,camión
+Biología,Miércoles,09:00,Ana,0,0,1,camión
+Física,Jueves,13:00,Ana,0,1,1,camión
+Química,Jueves,13:00,Carmen,0,0,0,moto
+Historia,Lunes,09:00,Norma,0,3,0,camina
+Biología,Viernes,13:00,Jose,0,2,0,taxi
+Química,Miércoles,09:00,Norma,0,2,1,combi
+Física,Martes,11:00,Norma,0,2,0,bicicleta
+Física,Viernes,09:00,Ana,0,0,1,bicicleta
+Química,Martes,11:00,Ana,0,3,1,bicicleta
+Historia,Martes,11:00,Ana,0,4,1,camión
+Física,Jueves,09:00,Jose,0,1,0,moto
+Química,Lunes,11:00,Ana,0,5,1,moto
+Matemáticas,Jueves,13:00,Juan,0,2,1,taxi
+Biología,Viernes,08:00,Norma,0,4,1,moto
+Biología,Lunes,12:00,Norma,0,5,0,bicicleta
+Biología,Miércoles,09:00,Ana,0,0,0,camina
+Biología,Miércoles,13:00,Jose,0,1,1,auto propio
+Historia,Lunes,12:00,Carmen,0,4,1,taxi
+Biología,Viernes,11:00,Norma,0,0,1,auto propio
+Historia,Viernes,13:00,Juan,0,5,0,auto propio
+Biología,Lunes,11:00,Carmen,0,5,0,combi
+Matemáticas,Jueves,09:00,Jose,0,5,0,combi
+Física,Jueves,13:00,Ana,0,5,1,auto propio
+Química,Miércoles,12:00,Jose,0,0,0,auto propio
+Física,Jueves,13:00,Juan,0,2,0,bicicleta
+Historia,Jueves,12:00,Carmen,0,3,0,bicicleta
+Matemáticas,Martes,11:00,Ana,0,0,0,auto propio
+Matemáticas,Lunes,11:00,Carmen,0,5,0,combi
+Historia,Miércoles,09:00,Carmen,0,1,0,camina
+Física,Lunes,12:00,Juan,0,0,1,camina
+Biología,Viernes,09:00,Ana,0,1,0,bicicleta
+Historia,Viernes,08:00,Juan,0,1,1,bicicleta
+Historia,Martes,09:00,Carmen,0,0,0,combi
+Biología,Jueves,12:00,Juan,1,0,1,auto propio
+Química,Lunes,08:00,Jose,0,4,1,camina
+Matemáticas,Miércoles,13:00,Juan,0,2,1,bicicleta
+Biología,Jueves,13:00,Juan,0,3,1,auto propio
+Historia,Martes,11:00,Carmen,0,4,1,auto propio
+Física,Miércoles,08:00,Ana,0,1,0,camión
+Biología,Miércoles,08:00,Juan,0,5,0,moto
+Física,Lunes,13:00,Ana,0,4,1,camina
+Física,Lunes,09:00,Norma,0,0,1,taxi
+Biología,Martes,13:00,Carmen,0,4,1,moto
+Química,Lunes,13:00,Juan,0,1,0,auto propio
+Física,Miércoles,09:00,Ana,0,3,1,moto
+Física,Jueves,13:00,Norma,0,5,0,camión
+Historia,Jueves,11:00,Juan,0,5,1,camión
+Química,Jueves,09:00,Juan,0,2,0,auto propio
+Física,Martes,09:00,Carmen,0,2,0,auto propio
+Química,Miércoles,13:00,Juan,0,0,1,taxi
+Matemáticas,Martes,13:00,Carmen,0,0,1,moto
+Matemáticas,Miércoles,08:00,Juan,0,5,0,camión
+Historia,Viernes,08:00,Norma,0,4,1,taxi
+Matemáticas,Miércoles,13:00,Norma,0,5,1,camión
+Física,Lunes,11:00,Norma,0,0,1,moto
+Química,Martes,12:00,Juan,1,0,1,auto propio
+Matemáticas,Martes,09:00,Carmen,1,0,1,camina
+Biología,Viernes,09:00,Ana,0,3,1,camina
+Química,Miércoles,08:00,Carmen,0,4,0,bicicleta
+Biología,Viernes,13:00,Ana,0,4,1,moto
+Física,Miércoles,09:00,Carmen,0,3,0,taxi
+Física,Martes,13:00,Carmen,0,0,0,taxi
+Física,Miércoles,08:00,Carmen,0,4,0,auto propio
+Matemáticas,Miércoles,13:00,Juan,0,5,0,camión
+Historia,Lunes,12:00,Jose,0,4,0,camión
+Química,Viernes,13:00,Carmen,0,0,1,taxi
+Matemáticas,Lunes,08:00,Ana,0,2,1,combi
+Matemáticas,Lunes,08:00,Norma,0,1,1,moto
+Matemáticas,Viernes,13:00,Carmen,0,3,0,auto propio
+Matemáticas,Martes,12:00,Juan,0,1,1,camión
+Física,Martes,13:00,Ana,0,2,1,moto
+Matemáticas,Miércoles,13:00,Ana,0,2,0,combi
+Historia,Martes,12:00,Carmen,0,3,1,taxi
+Física,Miércoles,12:00,Juan,0,3,0,combi
+Biología,Jueves,09:00,Juan,0,5,1,moto
+Historia,Martes,13:00,Norma,0,1,0,camión
+Historia,Martes,11:00,Jose,0,4,1,taxi
+Física,Jueves,11:00,Norma,0,5,0,camina
+Química,Martes,08:00,Ana,0,0,0,moto
+Matemáticas,Viernes,11:00,Norma,0,5,1,taxi
+Matemáticas,Viernes,13:00,Jose,0,0,0,bicicleta
+Física,Miércoles,08:00,Norma,0,0,0,moto
+Química,Miércoles,12:00,Jose,0,4,1,taxi
+Matemáticas,Jueves,12:00,Ana,0,0,0,combi
+Matemáticas,Martes,09:00,Jose,0,5,0,camión
+Historia,Martes,11:00,Jose,1,2,1,auto propio
+Matemáticas,Jueves,08:00,Norma,0,3,0,camina
+Biología,Viernes,09:00,Jose,0,2,0,taxi
+Física,Miércoles,12:00,Ana,0,5,0,combi
+Física,Jueves,11:00,Jose,0,4,0,moto
+Matemáticas,Viernes,11:00,Jose,0,2,0,combi
+Física,Martes,09:00,Carmen,0,4,0,combi
+Química,Martes,08:00,Ana,0,1,1,taxi
+Historia,Miércoles,13:00,Norma,0,4,1,camina
+Matemáticas,Lunes,08:00,Carmen,0,1,1,combi
+Biología,Jueves,12:00,Jose,0,5,1,combi
+Historia,Miércoles,09:00,Norma,1,2,1,moto
+Química,Jueves,08:00,Carmen,0,0,1,moto
+Biología,Viernes,12:00,Juan,0,1,1,taxi
+Biología,Miércoles,12:00,Carmen,1,1,1,auto propio
+Química,Lunes,12:00,Ana,0,2,0,combi
+Matemáticas,Lunes,11:00,Norma,0,5,0,camina
+Matemáticas,Martes,13:00,Juan,0,3,0,combi
+Física,Lunes,12:00,Norma,0,5,0,camión
+Historia,Viernes,11:00,Norma,0,3,1,moto
+Biología,Lunes,09:00,Jose,0,5,1,camina
+Física,Lunes,12:00,Jose,0,5,0,camión
+Matemáticas,Jueves,08:00,Ana,0,3,0,moto
+Química,Lunes,08:00,Juan,0,2,0,combi
+Física,Viernes,12:00,Juan,0,5,0,auto propio
+Biología,Jueves,11:00,Norma,0,0,0,taxi
+Biología,Jueves,12:00,Carmen,0,1,0,camina
+Historia,Lunes,08:00,Ana,0,1,0,moto
+Historia,Miércoles,11:00,Juan,0,1,0,moto
+Matemáticas,Miércoles,11:00,Juan,0,4,0,camión
+Física,Lunes,13:00,Jose,0,4,0,auto propio
+Química,Lunes,12:00,Juan,0,4,0,camión
+Biología,Viernes,13:00,Norma,0,4,0,camión
+Matemáticas,Jueves,12:00,Carmen,0,3,1,auto propio
+Matemáticas,Martes,09:00,Ana,0,3,0,camina
+Matemáticas,Jueves,13:00,Carmen,0,3,1,camina
+Química,Martes,08:00,Juan,0,2,0,combi
+Matemáticas,Miércoles,11:00,Ana,0,2,0,moto
+Matemáticas,Lunes,11:00,Norma,0,5,0,moto
+Física,Viernes,09:00,Carmen,0,1,0,moto
+Biología,Lunes,11:00,Jose,0,0,0,taxi
+Historia,Miércoles,12:00,Juan,0,5,0,bicicleta
+Historia,Viernes,08:00,Carmen,0,3,1,combi
+Química,Viernes,13:00,Carmen,0,1,1,camina
+Matemáticas,Jueves,12:00,Jose,0,0,0,moto
+Biología,Miércoles,09:00,Jose,1,2,1,auto propio
+Matemáticas,Lunes,13:00,Ana,0,5,0,taxi
+Química,Martes,08:00,Norma,0,1,1,taxi
+Física,Jueves,11:00,Carmen,0,5,0,camina
+Biología,Martes,11:00,Ana,0,5,1,taxi
+Matemáticas,Lunes,13:00,Jose,0,0,0,moto
+Historia,Miércoles,13:00,Jose,0,3,1,camión
+Matemáticas,Miércoles,13:00,Jose,0,5,0,taxi
+Física,Martes,12:00,Ana,0,1,0,camina
+Historia,Viernes,12:00,Norma,0,5,1,camión
+Historia,Martes,11:00,Ana,0,3,0,bicicleta
+Física,Martes,11:00,Ana,0,3,1,combi
+Química,Lunes,13:00,Juan,0,4,1,camina
+Biología,Miércoles,09:00,Ana,0,2,0,camión
+Matemáticas,Martes,08:00,Ana,0,1,1,bicicleta
+Física,Viernes,13:00,Ana,0,5,0,auto propio
+Matemáticas,Jueves,13:00,Carmen,0,4,0,combi
+Química,Jueves,08:00,Carmen,0,1,1,auto propio
+Biología,Martes,08:00,Jose,0,3,0,camina
+Química,Viernes,11:00,Norma,0,3,1,camina
+Física,Viernes,11:00,Juan,0,3,1,auto propio
+Física,Jueves,09:00,Jose,1,0,1,moto
+Historia,Jueves,08:00,Norma,0,1,1,combi
+Historia,Jueves,09:00,Carmen,0,5,0,auto propio
+Biología,Viernes,12:00,Ana,0,3,0,taxi
+Química,Lunes,11:00,Ana,0,3,1,taxi
+Historia,Miércoles,13:00,Ana,0,1,0,camión
+Física,Miércoles,12:00,Juan,0,3,1,bicicleta
+Biología,Martes,08:00,Jose,0,4,1,camión
+Física,Viernes,08:00,Ana,0,4,1,camina
+Química,Lunes,09:00,Jose,0,1,0,combi
+Química,Martes,12:00,Norma,0,4,1,moto
+Biología,Lunes,13:00,Jose,0,5,0,auto propio
+Física,Miércoles,12:00,Jose,0,1,1,combi
+Química,Jueves,09:00,Ana,1,0,1,camina
+Física,Lunes,09:00,Juan,0,0,1,auto propio
+Química,Miércoles,08:00,Norma,0,3,0,camina
+Biología,Jueves,12:00,Ana,0,4,0,taxi
+Matemáticas,Viernes,13:00,Jose,0,0,0,camina
+Física,Lunes,08:00,Carmen,0,2,1,auto propio
+Química,Lunes,13:00,Juan,0,4,0,combi
+Química,Lunes,12:00,Norma,0,1,0,camina
+Biología,Jueves,12:00,Carmen,1,2,1,taxi
+Historia,Jueves,09:00,Ana,0,3,0,camión
+Historia,Jueves,08:00,Carmen,0,5,1,bicicleta
+Química,Viernes,08:00,Carmen,0,0,0,bicicleta
+Física,Miércoles,11:00,Juan,0,4,0,taxi
+Biología,Lunes,09:00,Ana,0,0,1,bicicleta
+Química,Miércoles,11:00,Jose,0,1,0,auto propio
+Historia,Martes,11:00,Jose,0,5,1,taxi
+Física,Lunes,11:00,Jose,0,1,0,camina
+Matemáticas,Martes,09:00,Juan,0,0,0,bicicleta
+Biología,Viernes,12:00,Ana,0,0,0,camina
+Historia,Viernes,09:00,Jose,0,5,0,auto propio
+Matemáticas,Martes,09:00,Norma,1,2,1,bicicleta
+Matemáticas,Lunes,08:00,Ana,0,1,0,combi
+Biología,Miércoles,09:00,Jose,0,5,0,camina
+Historia,Miércoles,08:00,Ana,0,4,1,moto
+Historia,Miércoles,09:00,Juan,0,2,0,moto
+Matemáticas,Miércoles,12:00,Jose,0,3,1,bicicleta
+Química,Miércoles,11:00,Jose,1,0,1,auto propio
+Biología,Jueves,11:00,Carmen,0,4,0,moto
+Física,Lunes,13:00,Ana,0,5,1,camión
+Matemáticas,Lunes,11:00,Juan,0,1,1,taxi
+Matemáticas,Miércoles,11:00,Jose,0,1,0,moto
+Historia,Martes,12:00,Norma,0,3,0,auto propio
+Historia,Lunes,12:00,Ana,0,4,1,camina
+Biología,Viernes,08:00,Juan,0,1,0,taxi
+Física,Jueves,13:00,Jose,0,4,0,moto
+Física,Lunes,08:00,Norma,0,0,0,camina
+Historia,Viernes,13:00,Carmen,0,3,0,taxi
+Biología,Lunes,13:00,Norma,0,4,0,combi
+Historia,Lunes,09:00,Carmen,0,5,1,camina
+Biología,Viernes,09:00,Juan,0,5,0,taxi
+Biología,Martes,12:00,Carmen,0,1,0,combi
+Biología,Martes,09:00,Jose,0,0,0,camina
+Biología,Viernes,11:00,Carmen,0,2,1,moto
+Matemáticas,Martes,08:00,Jose,0,0,0,bicicleta
+Matemáticas,Miércoles,11:00,Carmen,0,5,0,moto
+Química,Jueves,08:00,Jose,0,0,0,combi
+Historia,Viernes,08:00,Ana,0,3,1,auto propio
+Matemáticas,Jueves,11:00,Juan,0,1,1,camión
+Química,Lunes,13:00,Ana,0,5,0,camión
+Química,Viernes,08:00,Norma,0,1,0,camión
+Matemáticas,Lunes,09:00,Norma,0,3,1,taxi
+Matemáticas,Martes,11:00,Juan,0,2,0,camina
+Biología,Viernes,11:00,Carmen,0,4,1,camina
+Matemáticas,Jueves,11:00,Ana,0,0,1,combi
+Biología,Lunes,11:00,Juan,0,3,0,bicicleta
+Matemáticas,Miércoles,13:00,Ana,0,0,1,camión
+Química,Lunes,09:00,Carmen,0,3,0,taxi
+Física,Martes,13:00,Ana,0,0,0,taxi
+Física,Viernes,12:00,Ana,0,2,1,combi
+Historia,Jueves,09:00,Ana,0,3,0,moto
+Matemáticas,Jueves,13:00,Jose,0,5,0,camión
+Física,Lunes,13:00,Juan,0,2,1,auto propio
+Historia,Miércoles,08:00,Juan,0,2,0,bicicleta
+Matemáticas,Jueves,09:00,Norma,0,1,0,taxi
+Química,Lunes,12:00,Juan,0,5,0,bicicleta
+Matemáticas,Jueves,08:00,Norma,0,4,1,auto propio
+Biología,Martes,08:00,Jose,0,2,1,combi
+Química,Miércoles,12:00,Norma,0,3,0,moto
+Física,Jueves,12:00,Carmen,0,3,1,camina
+Historia,Lunes,09:00,Ana,0,5,1,taxi
+Biología,Martes,13:00,Norma,0,3,0,auto propio
+Matemáticas,Miércoles,08:00,Carmen,0,1,0,taxi
+Física,Martes,09:00,Norma,1,2,1,moto
+Física,Jueves,08:00,Ana,0,5,1,bicicleta
+Física,Miércoles,08:00,Norma,0,1,0,camina
+Biología,Jueves,09:00,Carmen,1,2,1,bicicleta
+Biología,Martes,12:00,Carmen,0,5,1,auto propio
+Biología,Lunes,13:00,Carmen,0,5,0,taxi
+Física,Lunes,11:00,Ana,0,1,0,combi
+Historia,Viernes,08:00,Juan,0,0,0,bicicleta
+Historia,Viernes,11:00,Carmen,0,3,1,camina
+Física,Viernes,13:00,Juan,0,1,0,moto
+Matemáticas,Lunes,12:00,Norma,0,2,0,camión
+Biología,Miércoles,13:00,Carmen,0,0,0,camión
+Historia,Miércoles,11:00,Ana,0,1,0,camina
+Matemáticas,Martes,12:00,Carmen,0,4,0,moto
+Biología,Viernes,08:00,Juan,0,0,1,taxi
+Física,Miércoles,09:00,Norma,0,5,1,combi
+Física,Viernes,11:00,Carmen,0,5,0,taxi
+Historia,Jueves,09:00,Juan,0,3,1,camina
+Química,Miércoles,08:00,Jose,0,5,0,camina
+Matemáticas,Lunes,09:00,Jose,0,5,0,auto propio
+Química,Jueves,11:00,Ana,0,5,1,bicicleta
+Química,Lunes,09:00,Jose,0,2,1,camina
+Matemáticas,Viernes,08:00,Carmen,0,5,0,camión
+Física,Lunes,09:00,Carmen,0,5,0,auto propio
+Historia,Miércoles,12:00,Jose,0,4,1,camina
+Física,Martes,09:00,Ana,0,5,0,camina
+Química,Martes,08:00,Juan,0,3,1,camina
+Física,Miércoles,12:00,Jose,0,4,0,taxi
+Historia,Viernes,08:00,Norma,0,5,0,camina
+Biología,Martes,09:00,Jose,0,4,1,combi
+Biología,Lunes,11:00,Jose,0,5,0,taxi
+Química,Viernes,09:00,Norma,0,5,0,camina
+Historia,Lunes,12:00,Juan,0,1,1,combi
+Física,Lunes,09:00,Juan,0,1,0,moto
+Historia,Viernes,13:00,Jose,0,1,0,bicicleta
+Biología,Jueves,11:00,Juan,1,1,1,bicicleta
+Química,Martes,13:00,Juan,0,1,0,combi
+Historia,Jueves,11:00,Carmen,0,0,0,camina
+Física,Miércoles,09:00,Ana,1,1,1,camina
+Historia,Jueves,08:00,Ana,0,3,1,camión
+Historia,Viernes,13:00,Carmen,0,4,0,taxi
+Química,Martes,11:00,Norma,0,5,1,bicicleta
+Física,Martes,12:00,Juan,0,0,0,taxi
+Física,Lunes,09:00,Ana,0,1,0,bicicleta
+Matemáticas,Jueves,13:00,Jose,0,4,1,camina
+Física,Viernes,13:00,Ana,0,4,0,bicicleta
+Química,Viernes,12:00,Norma,0,3,0,camión
+Química,Viernes,08:00,Jose,0,0,0,taxi
+Historia,Miércoles,13:00,Jose,0,2,0,combi
+Química,Lunes,11:00,Ana,0,0,1,camión
+Historia,Miércoles,12:00,Norma,0,3,1,camina
+Química,Lunes,09:00,Jose,0,0,0,taxi
+Historia,Viernes,12:00,Jose,0,2,1,moto
+Matemáticas,Viernes,11:00,Juan,0,4,1,bicicleta
+Historia,Miércoles,13:00,Carmen,0,4,0,combi
+Biología,Jueves,09:00,Carmen,0,5,1,camión
+Historia,Martes,12:00,Jose,0,4,0,camión
+Física,Viernes,13:00,Jose,0,0,1,camina
+Biología,Lunes,08:00,Ana,0,0,0,combi
+Biología,Viernes,08:00,Ana,0,1,0,camina
+Biología,Jueves,09:00,Jose,0,5,1,auto propio
+Matemáticas,Jueves,12:00,Juan,1,2,1,bicicleta
+Biología,Lunes,11:00,Ana,0,2,1,taxi
+Física,Viernes,12:00,Ana,0,4,0,auto propio
+Biología,Jueves,08:00,Jose,0,5,0,camina
+Matemáticas,Lunes,11:00,Ana,0,2,0,camina
+Física,Martes,08:00,Ana,0,5,0,moto
+Historia,Martes,13:00,Jose,0,2,0,bicicleta
+Matemáticas,Viernes,11:00,Ana,0,4,1,auto propio
+Biología,Martes,11:00,Ana,0,0,0,camina
+Física,Lunes,09:00,Juan,0,1,0,auto propio
+Biología,Miércoles,08:00,Juan,0,2,0,moto
+Física,Jueves,12:00,Ana,0,3,1,bicicleta
+Química,Jueves,13:00,Juan,0,2,0,taxi
+Historia,Miércoles,09:00,Norma,0,1,0,bicicleta
+Historia,Martes,12:00,Jose,0,5,0,bicicleta
+Biología,Lunes,09:00,Norma,0,0,0,taxi
+Biología,Martes,11:00,Norma,1,1,1,moto
+Matemáticas,Miércoles,11:00,Juan,0,4,1,auto propio
+Física,Viernes,12:00,Carmen,0,3,0,bicicleta
+Historia,Lunes,09:00,Jose,0,4,0,camión
+Matemáticas,Lunes,11:00,Carmen,0,3,1,taxi
+Física,Miércoles,13:00,Juan,0,0,0,moto
+Química,Jueves,08:00,Carmen,0,4,0,camión
+Biología,Viernes,11:00,Norma,0,4,1,camión
+Física,Martes,09:00,Ana,0,2,0,taxi
+Historia,Viernes,11:00,Norma,0,2,1,camión
+Historia,Lunes,09:00,Juan,0,1,0,auto propio
+Matemáticas,Lunes,12:00,Carmen,0,1,0,auto propio
+Biología,Viernes,13:00,Norma,0,2,0,auto propio
+Biología,Jueves,11:00,Juan,0,2,1,combi
+Química,Miércoles,08:00,Ana,0,2,1,taxi
+Matemáticas,Lunes,11:00,Norma,0,2,0,bicicleta
+Matemáticas,Martes,12:00,Norma,0,4,1,combi
+Biología,Martes,11:00,Jose,0,5,1,auto propio
+Física,Lunes,11:00,Ana,0,2,1,combi
+Química,Miércoles,12:00,Juan,1,0,1,taxi
+Biología,Miércoles,11:00,Juan,1,0,1,camina
+Biología,Jueves,13:00,Juan,0,3,1,camión
+Biología,Jueves,09:00,Ana,0,0,1,camión
+Física,Miércoles,12:00,Norma,0,0,0,moto
+Química,Viernes,08:00,Carmen,0,5,1,taxi
+Química,Viernes,08:00,Norma,0,5,1,auto propio
+Historia,Jueves,12:00,Jose,0,3,1,taxi
+Química,Martes,11:00,Juan,0,4,0,auto propio
+Historia,Miércoles,13:00,Juan,0,5,1,taxi
+Biología,Martes,12:00,Ana,0,3,1,combi
+Historia,Viernes,12:00,Juan,0,1,1,moto
+Historia,Jueves,12:00,Ana,1,2,1,camina
+Física,Viernes,08:00,Ana,0,2,0,camina
+Matemáticas,Martes,11:00,Juan,0,0,0,camión
+Historia,Jueves,11:00,Ana,0,3,0,auto propio
+Biología,Martes,11:00,Carmen,0,5,0,bicicleta
+Química,Martes,13:00,Carmen,0,0,0,auto propio
+Matemáticas,Martes,09:00,Juan,0,2,0,camión
+Biología,Miércoles,08:00,Norma,0,2,0,camina
+Biología,Lunes,08:00,Juan,0,4,1,taxi
+Química,Jueves,12:00,Ana,0,2,1,camión
+Física,Jueves,08:00,Jose,0,1,0,bicicleta
+Física,Lunes,11:00,Carmen,0,0,0,auto propio
+Química,Lunes,11:00,Ana,0,3,1,taxi
+Biología,Jueves,08:00,Carmen,0,4,0,camión
+Biología,Jueves,08:00,Juan,0,0,0,auto propio
+Química,Martes,11:00,Carmen,0,0,0,camión
+Biología,Viernes,08:00,Carmen,0,3,0,bicicleta
+Biología,Martes,09:00,Ana,0,4,1,taxi
+Física,Viernes,13:00,Norma,0,0,0,bicicleta
+Matemáticas,Martes,09:00,Carmen,0,0,0,auto propio
+Biología,Lunes,08:00,Norma,0,3,1,camión
+Física,Lunes,09:00,Jose,0,1,0,taxi
+Historia,Viernes,08:00,Ana,0,0,0,auto propio
+Historia,Jueves,12:00,Jose,0,5,1,camión
+Matemáticas,Miércoles,09:00,Norma,0,2,1,camión
+Biología,Lunes,11:00,Jose,0,4,0,moto
+Matemáticas,Viernes,12:00,Carmen,0,2,1,auto propio
+Matemáticas,Lunes,08:00,Norma,0,0,1,combi
+Matemáticas,Jueves,12:00,Carmen,0,4,0,camión
+Biología,Miércoles,13:00,Ana,0,5,1,camina
+Biología,Lunes,08:00,Juan,0,3,0,combi
+Química,Lunes,09:00,Jose,0,5,1,camión
+Matemáticas,Miércoles,09:00,Ana,1,1,1,auto propio
+Química,Viernes,09:00,Norma,0,2,0,combi
+Biología,Lunes,08:00,Jose,0,5,0,taxi
+Biología,Jueves,09:00,Norma,0,3,0,combi
+Química,Lunes,08:00,Carmen,0,3,0,bicicleta
+Física,Lunes,09:00,Jose,0,2,1,camión
+Matemáticas,Miércoles,12:00,Juan,0,1,1,camión
+Biología,Jueves,09:00,Juan,0,5,0,bicicleta
+Historia,Lunes,13:00,Jose,0,2,0,bicicleta
+Física,Jueves,11:00,Jose,0,3,1,taxi
+Química,Lunes,13:00,Juan,0,2,1,bicicleta
+Biología,Viernes,13:00,Carmen,0,0,0,combi
+Física,Miércoles,13:00,Juan,0,2,1,camión
+Biología,Lunes,11:00,Jose,0,3,0,bicicleta
+Biología,Martes,12:00,Ana,0,2,0,camión
+Química,Jueves,11:00,Carmen,0,4,0,camión
+Física,Miércoles,08:00,Juan,0,0,0,bicicleta
+Historia,Lunes,11:00,Carmen,0,3,0,moto
+Biología,Martes,13:00,Jose,0,1,0,camina
+Matemáticas,Martes,08:00,Carmen,0,4,0,auto propio
+Física,Lunes,09:00,Ana,0,0,0,auto propio
+Historia,Viernes,12:00,Juan,0,0,0,combi
+Matemáticas,Martes,08:00,Juan,0,0,1,taxi
+Química,Miércoles,12:00,Juan,0,2,1,camión
+Química,Lunes,12:00,Jose,0,1,1,combi
+Matemáticas,Viernes,09:00,Juan,0,1,1,moto
+Biología,Martes,12:00,Ana,0,4,0,moto
+Biología,Jueves,13:00,Jose,0,4,0,camión
+Historia,Jueves,09:00,Juan,0,4,1,auto propio
+Matemáticas,Jueves,08:00,Jose,0,5,0,bicicleta
+Biología,Jueves,12:00,Norma,1,2,1,auto propio
+Biología,Martes,13:00,Juan,0,2,0,combi
+Física,Martes,11:00,Norma,0,0,0,combi
+Física,Martes,09:00,Juan,0,5,1,bicicleta
+Física,Miércoles,09:00,Carmen,0,2,0,auto propio
+Química,Martes,12:00,Ana,1,0,1,bicicleta
+Biología,Miércoles,12:00,Norma,1,2,1,auto propio
+Matemáticas,Jueves,08:00,Norma,0,3,0,camión
+Matemáticas,Lunes,12:00,Norma,0,0,0,bicicleta
+Biología,Lunes,09:00,Juan,0,3,0,bicicleta
+Historia,Lunes,09:00,Carmen,0,1,0,camión
+Matemáticas,Viernes,13:00,Juan,0,4,0,camión
+Biología,Martes,13:00,Jose,0,2,1,camión
+Química,Lunes,09:00,Norma,0,0,0,combi
+Física,Lunes,09:00,Jose,0,3,0,auto propio
+Historia,Lunes,11:00,Carmen,0,3,0,combi
+Matemáticas,Lunes,08:00,Carmen,0,4,0,camión
+Historia,Martes,11:00,Juan,0,0,1,camión
+Matemáticas,Viernes,08:00,Norma,0,1,1,auto propio
+Historia,Viernes,11:00,Carmen,0,0,1,bicicleta
+Biología,Viernes,11:00,Norma,0,0,0,auto propio
+Historia,Viernes,09:00,Jose,0,2,1,auto propio
+Matemáticas,Viernes,11:00,Carmen,0,3,1,camión
+Química,Viernes,13:00,Juan,0,3,1,auto propio
+Química,Jueves,13:00,Juan,0,2,1,camión
+Historia,Martes,13:00,Ana,0,5,1,camión
+Matemáticas,Miércoles,13:00,Ana,0,5,1,bicicleta
+Biología,Jueves,13:00,Norma,0,5,0,bicicleta
+Biología,Martes,12:00,Norma,0,5,0,combi
+Física,Martes,13:00,Jose,0,5,1,bicicleta
+Historia,Lunes,13:00,Carmen,0,4,0,taxi
+Biología,Viernes,09:00,Carmen,0,4,0,camina
+Biología,Jueves,09:00,Carmen,0,5,1,taxi
+Biología,Martes,11:00,Ana,0,2,0,camina
+Química,Martes,11:00,Ana,0,5,1,taxi
+Matemáticas,Martes,08:00,Norma,0,2,0,auto propio
+Física,Miércoles,13:00,Norma,0,5,1,camina
+Matemáticas,Lunes,13:00,Jose,0,0,0,bicicleta
+Química,Martes,12:00,Norma,1,1,1,auto propio
+Historia,Martes,09:00,Jose,0,2,0,camión
+Química,Lunes,11:00,Jose,0,3,0,camión
+Física,Miércoles,08:00,Jose,0,2,0,moto
+Historia,Miércoles,11:00,Ana,0,0,1,camión
+Química,Martes,13:00,Norma,0,4,1,moto
+Biología,Viernes,13:00,Norma,0,4,1,taxi
+Matemáticas,Viernes,09:00,Ana,0,3,1,bicicleta
+Historia,Miércoles,08:00,Carmen,0,1,1,moto
+Historia,Martes,12:00,Juan,0,4,1,camión
+Biología,Viernes,13:00,Carmen,0,4,1,camina
+Historia,Martes,09:00,Ana,0,0,0,auto propio
+Historia,Miércoles,13:00,Ana,0,3,1,moto
+Física,Miércoles,08:00,Juan,0,0,0,taxi
+Matemáticas,Miércoles,12:00,Juan,1,2,1,auto propio
+Física,Martes,08:00,Norma,0,0,1,moto
+Historia,Lunes,13:00,Jose,0,3,1,bicicleta
+Biología,Jueves,12:00,Jose,1,0,1,bicicleta
+Biología,Martes,09:00,Ana,0,2,0,auto propio
+Matemáticas,Miércoles,11:00,Ana,1,1,1,bicicleta
+Matemáticas,Jueves,13:00,Ana,0,2,1,bicicleta
+Matemáticas,Jueves,09:00,Norma,1,2,1,bicicleta
+Matemáticas,Lunes,08:00,Carmen,0,1,0,camión
+Física,Martes,08:00,Juan,0,3,1,camina
+Historia,Viernes,12:00,Juan,0,2,0,camión
+Física,Viernes,09:00,Norma,0,3,1,auto propio
+Química,Miércoles,09:00,Juan,0,3,0,camión
+Matemáticas,Jueves,12:00,Ana,0,5,0,taxi
+Química,Martes,12:00,Norma,0,0,0,camión
+Física,Martes,12:00,Norma,0,5,0,bicicleta
+Física,Lunes,08:00,Carmen,0,0,0,camión
+Biología,Jueves,08:00,Juan,0,4,1,moto
+Historia,Miércoles,09:00,Norma,1,1,1,camina
+Química,Viernes,13:00,Carmen,0,0,0,camión
+Biología,Viernes,09:00,Carmen,0,4,0,camina
+Química,Jueves,12:00,Carmen,0,5,1,moto
+Física,Miércoles,09:00,Carmen,0,3,1,auto propio
+Historia,Lunes,11:00,Ana,0,3,1,bicicleta
+Física,Viernes,13:00,Jose,0,3,1,bicicleta
+Historia,Martes,12:00,Norma,0,4,1,camión
+Química,Miércoles,11:00,Carmen,1,2,1,taxi
+Matemáticas,Viernes,09:00,Carmen,0,3,1,auto propio
+Historia,Viernes,09:00,Ana,0,5,1,camión
+Física,Martes,13:00,Jose,0,0,1,camión
+Matemáticas,Lunes,09:00,Norma,0,1,0,camión
+Matemáticas,Martes,09:00,Jose,1,0,1,moto
+Física,Jueves,12:00,Carmen,0,1,1,combi
+Historia,Martes,13:00,Ana,0,1,1,moto
+Física,Miércoles,13:00,Norma,0,1,0,camión
+Historia,Viernes,08:00,Norma,0,1,1,camina
+Biología,Martes,11:00,Carmen,0,0,0,taxi
+Biología,Jueves,11:00,Ana,1,2,1,taxi
+Historia,Viernes,08:00,Jose,0,5,0,auto propio
+Física,Martes,13:00,Juan,0,4,0,moto
+Biología,Miércoles,08:00,Carmen,0,2,0,moto
+Matemáticas,Jueves,13:00,Juan,0,0,1,camina
+Biología,Lunes,11:00,Jose,0,1,0,camión
+Química,Martes,11:00,Ana,0,5,0,camión
+Biología,Viernes,13:00,Norma,0,2,0,taxi
+Biología,Lunes,08:00,Carmen,0,3,1,combi
+Matemáticas,Martes,08:00,Jose,0,1,0,bicicleta
+Biología,Lunes,11:00,Ana,0,4,1,bicicleta
+Matemáticas,Miércoles,09:00,Jose,0,0,0,bicicleta
+Biología,Miércoles,09:00,Carmen,0,0,0,camina
+Física,Miércoles,11:00,Jose,0,5,0,taxi
+Historia,Jueves,08:00,Carmen,0,3,1,combi
+Biología,Lunes,12:00,Norma,0,4,0,combi
+Biología,Jueves,08:00,Carmen,0,3,1,auto propio
+Química,Jueves,13:00,Jose,0,3,0,camión
+Matemáticas,Jueves,08:00,Carmen,0,3,1,taxi
+Química,Martes,13:00,Ana,0,3,1,moto
+Física,Martes,11:00,Juan,0,5,0,auto propio
+Química,Miércoles,11:00,Ana,1,2,1,bicicleta
+Química,Martes,09:00,Norma,0,4,1,moto
+Historia,Lunes,09:00,Jose,0,4,0,camión
+Biología,Jueves,12:00,Jose,0,3,0,auto propio
+Biología,Miércoles,13:00,Norma,0,0,1,combi
+Biología,Viernes,12:00,Juan,0,2,0,camina
+Matemáticas,Viernes,11:00,Ana,0,0,0,bicicleta
+Física,Lunes,08:00,Carmen,0,3,1,combi
+Química,Martes,13:00,Carmen,0,1,0,auto propio
+Biología,Viernes,12:00,Norma,0,2,1,combi
+Biología,Martes,08:00,Carmen,0,0,0,auto propio
+Física,Jueves,09:00,Norma,0,5,1,camión
+Biología,Miércoles,08:00,Ana,0,3,1,camión
+Física,Jueves,09:00,Norma,0,5,0,camión
+Historia,Jueves,13:00,Norma,0,5,0,taxi
+Historia,Miércoles,12:00,Jose,0,1,0,camión
+Biología,Lunes,08:00,Jose,0,3,1,taxi
+Química,Martes,11:00,Juan,0,2,0,taxi
+Física,Viernes,11:00,Carmen,0,0,0,auto propio
+Historia,Miércoles,11:00,Carmen,0,1,0,taxi
+Física,Miércoles,09:00,Carmen,0,2,0,moto
+Física,Jueves,11:00,Jose,0,4,0,moto
+Matemáticas,Viernes,12:00,Jose,0,0,0,auto propio
+Historia,Miércoles,08:00,Norma,0,2,0,taxi
+Química,Jueves,08:00,Carmen,0,5,0,camina
+Química,Martes,09:00,Norma,0,1,0,taxi
+Biología,Viernes,11:00,Ana,0,2,0,combi
+Química,Martes,09:00,Ana,0,3,1,camión
+Física,Lunes,09:00,Juan,0,1,1,taxi
+Física,Lunes,08:00,Juan,0,0,1,camión
+Matemáticas,Miércoles,13:00,Jose,0,3,1,camina
+Química,Viernes,12:00,Carmen,0,0,1,moto
+Física,Martes,12:00,Carmen,0,5,0,camión
+Física,Martes,13:00,Norma,0,5,1,camina
+Química,Jueves,11:00,Norma,0,1,0,combi
+Biología,Martes,12:00,Carmen,0,2,0,camión
+Historia,Lunes,12:00,Norma,0,1,0,combi
+Matemáticas,Viernes,08:00,Juan,0,2,1,combi
+Historia,Jueves,08:00,Carmen,0,4,0,moto
+Biología,Lunes,08:00,Jose,0,5,1,moto
+Física,Lunes,12:00,Ana,0,4,0,camina
+Química,Miércoles,13:00,Jose,0,2,0,taxi
+Química,Jueves,13:00,Juan,0,1,0,camión
+Química,Jueves,08:00,Ana,0,3,0,camina
+Biología,Miércoles,09:00,Jose,0,2,1,camión
+Biología,Jueves,08:00,Jose,0,5,1,taxi
+Biología,Jueves,13:00,Ana,0,1,0,auto propio
+Química,Miércoles,12:00,Ana,1,1,1,taxi
+Biología,Miércoles,09:00,Ana,0,1,0,auto propio
+Matemáticas,Miércoles,11:00,Ana,0,4,1,camión
+Biología,Jueves,13:00,Ana,0,3,0,camión
+Física,Lunes,13:00,Carmen,0,4,1,moto
+Historia,Jueves,08:00,Carmen,0,2,0,bicicleta
+Biología,Jueves,12:00,Juan,0,5,0,camión
+Biología,Martes,12:00,Ana,0,3,1,camina
+Biología,Lunes,09:00,Juan,0,5,1,combi
+Física,Martes,12:00,Norma,1,0,1,moto
+Biología,Martes,08:00,Carmen,0,5,0,bicicleta
+Matemáticas,Martes,12:00,Ana,1,0,1,auto propio
+Historia,Martes,08:00,Juan,0,2,1,moto
+Matemáticas,Miércoles,08:00,Ana,0,2,1,bicicleta
+Historia,Martes,08:00,Carmen,0,5,0,bicicleta
+Química,Lunes,12:00,Carmen,0,2,1,camina
+Historia,Jueves,09:00,Jose,0,2,0,camina
+Química,Miércoles,08:00,Juan,0,4,0,taxi
+Química,Miércoles,08:00,Norma,0,5,1,combi
+Historia,Viernes,11:00,Ana,0,4,1,taxi
+Química,Lunes,11:00,Ana,0,3,1,bicicleta
+Historia,Lunes,09:00,Ana,0,5,1,bicicleta
+Historia,Martes,11:00,Jose,0,3,1,bicicleta
+Física,Viernes,11:00,Jose,0,3,1,bicicleta
+Química,Lunes,13:00,Carmen,0,1,1,combi
+Matemáticas,Viernes,13:00,Jose,0,5,0,moto
+Biología,Miércoles,09:00,Norma,0,5,1,auto propio
+Física,Jueves,09:00,Norma,0,3,0,taxi
+Historia,Martes,11:00,Juan,0,4,0,camión
+Historia,Miércoles,12:00,Carmen,1,2,1,camina
+Historia,Martes,11:00,Jose,0,5,1,camión
+Química,Lunes,09:00,Carmen,0,4,0,camión
+Matemáticas,Viernes,09:00,Juan,0,5,1,bicicleta
+Matemáticas,Lunes,12:00,Carmen,0,3,0,combi
+Historia,Lunes,08:00,Norma,0,3,0,taxi
+Matemáticas,Lunes,12:00,Ana,0,0,0,auto propio
+Matemáticas,Lunes,08:00,Norma,0,1,0,moto
+Biología,Martes,12:00,Juan,0,1,1,camión
+Química,Viernes,12:00,Ana,0,1,0,bicicleta
+Biología,Viernes,08:00,Carmen,0,4,1,combi
+Matemáticas,Miércoles,09:00,Jose,0,3,0,auto propio
+Física,Viernes,13:00,Carmen,0,1,0,auto propio
+Biología,Jueves,12:00,Norma,0,1,0,camina
+Matemáticas,Martes,11:00,Jose,0,0,0,combi
+Biología,Lunes,11:00,Jose,0,0,1,bicicleta
+Biología,Miércoles,09:00,Jose,0,3,1,combi
+Química,Martes,13:00,Carmen,0,1,0,bicicleta
+Matemáticas,Martes,09:00,Juan,0,4,0,combi
+Biología,Viernes,09:00,Carmen,0,4,1,taxi
+Química,Lunes,08:00,Norma,0,4,1,taxi
+Química,Miércoles,08:00,Norma,0,4,1,taxi
+Química,Lunes,09:00,Carmen,0,2,1,camina
+Química,Miércoles,12:00,Carmen,1,1,1,bicicleta
+Física,Jueves,09:00,Juan,0,4,1,taxi
+Física,Viernes,09:00,Ana,0,3,1,auto propio
+Física,Lunes,12:00,Juan,0,4,0,combi
+Matemáticas,Lunes,08:00,Carmen,0,3,1,combi
+Química,Lunes,09:00,Carmen,0,4,1,bicicleta
+Matemáticas,Jueves,12:00,Jose,0,1,0,auto propio
+Física,Miércoles,08:00,Carmen,0,4,0,auto propio
+Matemáticas,Martes,13:00,Ana,0,4,0,auto propio
+Historia,Viernes,11:00,Jose,0,5,0,bicicleta
+Física,Jueves,12:00,Juan,0,1,0,camina
+Biología,Viernes,13:00,Jose,0,2,0,combi
+Física,Jueves,13:00,Norma,0,0,1,camión
+Química,Martes,08:00,Juan,0,0,0,bicicleta
+Biología,Miércoles,09:00,Carmen,0,3,0,bicicleta
+Historia,Martes,13:00,Juan,0,0,1,bicicleta
+Química,Martes,09:00,Jose,1,0,1,bicicleta
+Química,Lunes,08:00,Carmen,0,2,0,auto propio
+Física,Martes,13:00,Ana,0,1,0,auto propio
+Química,Martes,08:00,Carmen,0,4,1,taxi
+Historia,Miércoles,09:00,Norma,0,2,0,bicicleta
+Biología,Martes,11:00,Juan,1,0,1,bicicleta
+Física,Martes,11:00,Norma,0,3,1,bicicleta
+Química,Viernes,11:00,Ana,0,5,1,camión
+Biología,Jueves,09:00,Ana,0,3,0,camión
+Física,Miércoles,08:00,Ana,0,5,1,camión
+Física,Lunes,08:00,Jose,0,2,0,camión
+Física,Miércoles,09:00,Jose,0,2,0,bicicleta
+Química,Viernes,09:00,Juan,0,4,1,auto propio
+Historia,Miércoles,13:00,Juan,0,5,0,taxi
+Historia,Martes,12:00,Norma,1,2,1,auto propio
+Matemáticas,Miércoles,13:00,Jose,0,3,0,combi
+Biología,Viernes,11:00,Ana,0,3,1,moto
+Matemáticas,Martes,13:00,Jose,0,2,1,bicicleta
+Física,Martes,11:00,Ana,0,3,1,camión
+Física,Miércoles,08:00,Carmen,0,0,1,combi
+Química,Viernes,09:00,Ana,0,5,1,camina
+Química,Jueves,11:00,Juan,0,4,1,camión
+Matemáticas,Lunes,13:00,Norma,0,0,0,combi
+Química,Miércoles,12:00,Norma,0,4,0,taxi
+Física,Lunes,08:00,Carmen,0,4,1,bicicleta
+Química,Lunes,12:00,Jose,0,0,1,taxi
+Historia,Miércoles,11:00,Jose,0,5,1,moto
+Matemáticas,Miércoles,11:00,Ana,1,0,1,taxi
+Física,Viernes,13:00,Juan,0,3,0,moto
+Biología,Lunes,08:00,Norma,0,5,1,combi
+Física,Lunes,11:00,Juan,0,2,1,combi
+Biología,Jueves,08:00,Ana,0,2,1,bicicleta
+Matemáticas,Lunes,11:00,Ana,0,1,0,taxi
+Biología,Miércoles,13:00,Jose,0,0,0,bicicleta
+Física,Lunes,13:00,Ana,0,1,0,camión
+Historia,Miércoles,08:00,Ana,0,3,0,auto propio
+Matemáticas,Viernes,09:00,Carmen,0,5,1,taxi
+Historia,Viernes,12:00,Ana,0,0,1,bicicleta
+Biología,Miércoles,13:00,Carmen,0,2,1,auto propio
+Biología,Miércoles,11:00,Ana,0,3,1,moto
+Historia,Viernes,09:00,Jose,0,4,0,auto propio
+Biología,Lunes,08:00,Norma,0,3,1,camina
+Física,Jueves,13:00,Ana,0,3,1,bicicleta
+Física,Martes,08:00,Norma,0,1,0,camión
+Historia,Jueves,13:00,Juan,0,3,1,moto
+Historia,Lunes,12:00,Juan,0,4,1,moto
+Matemáticas,Lunes,12:00,Jose,0,5,0,camión
+Historia,Lunes,08:00,Carmen,0,5,0,camión
+Matemáticas,Jueves,09:00,Jose,0,1,1,combi
+Química,Viernes,13:00,Carmen,0,3,0,camina
+Química,Jueves,11:00,Juan,0,3,1,bicicleta
+Química,Viernes,11:00,Jose,0,5,0,moto
+Matemáticas,Lunes,09:00,Norma,0,5,1,taxi
+Historia,Lunes,11:00,Carmen,0,5,0,auto propio
+Historia,Viernes,09:00,Juan,0,3,0,moto
+Matemáticas,Lunes,12:00,Carmen,0,0,0,taxi
+Biología,Miércoles,08:00,Norma,0,4,1,combi
+Historia,Lunes,08:00,Norma,0,0,0,auto propio
+Física,Martes,09:00,Juan,0,4,0,taxi
+Historia,Miércoles,11:00,Jose,0,4,1,camina
+Historia,Jueves,11:00,Juan,0,3,1,camión
+Física,Jueves,08:00,Jose,0,5,1,taxi
+Física,Jueves,11:00,Carmen,0,2,0,combi
+Biología,Miércoles,12:00,Jose,0,0,0,taxi
+Física,Martes,12:00,Juan,0,4,1,moto
+Matemáticas,Viernes,08:00,Jose,0,5,0,taxi
+Química,Viernes,08:00,Norma,0,1,0,camina
+Biología,Viernes,12:00,Norma,0,4,0,auto propio
+Química,Martes,11:00,Juan,1,1,1,bicicleta
+Química,Martes,11:00,Juan,0,5,1,combi
+Física,Martes,11:00,Jose,0,1,0,camina
+Química,Miércoles,11:00,Juan,0,0,0,camión
+Matemáticas,Lunes,09:00,Jose,0,0,1,auto propio
+Biología,Miércoles,09:00,Ana,0,5,0,auto propio
+Historia,Miércoles,08:00,Jose,0,0,0,taxi
+Física,Jueves,11:00,Ana,0,1,0,camina
+Química,Viernes,09:00,Norma,0,4,1,camión
+Matemáticas,Miércoles,09:00,Jose,0,3,1,camina
+Biología,Lunes,13:00,Norma,0,5,1,taxi
+Física,Jueves,13:00,Ana,0,2,1,moto
+Química,Viernes,09:00,Jose,0,1,0,taxi
+Biología,Martes,12:00,Ana,0,5,0,bicicleta
+Química,Jueves,12:00,Jose,0,5,0,combi
+Química,Miércoles,08:00,Jose,0,0,1,combi
+Historia,Martes,08:00,Carmen,0,2,0,combi
+Biología,Martes,08:00,Ana,0,4,0,camina
+Física,Viernes,08:00,Ana,0,4,1,bicicleta
+Física,Lunes,11:00,Norma,0,0,0,combi
+Historia,Jueves,13:00,Juan,0,2,0,camina
+Biología,Miércoles,12:00,Jose,0,2,0,bicicleta
+Química,Miércoles,11:00,Ana,1,0,1,moto
+Historia,Jueves,08:00,Norma,0,2,0,taxi
+Historia,Miércoles,09:00,Ana,0,2,0,camión
+Física,Jueves,11:00,Norma,0,5,1,auto propio
+Física,Lunes,09:00,Carmen,0,0,0,bicicleta
+Historia,Martes,08:00,Norma,0,3,0,camina
+Física,Lunes,08:00,Ana,0,3,0,camina
+Biología,Lunes,13:00,Carmen,0,1,0,auto propio
+Matemáticas,Miércoles,11:00,Juan,0,5,1,bicicleta
+Historia,Martes,13:00,Jose,0,0,1,bicicleta
+Matemáticas,Lunes,08:00,Norma,0,1,1,auto propio
+Matemáticas,Viernes,12:00,Jose,0,1,1,camina
+Química,Jueves,12:00,Carmen,0,4,1,taxi
+Química,Martes,12:00,Norma,0,4,1,camión
+Matemáticas,Martes,11:00,Juan,0,3,1,camina
+Química,Miércoles,13:00,Carmen,0,5,1,camión
+Matemáticas,Lunes,11:00,Jose,0,0,0,taxi
+Biología,Jueves,08:00,Carmen,0,1,0,auto propio
+Biología,Miércoles,12:00,Carmen,0,5,1,auto propio
+Matemáticas,Miércoles,13:00,Carmen,0,3,1,camión
+Matemáticas,Miércoles,13:00,Norma,0,4,0,camión
+Física,Lunes,11:00,Jose,0,5,0,bicicleta
+Matemáticas,Jueves,12:00,Jose,0,4,1,moto
+Historia,Martes,11:00,Jose,0,3,0,camión
+Historia,Lunes,13:00,Jose,0,0,0,camión
+Física,Viernes,11:00,Norma,0,4,1,camión
+Matemáticas,Viernes,13:00,Juan,0,4,1,camión
+Física,Viernes,11:00,Juan,0,4,1,taxi
+Química,Miércoles,09:00,Jose,0,1,0,combi
+Física,Jueves,13:00,Jose,0,5,1,auto propio
+Biología,Lunes,08:00,Ana,0,2,0,combi
+Biología,Lunes,11:00,Norma,0,5,0,camión
+Biología,Lunes,11:00,Juan,0,5,0,combi
+Historia,Viernes,13:00,Carmen,0,4,0,camina
+Historia,Miércoles,13:00,Carmen,0,3,1,camión
+Biología,Miércoles,09:00,Carmen,0,0,0,bicicleta
+Biología,Jueves,08:00,Ana,0,3,1,moto
+Biología,Lunes,08:00,Juan,0,2,0,camión
+Química,Lunes,11:00,Juan,0,0,0,camina
+Biología,Jueves,08:00,Norma,0,3,1,moto
+Química,Miércoles,11:00,Juan,0,4,0,auto propio
+Física,Lunes,13:00,Carmen,0,5,1,camión
+Química,Martes,11:00,Carmen,0,4,1,taxi
+Biología,Viernes,13:00,Juan,0,3,1,bicicleta
+Historia,Miércoles,12:00,Juan,0,4,0,moto
+Física,Jueves,12:00,Ana,0,3,0,auto propio
+Matemáticas,Martes,11:00,Norma,1,0,1,bicicleta
+Biología,Miércoles,13:00,Jose,0,5,1,camión
+Matemáticas,Martes,13:00,Ana,0,2,0,camión
+Historia,Lunes,09:00,Ana,0,2,0,camión
+Biología,Viernes,08:00,Ana,0,5,1,taxi
+Matemáticas,Martes,12:00,Carmen,0,5,1,moto
+Matemáticas,Miércoles,13:00,Juan,0,3,0,bicicleta
+Matemáticas,Miércoles,13:00,Jose,0,0,1,moto
+Biología,Lunes,13:00,Ana,0,2,1,bicicleta
+Historia,Lunes,13:00,Norma,0,4,1,combi
+Matemáticas,Viernes,11:00,Norma,0,2,0,camión
+Matemáticas,Martes,12:00,Norma,1,2,1,camina
+Matemáticas,Jueves,13:00,Ana,0,4,1,moto
+Biología,Miércoles,09:00,Jose,0,3,0,bicicleta
+Física,Jueves,12:00,Norma,1,1,1,bicicleta
+Historia,Viernes,11:00,Carmen,0,2,0,combi
+Química,Lunes,11:00,Juan,0,5,1,camión
+Biología,Viernes,08:00,Norma,0,2,0,camión
+Historia,Viernes,13:00,Carmen,0,5,0,bicicleta
+Física,Martes,13:00,Carmen,0,3,0,bicicleta
+Matemáticas,Lunes,08:00,Juan,0,2,1,combi
+Física,Lunes,08:00,Norma,0,0,0,camión
+Biología,Lunes,08:00,Ana,0,4,0,bicicleta
+Física,Martes,08:00,Norma,0,2,0,bicicleta
+Química,Viernes,12:00,Ana,0,1,0,taxi
+Matemáticas,Martes,11:00,Juan,0,4,0,combi
+Historia,Lunes,09:00,Ana,0,3,0,taxi
+Historia,Miércoles,13:00,Juan,0,2,1,bicicleta
+Historia,Martes,08:00,Carmen,0,0,0,bicicleta
+Matemáticas,Martes,11:00,Carmen,1,0,1,moto
+Historia,Viernes,08:00,Jose,0,1,1,moto
+Biología,Martes,08:00,Carmen,0,3,0,combi
+Física,Jueves,13:00,Jose,0,2,0,combi
+Química,Martes,08:00,Carmen,0,5,1,taxi
+Química,Lunes,13:00,Juan,0,3,1,combi
+Física,Martes,12:00,Ana,0,4,0,bicicleta
+Matemáticas,Viernes,12:00,Ana,0,0,0,camina
+Matemáticas,Jueves,11:00,Norma,1,0,1,bicicleta
+Química,Lunes,09:00,Carmen,0,1,0,moto
+Biología,Martes,09:00,Jose,0,1,0,bicicleta
+Biología,Miércoles,09:00,Norma,0,0,0,moto
+Biología,Jueves,11:00,Norma,1,0,1,camina
+Física,Lunes,12:00,Norma,0,4,0,taxi
+Biología,Lunes,11:00,Jose,0,5,1,bicicleta
+Historia,Martes,13:00,Ana,0,0,1,auto propio
+Historia,Lunes,12:00,Carmen,0,4,1,taxi
+Historia,Miércoles,08:00,Juan,0,2,0,camina
+Química,Jueves,11:00,Jose,1,0,1,moto
+Biología,Jueves,11:00,Carmen,0,5,1,auto propio
+Física,Lunes,12:00,Ana,0,0,0,auto propio
+Química,Viernes,12:00,Carmen,0,5,0,moto
+Biología,Lunes,11:00,Norma,0,4,1,camina
+Química,Lunes,12:00,Juan,0,5,0,camión
+Historia,Viernes,13:00,Carmen,0,3,1,bicicleta
+Biología,Viernes,13:00,Jose,0,5,0,auto propio
+Química,Viernes,09:00,Carmen,0,2,1,auto propio
+Física,Miércoles,08:00,Carmen,0,1,0,bicicleta
+Biología,Viernes,13:00,Ana,0,0,0,moto
+Biología,Miércoles,12:00,Carmen,0,3,1,bicicleta
+Historia,Lunes,11:00,Carmen,0,0,0,combi
+Química,Viernes,13:00,Jose,0,2,1,auto propio
+Física,Martes,08:00,Juan,0,5,0,auto propio
+Física,Lunes,09:00,Norma,0,0,1,camina
+Física,Viernes,12:00,Juan,0,3,0,auto propio
+Física,Viernes,13:00,Carmen,0,4,1,camina
+Química,Martes,08:00,Ana,0,0,1,taxi
+Historia,Martes,08:00,Juan,0,5,1,taxi
+Química,Jueves,13:00,Ana,0,5,0,combi
+Física,Jueves,09:00,Carmen,0,3,1,taxi
+Matemáticas,Miércoles,08:00,Juan,0,5,0,combi
+Química,Miércoles,12:00,Ana,0,5,1,taxi
+Historia,Viernes,13:00,Jose,0,5,0,bicicleta
+Matemáticas,Jueves,11:00,Ana,0,0,0,moto
+Física,Jueves,12:00,Norma,1,2,1,auto propio
+Historia,Martes,13:00,Jose,0,3,0,bicicleta
+Matemáticas,Miércoles,08:00,Juan,0,2,0,combi
+Biología,Martes,11:00,Ana,0,3,0,combi
+Matemáticas,Jueves,11:00,Norma,0,3,0,taxi
+Matemáticas,Jueves,13:00,Juan,0,3,1,combi
+Biología,Jueves,13:00,Jose,0,3,0,moto
+Matemáticas,Jueves,13:00,Ana,0,2,1,combi
+Química,Jueves,11:00,Carmen,0,0,0,bicicleta
+Física,Martes,09:00,Ana,0,2,0,bicicleta
+Historia,Jueves,12:00,Norma,1,1,1,taxi
+Matemáticas,Martes,12:00,Norma,0,2,0,bicicleta
+Historia,Jueves,13:00,Juan,0,5,1,taxi
+Química,Martes,08:00,Juan,0,1,1,combi
+Historia,Martes,09:00,Ana,0,3,1,moto
+Matemáticas,Jueves,11:00,Carmen,0,3,0,bicicleta
+Historia,Viernes,09:00,Jose,0,0,0,camión
+Biología,Martes,13:00,Carmen,0,4,0,camina
+Física,Viernes,12:00,Juan,0,3,0,bicicleta
+Biología,Lunes,08:00,Jose,0,1,1,auto propio
+Biología,Miércoles,12:00,Juan,0,0,0,combi
+Química,Lunes,13:00,Jose,0,3,1,taxi
+Química,Viernes,08:00,Juan,0,0,1,combi
+Física,Viernes,12:00,Ana,0,0,1,camión
+Biología,Viernes,12:00,Carmen,0,4,0,auto propio
+Biología,Martes,13:00,Norma,0,2,0,moto
+Física,Viernes,09:00,Norma,0,0,1,bicicleta
+Historia,Lunes,11:00,Norma,0,0,0,taxi
+Matemáticas,Viernes,08:00,Carmen,0,1,1,camión
+Historia,Viernes,11:00,Norma,0,2,0,auto propio
+Química,Jueves,12:00,Ana,0,2,0,auto propio
+Física,Lunes,13:00,Norma,0,3,0,moto
+Física,Lunes,09:00,Carmen,0,3,0,combi
+Química,Jueves,12:00,Ana,0,3,0,auto propio
+Historia,Viernes,12:00,Carmen,0,4,0,taxi
+Química,Viernes,12:00,Norma,0,3,1,combi
+Química,Miércoles,12:00,Ana,1,0,1,moto
+Física,Lunes,09:00,Norma,0,3,0,camina
+Biología,Lunes,09:00,Juan,0,0,0,bicicleta
+Química,Jueves,09:00,Juan,0,1,0,combi
+Historia,Lunes,09:00,Juan,0,5,1,bicicleta
+Biología,Lunes,08:00,Norma,0,4,1,bicicleta
+Biología,Viernes,11:00,Norma,0,5,0,camión
+Matemáticas,Viernes,12:00,Ana,0,5,1,taxi
+Matemáticas,Lunes,08:00,Jose,0,0,0,moto
+Física,Lunes,08:00,Carmen,0,2,1,combi
+Biología,Viernes,08:00,Juan,0,5,0,moto
+Física,Lunes,12:00,Juan,0,3,0,camina
+Física,Lunes,13:00,Juan,0,2,1,camina
+Historia,Martes,08:00,Jose,0,4,0,combi
+Matemáticas,Viernes,09:00,Jose,0,4,0,taxi
+Química,Viernes,09:00,Ana,0,4,0,camión
+Biología,Viernes,12:00,Carmen,0,2,0,bicicleta
+Biología,Miércoles,09:00,Juan,0,5,1,moto
+Química,Martes,12:00,Carmen,0,0,0,combi
+Física,Jueves,09:00,Juan,1,0,1,auto propio
+Biología,Viernes,13:00,Carmen,0,1,0,moto
+Física,Lunes,13:00,Norma,0,4,1,auto propio
+Matemáticas,Martes,09:00,Ana,0,4,1,camión
+Física,Viernes,09:00,Jose,0,3,1,combi
+Física,Martes,11:00,Jose,0,3,1,camina
+Química,Jueves,12:00,Jose,0,0,0,auto propio
+Biología,Viernes,09:00,Ana,0,3,0,combi
+Química,Martes,11:00,Carmen,0,1,0,camión
+Historia,Viernes,08:00,Carmen,0,4,0,bicicleta
+Matemáticas,Lunes,12:00,Juan,0,2,0,camina
+Biología,Viernes,09:00,Carmen,0,1,1,combi
+Historia,Viernes,08:00,Carmen,0,5,1,taxi
+Física,Lunes,09:00,Juan,0,2,1,camión
+Física,Lunes,11:00,Juan,0,2,1,moto
+Química,Lunes,09:00,Juan,0,0,0,auto propio
+Matemáticas,Lunes,11:00,Ana,0,1,1,camión
+Matemáticas,Lunes,12:00,Carmen,0,4,1,auto propio
+Biología,Jueves,09:00,Ana,0,0,1,combi
+Biología,Jueves,11:00,Juan,0,0,1,combi
+Química,Miércoles,11:00,Norma,0,4,1,combi
+Historia,Miércoles,09:00,Norma,0,4,1,taxi
+Historia,Martes,08:00,Ana,0,2,1,taxi
+Biología,Jueves,11:00,Juan,0,1,0,camina
+Química,Martes,12:00,Juan,0,2,0,moto
+Matemáticas,Jueves,12:00,Ana,0,1,0,taxi
+Física,Martes,11:00,Ana,0,1,0,combi
+Historia,Viernes,12:00,Norma,0,3,0,combi
+Matemáticas,Miércoles,09:00,Jose,0,3,0,camina
+Biología,Jueves,09:00,Juan,0,4,1,combi
+Química,Lunes,13:00,Carmen,0,2,1,camina
+Física,Jueves,09:00,Juan,0,4,0,moto
+Historia,Martes,08:00,Jose,0,2,1,camina
+Química,Lunes,09:00,Carmen,0,3,1,auto propio
+Biología,Miércoles,13:00,Carmen,0,4,0,auto propio
+Historia,Martes,12:00,Jose,0,3,1,moto
+Química,Jueves,12:00,Juan,0,3,0,taxi
+Historia,Martes,08:00,Carmen,0,0,1,combi
+Matemáticas,Lunes,11:00,Norma,0,0,0,auto propio
+Biología,Miércoles,12:00,Norma,0,0,0,bicicleta
+Historia,Jueves,11:00,Juan,0,3,1,camina
+Matemáticas,Miércoles,08:00,Carmen,0,2,1,taxi
+Química,Lunes,09:00,Norma,0,3,1,auto propio
+Historia,Lunes,11:00,Juan,0,2,0,moto
+Química,Jueves,13:00,Norma,0,1,0,camina
+Biología,Viernes,09:00,Juan,0,0,0,camión
+Física,Miércoles,09:00,Carmen,0,5,1,combi
+Biología,Jueves,11:00,Juan,0,3,1,combi
+Historia,Martes,13:00,Ana,0,1,1,bicicleta
+Matemáticas,Lunes,08:00,Norma,0,0,1,combi
+Matemáticas,Viernes,12:00,Jose,0,1,0,auto propio
+Química,Jueves,09:00,Norma,0,1,1,combi
+Matemáticas,Lunes,11:00,Jose,0,0,0,bicicleta
+Biología,Viernes,11:00,Jose,0,0,1,taxi
+Matemáticas,Viernes,12:00,Juan,0,0,0,moto
+Historia,Viernes,13:00,Juan,0,3,1,moto
+Química,Viernes,11:00,Ana,0,3,0,camina
+Historia,Viernes,13:00,Jose,0,1,0,camina
+Historia,Lunes,12:00,Carmen,0,0,1,combi
+Química,Martes,11:00,Ana,0,5,0,camión
+Historia,Martes,09:00,Carmen,0,5,0,camión
+Química,Jueves,11:00,Carmen,0,5,0,camina
+Matemáticas,Martes,09:00,Ana,1,2,1,bicicleta
+Matemáticas,Viernes,11:00,Norma,0,1,0,camina
+Biología,Viernes,08:00,Juan,0,3,0,camina
+Matemáticas,Lunes,13:00,Juan,0,3,0,taxi
+Matemáticas,Lunes,11:00,Juan,0,3,0,bicicleta
+Química,Lunes,09:00,Ana,0,5,0,combi
+Biología,Jueves,11:00,Norma,0,0,0,camina
+Biología,Martes,09:00,Juan,1,0,1,moto
+Química,Lunes,09:00,Juan,0,5,0,combi
+Matemáticas,Jueves,12:00,Carmen,1,2,1,bicicleta
+Biología,Miércoles,11:00,Juan,1,2,1,camina
+Física,Lunes,11:00,Ana,0,5,1,camión
+Física,Lunes,12:00,Carmen,0,4,1,camina
+Biología,Martes,11:00,Ana,0,0,0,camina
+Química,Viernes,11:00,Carmen,0,1,1,combi
+Biología,Viernes,08:00,Ana,0,5,1,camión
+Matemáticas,Jueves,13:00,Carmen,0,3,1,camina
+Física,Miércoles,09:00,Juan,0,5,0,camión
+Historia,Jueves,12:00,Carmen,0,1,0,camina
+Física,Lunes,13:00,Jose,0,4,0,moto
+Física,Viernes,12:00,Jose,0,3,0,camión
+Matemáticas,Miércoles,13:00,Juan,0,1,0,moto
+Biología,Lunes,12:00,Ana,0,0,0,bicicleta
+Historia,Viernes,11:00,Norma,0,2,1,combi
+Física,Lunes,09:00,Carmen,0,0,1,camina
+Física,Martes,13:00,Juan,0,5,0,taxi
+Matemáticas,Lunes,09:00,Ana,0,2,1,camión
+Biología,Miércoles,09:00,Ana,0,4,1,taxi
+Química,Viernes,12:00,Juan,0,1,1,camión
+Química,Lunes,08:00,Ana,0,1,1,combi
+Historia,Lunes,13:00,Norma,0,2,1,auto propio
+Matemáticas,Miércoles,11:00,Jose,0,3,0,auto propio
+Química,Martes,11:00,Ana,0,2,1,camión
+Física,Jueves,08:00,Ana,0,2,0,auto propio
+Física,Miércoles,11:00,Carmen,0,5,1,taxi
+Química,Martes,12:00,Carmen,0,1,1,camión
+Física,Viernes,11:00,Jose,0,5,0,combi
+Matemáticas,Miércoles,11:00,Carmen,0,3,1,taxi
+Química,Miércoles,08:00,Juan,0,5,1,moto
+Historia,Viernes,09:00,Carmen,0,5,1,auto propio
+Física,Jueves,12:00,Ana,0,4,0,combi
+Matemáticas,Lunes,12:00,Jose,0,0,0,camina
+Física,Jueves,08:00,Ana,0,1,1,bicicleta
+Física,Jueves,11:00,Ana,0,3,1,camión
+Biología,Jueves,13:00,Ana,0,0,1,auto propio
+Biología,Viernes,08:00,Jose,0,2,0,auto propio
+Física,Lunes,13:00,Juan,0,3,0,taxi
+Física,Miércoles,09:00,Norma,0,1,1,camión
+Matemáticas,Lunes,09:00,Jose,0,5,1,camión
+Biología,Jueves,12:00,Norma,0,0,0,auto propio
+Física,Viernes,13:00,Jose,0,1,0,moto
+Historia,Lunes,12:00,Juan,0,4,0,auto propio
+Matemáticas,Viernes,09:00,Ana,0,2,0,combi
+Matemáticas,Martes,11:00,Carmen,0,0,0,camina
+Matemáticas,Lunes,11:00,Ana,0,0,0,bicicleta
+Historia,Lunes,12:00,Jose,0,5,0,auto propio
+Matemáticas,Jueves,08:00,Norma,0,5,1,moto
+Química,Viernes,09:00,Norma,0,3,0,camina
+Biología,Miércoles,08:00,Norma,0,5,0,auto propio
+Biología,Miércoles,08:00,Carmen,0,1,0,moto
+Física,Martes,13:00,Ana,0,4,1,moto
+Biología,Miércoles,11:00,Norma,0,1,0,moto
+Biología,Jueves,12:00,Ana,1,0,1,auto propio
+Química,Martes,11:00,Ana,0,1,1,camión
+Física,Viernes,12:00,Juan,0,0,1,camión
+Física,Miércoles,11:00,Juan,0,5,1,combi
+Matemáticas,Miércoles,08:00,Norma,0,4,1,moto
+Biología,Viernes,11:00,Norma,0,3,0,moto
+Historia,Viernes,08:00,Carmen,0,5,0,taxi
+Historia,Jueves,12:00,Ana,0,3,1,taxi
+Biología,Miércoles,13:00,Jose,0,1,1,taxi
+Historia,Viernes,12:00,Juan,0,1,1,auto propio
+Historia,Miércoles,09:00,Carmen,0,4,0,auto propio
+Física,Miércoles,08:00,Carmen,0,0,0,taxi
+Química,Martes,08:00,Norma,0,4,0,bicicleta
+Biología,Jueves,11:00,Norma,0,3,1,auto propio
+Biología,Viernes,13:00,Norma,0,1,0,combi
+Matemáticas,Miércoles,08:00,Jose,0,3,1,auto propio
+Química,Martes,11:00,Carmen,0,3,0,auto propio
+Física,Martes,12:00,Juan,0,5,0,taxi
+Matemáticas,Lunes,13:00,Juan,0,4,0,taxi
+Matemáticas,Martes,12:00,Norma,0,5,1,camión
+Historia,Viernes,08:00,Norma,0,1,0,auto propio
+Química,Martes,12:00,Norma,0,2,0,auto propio
+Matemáticas,Viernes,09:00,Carmen,0,3,1,combi
+Matemáticas,Viernes,13:00,Jose,0,1,0,moto
+Física,Miércoles,12:00,Carmen,1,1,1,bicicleta
+Física,Miércoles,08:00,Ana,0,2,0,bicicleta
+Matemáticas,Lunes,11:00,Juan,0,0,1,camina
+Matemáticas,Martes,11:00,Juan,1,0,1,bicicleta
+Química,Martes,13:00,Jose,0,2,1,auto propio
+Física,Miércoles,11:00,Juan,0,3,1,combi
+Matemáticas,Martes,12:00,Ana,0,1,0,moto
+Física,Miércoles,12:00,Jose,0,3,1,moto
+Química,Miércoles,08:00,Jose,0,5,0,taxi
+Historia,Miércoles,08:00,Juan,0,0,1,auto propio
+Química,Jueves,11:00,Ana,1,2,1,taxi
+Historia,Miércoles,13:00,Carmen,0,0,1,moto
+Biología,Viernes,13:00,Ana,0,2,1,bicicleta
+Física,Martes,09:00,Juan,0,3,1,auto propio
+Física,Viernes,11:00,Juan,0,5,1,combi
+Historia,Viernes,09:00,Ana,0,2,1,taxi
+Historia,Martes,11:00,Juan,0,4,1,moto
+Historia,Martes,09:00,Ana,1,0,1,moto
+Matemáticas,Viernes,09:00,Ana,0,0,1,moto
+Historia,Viernes,09:00,Ana,0,2,0,combi
+Química,Jueves,11:00,Carmen,0,5,1,taxi
+Historia,Viernes,11:00,Juan,0,0,0,auto propio
+Historia,Miércoles,09:00,Juan,0,4,1,taxi
+Matemáticas,Miércoles,11:00,Juan,0,1,1,combi
+Química,Miércoles,13:00,Jose,0,1,0,combi
+Biología,Lunes,13:00,Ana,0,2,1,taxi
+Matemáticas,Lunes,13:00,Juan,0,2,1,camina
+Matemáticas,Lunes,11:00,Jose,0,5,0,bicicleta
+Historia,Martes,09:00,Juan,0,5,1,taxi
+Física,Lunes,09:00,Carmen,0,3,0,taxi
+Química,Lunes,09:00,Norma,0,3,0,auto propio
+Física,Miércoles,09:00,Norma,0,5,1,camina
+Química,Martes,13:00,Carmen,0,5,0,combi
+Historia,Jueves,13:00,Carmen,0,4,0,bicicleta
+Matemáticas,Lunes,12:00,Ana,0,2,0,auto propio
+Química,Jueves,09:00,Ana,0,3,1,moto
+Química,Jueves,08:00,Jose,0,4,1,moto
+Matemáticas,Jueves,09:00,Norma,0,5,1,bicicleta
+Historia,Jueves,12:00,Ana,0,5,1,bicicleta
+Historia,Jueves,13:00,Ana,0,5,1,taxi
+Matemáticas,Miércoles,08:00,Norma,0,1,1,camión
+Química,Viernes,09:00,Ana,0,0,0,camina
+Química,Martes,11:00,Jose,0,1,0,taxi
+Matemáticas,Jueves,13:00,Ana,0,4,1,camina
+Historia,Martes,08:00,Norma,0,5,1,bicicleta
+Matemáticas,Martes,11:00,Juan,0,3,1,bicicleta
+Historia,Jueves,08:00,Juan,0,3,0,auto propio
+Química,Miércoles,12:00,Norma,1,1,1,moto
+Química,Miércoles,11:00,Ana,0,3,0,taxi
+Química,Martes,09:00,Carmen,0,2,0,auto propio
+Física,Lunes,08:00,Juan,0,3,1,taxi
+Física,Martes,11:00,Carmen,1,2,1,auto propio
+Química,Lunes,11:00,Jose,0,2,0,combi
+Química,Lunes,09:00,Carmen,0,5,0,camión
+Matemáticas,Jueves,13:00,Norma,0,4,1,taxi
+Física,Martes,11:00,Jose,0,4,1,taxi
+Química,Lunes,11:00,Ana,0,0,0,combi
+Matemáticas,Jueves,13:00,Jose,0,4,0,camina
+Matemáticas,Viernes,11:00,Ana,0,1,1,moto
+Física,Viernes,13:00,Juan,0,4,1,combi
+Biología,Viernes,09:00,Jose,0,2,0,camión
+Química,Lunes,13:00,Norma,0,1,1,combi
+Química,Jueves,09:00,Carmen,1,2,1,camina
+Historia,Jueves,13:00,Juan,0,2,0,bicicleta
+Historia,Jueves,11:00,Jose,0,3,0,combi
+Biología,Viernes,08:00,Jose,0,5,0,camión
+Matemáticas,Lunes,08:00,Norma,0,4,1,bicicleta
+Biología,Viernes,13:00,Carmen,0,2,0,camión
+Historia,Lunes,11:00,Carmen,0,1,1,auto propio
+Matemáticas,Lunes,13:00,Ana,0,0,1,bicicleta
+Biología,Viernes,13:00,Juan,0,2,1,combi
+Química,Miércoles,08:00,Ana,0,2,1,camina
+Biología,Lunes,13:00,Norma,0,3,1,bicicleta
+Biología,Viernes,09:00,Ana,0,4,0,camión
+Física,Lunes,09:00,Ana,0,0,0,camina
+Historia,Lunes,09:00,Juan,0,3,0,combi
+Historia,Miércoles,13:00,Ana,0,4,0,auto propio
+Física,Jueves,08:00,Ana,0,3,1,camión
+Matemáticas,Viernes,13:00,Carmen,0,1,0,camina
+Física,Lunes,13:00,Jose,0,0,0,camina
+Historia,Lunes,12:00,Jose,0,1,1,bicicleta
+Historia,Martes,13:00,Norma,0,4,0,taxi
+Matemáticas,Lunes,09:00,Ana,0,1,1,camina
+Matemáticas,Jueves,12:00,Jose,0,4,1,taxi
+Química,Viernes,08:00,Ana,0,1,0,combi
+Física,Jueves,09:00,Norma,0,3,1,camina
+Historia,Martes,11:00,Ana,0,0,0,camión
+Matemáticas,Lunes,09:00,Juan,0,0,0,taxi
+Física,Lunes,08:00,Ana,0,4,0,camión
+Química,Lunes,08:00,Ana,0,3,0,combi
+Historia,Miércoles,12:00,Ana,1,0,1,bicicleta
+Biología,Lunes,13:00,Ana,0,5,0,bicicleta
+Biología,Lunes,12:00,Juan,0,2,0,bicicleta
+Historia,Martes,11:00,Jose,0,4,0,taxi
+Matemáticas,Viernes,08:00,Norma,0,4,1,combi
+Química,Viernes,11:00,Juan,0,2,1,camina
+Historia,Viernes,09:00,Juan,0,0,0,combi
+Física,Martes,08:00,Jose,0,5,1,moto
+Química,Jueves,09:00,Norma,0,1,0,moto
+Historia,Viernes,11:00,Juan,0,4,0,camión
+Química,Jueves,09:00,Ana,0,4,0,camina
+Matemáticas,Jueves,09:00,Jose,0,4,0,moto
+Física,Martes,09:00,Carmen,0,1,0,bicicleta
+Química,Viernes,09:00,Jose,0,1,0,taxi
+Química,Martes,12:00,Norma,0,5,0,taxi
+Biología,Martes,13:00,Carmen,0,3,1,combi
+Química,Martes,08:00,Carmen,0,2,0,camión
+Historia,Viernes,09:00,Jose,0,5,1,moto
+Biología,Jueves,09:00,Juan,0,5,0,bicicleta
+Historia,Jueves,08:00,Jose,0,2,1,camión
+Química,Viernes,13:00,Norma,0,3,1,combi
+Biología,Jueves,09:00,Juan,0,1,0,camina
+Biología,Lunes,13:00,Jose,0,2,0,auto propio
+Química,Lunes,11:00,Juan,0,1,1,combi
+Química,Lunes,11:00,Ana,0,1,1,combi
+Matemáticas,Martes,11:00,Carmen,0,5,0,auto propio
+Biología,Lunes,08:00,Norma,0,3,0,camina
+Matemáticas,Viernes,09:00,Ana,0,5,0,auto propio
+Historia,Jueves,09:00,Norma,0,4,1,bicicleta
+Biología,Martes,11:00,Norma,0,3,0,auto propio
+Química,Miércoles,12:00,Juan,0,3,0,bicicleta
+Biología,Viernes,12:00,Norma,0,0,1,auto propio
+Historia,Jueves,09:00,Norma,1,2,1,camina
+Biología,Jueves,11:00,Juan,1,1,1,taxi
+Biología,Jueves,12:00,Juan,0,5,1,bicicleta
+Biología,Miércoles,09:00,Jose,1,1,1,auto propio
+Biología,Lunes,09:00,Carmen,0,5,0,combi
+Matemáticas,Lunes,13:00,Carmen,0,2,1,taxi
+Física,Martes,09:00,Ana,0,4,1,combi
+Biología,Miércoles,08:00,Carmen,0,4,0,auto propio
+Historia,Jueves,09:00,Juan,0,0,0,auto propio
+Química,Martes,13:00,Carmen,0,3,1,camión
+Física,Lunes,09:00,Norma,0,0,0,taxi
+Matemáticas,Miércoles,08:00,Carmen,0,1,0,auto propio
+Química,Miércoles,08:00,Juan,0,2,0,bicicleta
+Matemáticas,Martes,11:00,Jose,0,2,0,camina
+Historia,Martes,13:00,Juan,0,3,1,moto
+Matemáticas,Lunes,11:00,Jose,0,0,0,taxi
+Matemáticas,Jueves,13:00,Carmen,0,0,0,moto
+Química,Viernes,09:00,Carmen,0,4,1,taxi
+Matemáticas,Lunes,08:00,Carmen,0,0,0,bicicleta
+Matemáticas,Viernes,08:00,Carmen,0,0,0,moto
+Química,Viernes,09:00,Ana,0,2,0,taxi
+Física,Miércoles,13:00,Jose,0,0,0,combi
+Biología,Viernes,12:00,Carmen,0,0,1,camina
+Biología,Jueves,12:00,Jose,0,5,0,camión
+Química,Viernes,13:00,Norma,0,0,0,combi
+Matemáticas,Lunes,09:00,Jose,0,1,0,combi
+Química,Jueves,08:00,Jose,0,2,1,combi
+Historia,Viernes,12:00,Ana,0,4,0,moto
+Física,Viernes,08:00,Juan,0,5,1,bicicleta
+Historia,Miércoles,12:00,Ana,0,5,1,taxi
+Historia,Martes,12:00,Carmen,0,0,0,combi
+Historia,Martes,09:00,Jose,0,2,0,camina
+Química,Viernes,08:00,Jose,0,0,0,bicicleta
+Biología,Lunes,11:00,Norma,0,5,1,combi
+Física,Miércoles,12:00,Jose,0,0,0,taxi
+Química,Miércoles,13:00,Jose,0,0,1,auto propio
+Química,Jueves,08:00,Norma,0,1,0,combi
+Historia,Jueves,13:00,Carmen,0,0,1,camión
+Matemáticas,Martes,09:00,Jose,0,3,1,camión
+Física,Lunes,12:00,Ana,0,0,1,auto propio
+Historia,Jueves,08:00,Ana,0,3,0,bicicleta
+Física,Miércoles,13:00,Jose,0,3,1,moto
+Historia,Jueves,12:00,Ana,0,4,1,camión
+Física,Jueves,09:00,Juan,0,1,0,camina
+Química,Jueves,12:00,Carmen,0,2,0,auto propio
+Matemáticas,Jueves,12:00,Juan,0,4,1,camión
+Matemáticas,Jueves,11:00,Jose,0,3,1,camina
+Matemáticas,Viernes,12:00,Carmen,0,1,1,bicicleta
+Biología,Viernes,08:00,Juan,0,4,0,camión
+Matemáticas,Martes,09:00,Ana,0,0,0,taxi
+Física,Miércoles,11:00,Norma,0,5,1,moto
+Historia,Martes,08:00,Ana,0,2,0,camión
+Física,Lunes,08:00,Carmen,0,5,0,auto propio
+Química,Martes,12:00,Norma,0,5,1,moto
+Física,Viernes,09:00,Carmen,0,0,1,bicicleta
+Física,Miércoles,12:00,Carmen,0,2,0,combi
+Biología,Viernes,12:00,Juan,0,2,0,camión
+Física,Martes,13:00,Juan,0,5,0,taxi
+Matemáticas,Martes,08:00,Ana,0,0,0,combi
+Historia,Miércoles,08:00,Juan,0,3,0,camina
+Historia,Viernes,11:00,Jose,0,2,1,bicicleta
+Química,Viernes,13:00,Juan,0,3,1,auto propio
+Matemáticas,Martes,09:00,Norma,1,1,1,camina
+Química,Jueves,09:00,Jose,0,4,1,combi
+Historia,Jueves,11:00,Carmen,0,0,0,combi
+Física,Martes,08:00,Jose,0,5,0,combi
+Química,Lunes,09:00,Carmen,0,5,0,camión
+Física,Martes,11:00,Juan,0,0,0,camión
+Química,Viernes,13:00,Ana,0,1,0,auto propio
+Física,Lunes,08:00,Jose,0,1,0,combi
+Física,Lunes,09:00,Jose,0,0,1,auto propio
+Biología,Jueves,08:00,Juan,0,5,0,taxi
+Matemáticas,Jueves,09:00,Jose,0,0,1,camión
+Física,Viernes,11:00,Ana,0,0,0,taxi
+Matemáticas,Miércoles,13:00,Juan,0,2,1,moto
+Historia,Viernes,11:00,Carmen,0,2,0,taxi
+Física,Miércoles,12:00,Juan,0,2,1,combi
+Historia,Martes,12:00,Jose,0,4,0,combi
+Matemáticas,Jueves,09:00,Juan,0,3,0,taxi
+Química,Martes,08:00,Carmen,0,1,1,auto propio
+Química,Jueves,13:00,Norma,0,2,1,bicicleta
+Química,Viernes,11:00,Norma,0,0,1,camión
+Biología,Miércoles,08:00,Norma,0,5,1,bicicleta
+Química,Miércoles,12:00,Juan,1,1,1,bicicleta
+Física,Jueves,13:00,Norma,0,5,0,combi
+Matemáticas,Miércoles,11:00,Carmen,0,5,1,moto
+Biología,Lunes,09:00,Carmen,0,4,1,camina
+Química,Jueves,08:00,Norma,0,1,0,auto propio
+Historia,Lunes,11:00,Juan,0,4,0,camión
+Biología,Martes,13:00,Carmen,0,1,1,camión
+Historia,Martes,09:00,Ana,0,4,1,auto propio
+Historia,Miércoles,08:00,Juan,0,3,1,camina
+Biología,Jueves,12:00,Ana,1,2,1,bicicleta
+Física,Miércoles,13:00,Ana,0,5,0,camina
+Biología,Martes,13:00,Norma,0,2,1,combi
+Física,Jueves,08:00,Norma,0,0,0,taxi
+Matemáticas,Viernes,08:00,Carmen,0,0,1,camión
+Historia,Martes,08:00,Carmen,0,2,1,bicicleta
+Física,Miércoles,13:00,Carmen,0,0,1,combi
+Historia,Viernes,08:00,Jose,0,4,0,camión
+Física,Lunes,11:00,Norma,0,0,0,camión
+Matemáticas,Viernes,11:00,Ana,0,5,0,auto propio
+Matemáticas,Jueves,11:00,Norma,1,1,1,moto
+Química,Lunes,11:00,Ana,0,2,1,camina
+Biología,Jueves,12:00,Carmen,0,2,0,moto
+Biología,Martes,09:00,Carmen,0,4,0,bicicleta
+Química,Jueves,08:00,Carmen,0,1,0,moto
+Biología,Miércoles,09:00,Carmen,0,5,1,taxi
+Historia,Lunes,08:00,Carmen,0,0,0,camión
+Química,Jueves,11:00,Norma,0,4,0,camión
+Historia,Jueves,13:00,Ana,0,1,1,bicicleta
+Matemáticas,Martes,08:00,Ana,0,3,1,combi
+Historia,Lunes,08:00,Carmen,0,4,1,combi
+Biología,Martes,09:00,Carmen,0,5,1,camina
+Física,Jueves,11:00,Juan,0,3,1,camión
+Historia,Viernes,11:00,Norma,0,0,1,combi
+Química,Jueves,09:00,Juan,1,2,1,camina
+Química,Jueves,11:00,Norma,1,2,1,taxi
+Biología,Viernes,12:00,Norma,0,2,0,auto propio
+Matemáticas,Jueves,11:00,Ana,1,0,1,taxi
+Biología,Martes,09:00,Carmen,0,0,1,camión
+Historia,Jueves,13:00,Carmen,0,3,1,camión
+Química,Miércoles,13:00,Jose,0,0,1,combi
+Química,Lunes,11:00,Norma,0,0,1,camina
+Matemáticas,Miércoles,09:00,Ana,0,2,0,taxi
+Matemáticas,Viernes,12:00,Norma,0,4,0,camión
+Física,Jueves,13:00,Jose,0,3,1,camión
+Historia,Martes,13:00,Carmen,0,5,1,combi
+Física,Jueves,08:00,Norma,0,0,0,taxi
+Historia,Lunes,11:00,Juan,0,0,0,moto
+Física,Martes,13:00,Ana,0,4,0,auto propio
+Física,Miércoles,08:00,Norma,0,0,0,bicicleta
+Historia,Jueves,08:00,Norma,0,5,1,camión
+Historia,Miércoles,13:00,Carmen,0,0,0,camina
+Física,Miércoles,09:00,Juan,1,0,1,taxi
+Química,Miércoles,12:00,Juan,0,2,0,combi
+Historia,Jueves,08:00,Juan,0,5,0,combi
+Química,Miércoles,09:00,Norma,0,4,0,auto propio
+Física,Miércoles,13:00,Juan,0,5,0,auto propio
+Química,Lunes,12:00,Juan,0,2,1,camión
+Historia,Miércoles,09:00,Juan,1,2,1,auto propio
+Biología,Martes,09:00,Carmen,0,3,0,auto propio
+Biología,Miércoles,11:00,Juan,0,5,1,bicicleta
+Biología,Lunes,11:00,Ana,0,5,1,camión
+Química,Jueves,13:00,Juan,0,1,0,moto
+Química,Lunes,09:00,Juan,0,4,1,auto propio
+Física,Viernes,12:00,Juan,0,5,1,moto
+Física,Miércoles,08:00,Ana,0,1,0,auto propio
+Historia,Martes,13:00,Jose,0,2,0,moto
+Química,Viernes,12:00,Ana,0,4,1,bicicleta
+Biología,Martes,13:00,Norma,0,2,0,auto propio
+Física,Lunes,12:00,Carmen,0,4,0,camina
+Física,Miércoles,12:00,Carmen,1,0,1,taxi
+Matemáticas,Martes,11:00,Norma,0,5,0,moto
+Biología,Jueves,08:00,Carmen,0,3,1,bicicleta
+Biología,Viernes,08:00,Norma,0,0,0,bicicleta
+Química,Martes,08:00,Carmen,0,5,0,taxi
+Matemáticas,Miércoles,11:00,Carmen,0,0,1,camión
+Matemáticas,Jueves,08:00,Norma,0,2,0,combi
+Biología,Lunes,11:00,Jose,0,0,0,camina
+Biología,Viernes,11:00,Ana,0,5,0,camión
+Matemáticas,Lunes,13:00,Jose,0,3,0,camina
+Biología,Viernes,08:00,Juan,0,1,1,bicicleta
+Matemáticas,Lunes,11:00,Norma,0,2,1,auto propio
+Física,Viernes,09:00,Jose,0,5,1,moto
+Biología,Jueves,12:00,Juan,0,4,1,taxi
+Física,Jueves,11:00,Carmen,0,4,0,auto propio
+Historia,Miércoles,11:00,Norma,1,0,1,bicicleta
+Biología,Jueves,08:00,Norma,0,1,0,taxi
+Biología,Miércoles,08:00,Carmen,0,2,1,combi
+Biología,Miércoles,09:00,Ana,0,5,0,camión
+Física,Miércoles,08:00,Norma,0,5,0,camión
+Biología,Viernes,12:00,Jose,0,0,1,camina
+Matemáticas,Martes,13:00,Norma,0,4,0,camión
+Química,Viernes,11:00,Norma,0,1,0,auto propio
+Matemáticas,Jueves,13:00,Norma,0,4,1,combi
+Historia,Viernes,12:00,Jose,0,3,1,taxi
+Química,Lunes,08:00,Carmen,0,2,1,bicicleta
+Matemáticas,Martes,11:00,Norma,0,4,0,combi
+Física,Lunes,12:00,Norma,0,2,1,combi
+Física,Viernes,13:00,Jose,0,4,0,camión
+Química,Lunes,09:00,Jose,0,2,1,camión
+Historia,Martes,12:00,Carmen,0,3,1,combi
+Biología,Martes,13:00,Jose,0,3,0,moto
+Física,Viernes,12:00,Juan,0,4,0,camina
+Física,Martes,13:00,Jose,0,1,0,auto propio
+Física,Miércoles,09:00,Norma,0,1,1,combi
+Historia,Lunes,11:00,Ana,0,4,0,bicicleta
+Matemáticas,Lunes,08:00,Ana,0,0,1,camina
+Historia,Jueves,12:00,Ana,0,2,0,auto propio
+Matemáticas,Miércoles,11:00,Carmen,0,4,1,combi
+Historia,Lunes,13:00,Carmen,0,4,1,camión
+Matemáticas,Jueves,12:00,Carmen,0,4,1,auto propio
+Historia,Jueves,11:00,Jose,0,0,0,combi
+Biología,Miércoles,13:00,Juan,0,0,0,camina
+Biología,Martes,13:00,Ana,0,5,0,bicicleta
+Física,Jueves,08:00,Jose,0,1,1,bicicleta
+Historia,Miércoles,09:00,Juan,0,3,1,auto propio
+Biología,Miércoles,13:00,Carmen,0,4,0,moto
+Biología,Jueves,12:00,Carmen,1,1,1,bicicleta
+Física,Viernes,12:00,Carmen,0,1,1,camina
+Física,Viernes,11:00,Norma,0,1,1,bicicleta
+Física,Jueves,08:00,Juan,0,1,1,camión
+Física,Martes,08:00,Carmen,0,0,1,camina
+Biología,Martes,12:00,Norma,1,1,1,moto
+Matemáticas,Martes,12:00,Juan,0,4,0,moto
+Química,Miércoles,11:00,Jose,0,5,1,moto
+Biología,Lunes,11:00,Jose,0,5,0,combi
+Biología,Martes,08:00,Juan,0,5,0,camión
+Historia,Miércoles,12:00,Norma,0,2,1,combi
+Química,Miércoles,11:00,Juan,0,5,0,camina
+Historia,Jueves,12:00,Ana,1,0,1,auto propio
+Física,Jueves,13:00,Carmen,0,5,0,moto
+Física,Jueves,12:00,Norma,1,2,1,camina
+Física,Miércoles,12:00,Ana,0,5,1,taxi
+Química,Martes,11:00,Juan,0,3,0,taxi
+Física,Martes,08:00,Norma,0,0,0,auto propio
+Química,Martes,08:00,Juan,0,1,0,moto
+Historia,Martes,13:00,Juan,0,5,1,auto propio
+Física,Miércoles,11:00,Juan,0,4,1,camina
+Biología,Martes,09:00,Norma,1,2,1,auto propio
+Biología,Viernes,13:00,Ana,0,1,1,bicicleta
+Historia,Jueves,12:00,Ana,0,3,1,combi
+Física,Viernes,09:00,Ana,0,5,1,auto propio
+Biología,Jueves,11:00,Jose,0,4,1,combi
+Biología,Jueves,13:00,Jose,0,4,1,bicicleta
+Biología,Lunes,12:00,Ana,0,4,1,moto
+Física,Jueves,13:00,Carmen,0,2,0,camina
+Biología,Lunes,11:00,Juan,0,0,1,combi
+Química,Miércoles,11:00,Jose,0,4,1,combi
+Química,Jueves,08:00,Norma,0,1,0,auto propio
+Física,Martes,08:00,Ana,0,5,1,combi
+Física,Martes,12:00,Carmen,1,1,1,bicicleta
+Biología,Martes,12:00,Jose,0,2,0,bicicleta
+Física,Martes,09:00,Jose,0,0,1,camión
+Matemáticas,Jueves,08:00,Jose,0,5,0,camina
+Historia,Jueves,11:00,Juan,0,0,0,camina
+Matemáticas,Miércoles,13:00,Ana,0,0,0,combi
+Física,Martes,09:00,Ana,0,2,0,auto propio
+Historia,Lunes,09:00,Jose,0,4,1,camina
+Biología,Jueves,09:00,Jose,0,4,1,camina
+Química,Miércoles,08:00,Carmen,0,3,1,auto propio
+Física,Jueves,13:00,Jose,0,4,0,moto
+Biología,Jueves,09:00,Jose,0,3,1,camina
+Matemáticas,Jueves,12:00,Jose,0,5,1,bicicleta
+Física,Miércoles,08:00,Jose,0,3,1,combi
+Matemáticas,Jueves,09:00,Norma,0,1,1,combi
+Biología,Martes,12:00,Carmen,0,5,0,moto
+Historia,Lunes,09:00,Ana,0,4,0,combi
+Biología,Lunes,09:00,Ana,0,5,0,camión
+Química,Viernes,08:00,Carmen,0,0,0,auto propio
+Física,Jueves,11:00,Ana,0,4,0,auto propio
+Física,Lunes,12:00,Norma,0,1,1,combi
+Física,Jueves,13:00,Ana,0,3,1,camión
+Historia,Lunes,09:00,Juan,0,5,0,bicicleta
+Historia,Martes,09:00,Juan,1,1,1,taxi
+Física,Miércoles,13:00,Carmen,0,0,0,camina
+Matemáticas,Martes,11:00,Carmen,1,2,1,auto propio
+Química,Lunes,13:00,Ana,0,3,1,bicicleta
+Historia,Viernes,12:00,Ana,0,0,0,moto
+Biología,Jueves,13:00,Norma,0,2,1,camión
+Física,Viernes,08:00,Jose,0,1,0,auto propio
+Química,Viernes,09:00,Carmen,0,3,1,combi
+Física,Martes,12:00,Jose,0,3,0,moto
+Química,Jueves,12:00,Jose,0,2,1,camión
+Historia,Viernes,12:00,Norma,0,4,1,auto propio
+Biología,Viernes,13:00,Juan,0,3,0,auto propio
+Física,Lunes,11:00,Carmen,0,4,0,bicicleta
+Historia,Viernes,11:00,Ana,0,2,0,moto
+Química,Martes,13:00,Carmen,0,5,0,bicicleta
+Física,Jueves,08:00,Ana,0,4,0,bicicleta
+Química,Jueves,08:00,Carmen,0,3,1,camina
+Matemáticas,Martes,13:00,Juan,0,4,1,auto propio
+Matemáticas,Miércoles,13:00,Norma,0,3,0,bicicleta
+Historia,Viernes,08:00,Carmen,0,3,0,auto propio
+Biología,Jueves,13:00,Ana,0,3,0,camión
+Física,Lunes,12:00,Ana,0,3,0,combi
+Biología,Martes,13:00,Juan,0,5,1,bicicleta
+Biología,Martes,13:00,Carmen,0,2,1,taxi
+Química,Miércoles,09:00,Carmen,0,2,1,combi
+Matemáticas,Lunes,13:00,Norma,0,0,1,auto propio
+Historia,Lunes,13:00,Carmen,0,4,1,auto propio
+Matemáticas,Jueves,09:00,Juan,0,2,1,camión
+Matemáticas,Lunes,08:00,Norma,0,1,1,combi
+Historia,Viernes,12:00,Juan,0,1,0,taxi
+Matemáticas,Martes,08:00,Norma,0,2,1,moto
+Biología,Lunes,13:00,Norma,0,2,1,camina
+Historia,Jueves,09:00,Juan,0,3,0,taxi
+Biología,Lunes,09:00,Juan,0,4,0,taxi
+Física,Martes,12:00,Ana,1,2,1,moto
+Matemáticas,Miércoles,11:00,Ana,0,5,1,camina
+Física,Jueves,09:00,Juan,0,2,0,auto propio
+Biología,Miércoles,12:00,Juan,1,2,1,bicicleta
+Física,Lunes,13:00,Norma,0,0,1,taxi
+Matemáticas,Jueves,11:00,Jose,0,5,1,taxi
+Biología,Martes,13:00,Norma,0,4,0,bicicleta
+Biología,Viernes,08:00,Juan,0,3,0,combi
+Física,Viernes,09:00,Juan,0,3,1,auto propio
+Química,Jueves,13:00,Norma,0,1,1,auto propio
+Matemáticas,Viernes,12:00,Carmen,0,2,0,combi
+Química,Jueves,13:00,Norma,0,5,1,taxi
+Historia,Jueves,13:00,Carmen,0,3,1,auto propio
+Física,Viernes,09:00,Juan,0,3,1,combi
+Matemáticas,Jueves,09:00,Ana,0,3,0,bicicleta
+Biología,Jueves,08:00,Jose,0,5,0,moto
+Historia,Lunes,09:00,Norma,0,0,1,camión
+Historia,Viernes,09:00,Carmen,0,3,1,bicicleta
+Historia,Viernes,11:00,Ana,0,0,1,moto
+Matemáticas,Jueves,13:00,Juan,0,0,0,moto
+Historia,Miércoles,12:00,Jose,0,0,0,combi
+Historia,Viernes,08:00,Ana,0,4,0,camión
+Matemáticas,Jueves,09:00,Carmen,0,0,0,auto propio
+Química,Martes,13:00,Juan,0,3,0,combi
+Historia,Martes,13:00,Jose,0,2,0,taxi
+Biología,Miércoles,08:00,Norma,0,2,0,auto propio
+Biología,Viernes,11:00,Norma,0,5,0,moto
+Biología,Martes,12:00,Jose,0,2,0,moto
+Química,Miércoles,13:00,Ana,0,1,0,bicicleta
+Química,Lunes,13:00,Jose,0,1,0,camión
+Matemáticas,Jueves,11:00,Juan,0,3,0,camina
+Química,Viernes,08:00,Carmen,0,3,1,camina
+Química,Lunes,09:00,Jose,0,3,1,taxi
+Matemáticas,Martes,09:00,Carmen,0,5,0,taxi
+Biología,Viernes,08:00,Carmen,0,4,1,taxi
+Química,Lunes,13:00,Norma,0,2,0,auto propio
+Física,Miércoles,09:00,Ana,0,4,0,bicicleta
+Historia,Miércoles,13:00,Juan,0,5,1,camión
+Biología,Jueves,11:00,Norma,0,1,0,bicicleta
+Química,Viernes,09:00,Juan,0,2,1,taxi
+Física,Miércoles,09:00,Juan,0,5,1,moto
+Química,Jueves,08:00,Ana,0,4,0,camina
+Física,Jueves,13:00,Juan,0,2,1,moto
+Matemáticas,Lunes,13:00,Carmen,0,5,0,camión
+Química,Lunes,11:00,Carmen,0,0,0,taxi
+Historia,Jueves,12:00,Norma,0,5,1,combi
+Matemáticas,Miércoles,11:00,Norma,0,2,1,camión
+Química,Jueves,08:00,Carmen,0,5,0,camina
+Biología,Viernes,09:00,Norma,0,3,0,camión
+Química,Viernes,09:00,Ana,0,1,1,camina
+Historia,Lunes,12:00,Juan,0,3,1,taxi
+Biología,Martes,08:00,Juan,0,2,1,camina
+Física,Jueves,12:00,Juan,0,5,1,taxi
+Biología,Jueves,09:00,Norma,0,4,0,taxi
+Matemáticas,Miércoles,11:00,Carmen,0,1,1,camión
+Biología,Miércoles,08:00,Jose,0,0,1,auto propio
+Matemáticas,Jueves,13:00,Juan,0,4,1,camina
+Química,Jueves,08:00,Jose,0,4,1,combi
+Física,Lunes,13:00,Juan,0,5,0,camión
+Química,Miércoles,08:00,Jose,0,0,0,camina
+Química,Jueves,12:00,Carmen,0,4,1,auto propio
+Historia,Lunes,13:00,Ana,0,0,1,auto propio
+Física,Martes,08:00,Ana,0,0,0,combi
+Biología,Miércoles,13:00,Carmen,0,5,0,camión
+Historia,Miércoles,08:00,Norma,0,1,0,combi
+Física,Jueves,12:00,Carmen,0,3,1,bicicleta
+Física,Lunes,13:00,Juan,0,3,0,moto
+Historia,Miércoles,08:00,Carmen,0,0,0,combi
+Historia,Martes,09:00,Carmen,0,4,1,auto propio
+Historia,Viernes,11:00,Jose,0,4,0,moto
+Química,Miércoles,09:00,Norma,0,2,0,combi
+Matemáticas,Jueves,13:00,Ana,0,1,0,moto
+Química,Martes,08:00,Carmen,0,4,0,bicicleta
+Historia,Lunes,12:00,Juan,0,5,0,auto propio
+Historia,Lunes,11:00,Carmen,0,2,1,camina
+Química,Lunes,08:00,Norma,0,3,1,combi
+Biología,Jueves,11:00,Carmen,0,5,0,moto
+Matemáticas,Jueves,13:00,Jose,0,3,1,combi
+Matemáticas,Viernes,12:00,Carmen,0,0,0,camión
+Física,Jueves,12:00,Jose,1,0,1,moto
+Biología,Jueves,12:00,Carmen,0,5,1,combi
+Física,Lunes,09:00,Juan,0,1,0,taxi
+Biología,Jueves,11:00,Juan,0,2,0,moto
+Física,Lunes,08:00,Carmen,0,0,1,camina
+Matemáticas,Viernes,08:00,Norma,0,0,1,camión
+Historia,Lunes,09:00,Carmen,0,1,0,auto propio
+Biología,Martes,13:00,Norma,0,3,1,auto propio
+Biología,Martes,11:00,Norma,0,5,0,moto
+Física,Lunes,11:00,Norma,0,0,0,camina
+Matemáticas,Viernes,12:00,Juan,0,1,0,moto
+Biología,Lunes,12:00,Juan,0,0,1,bicicleta
+Química,Lunes,11:00,Carmen,0,0,1,bicicleta
+Física,Viernes,08:00,Carmen,0,1,1,auto propio
+Química,Jueves,09:00,Juan,0,1,1,combi
+Historia,Jueves,09:00,Juan,1,2,1,auto propio
+Biología,Martes,11:00,Jose,0,5,0,moto
+Física,Lunes,11:00,Jose,0,4,1,taxi
+Historia,Martes,09:00,Juan,0,0,0,bicicleta
+Biología,Jueves,11:00,Jose,1,0,1,auto propio
+Historia,Miércoles,13:00,Jose,0,3,1,camina
+Matemáticas,Jueves,13:00,Carmen,0,3,0,bicicleta
+Biología,Miércoles,12:00,Carmen,0,3,1,auto propio
+Química,Miércoles,12:00,Ana,0,0,1,combi
+Matemáticas,Martes,09:00,Jose,0,3,1,bicicleta
+Biología,Jueves,12:00,Juan,0,3,1,camina
+Química,Martes,09:00,Norma,0,5,1,taxi
+Historia,Viernes,11:00,Carmen,0,1,0,camina
+Física,Jueves,09:00,Ana,0,4,0,bicicleta
+Historia,Martes,08:00,Ana,0,5,0,taxi
+Biología,Jueves,12:00,Ana,0,5,0,camión
+Matemáticas,Viernes,08:00,Juan,0,0,0,taxi
+Física,Martes,13:00,Carmen,0,3,1,auto propio
+Biología,Jueves,13:00,Carmen,0,5,0,camina
+Biología,Martes,09:00,Ana,0,5,1,camina
+Química,Viernes,09:00,Carmen,0,5,1,camina
+Biología,Miércoles,13:00,Norma,0,1,0,auto propio
+Química,Martes,12:00,Jose,1,2,1,bicicleta
+Matemáticas,Jueves,13:00,Ana,0,1,1,auto propio
+Biología,Viernes,08:00,Ana,0,2,0,moto
+Historia,Martes,08:00,Norma,0,4,0,taxi
+Historia,Lunes,08:00,Juan,0,4,0,camina
+Biología,Jueves,13:00,Juan,0,4,0,taxi
+Física,Miércoles,08:00,Ana,0,2,1,camión
+Biología,Lunes,09:00,Ana,0,3,0,camina
+Biología,Martes,11:00,Carmen,0,1,0,auto propio
+Química,Lunes,12:00,Juan,0,4,0,bicicleta
+Química,Miércoles,12:00,Carmen,0,5,0,camina
+Física,Miércoles,12:00,Norma,1,2,1,bicicleta
+Biología,Viernes,09:00,Juan,0,0,0,taxi
+Física,Lunes,08:00,Carmen,0,5,0,moto
+Biología,Viernes,09:00,Jose,0,4,0,auto propio
+Historia,Lunes,13:00,Ana,0,3,0,moto
+Física,Miércoles,13:00,Carmen,0,3,0,camina
+Biología,Lunes,12:00,Norma,0,4,1,camina
+Química,Viernes,12:00,Carmen,0,4,1,taxi
+Química,Martes,13:00,Juan,0,2,1,combi
+Química,Miércoles,11:00,Norma,0,2,0,taxi
+Química,Jueves,09:00,Norma,0,0,0,bicicleta
+Biología,Martes,11:00,Carmen,0,2,0,taxi
+Historia,Jueves,09:00,Carmen,0,3,1,bicicleta
+Matemáticas,Martes,13:00,Juan,0,2,1,camina
+Matemáticas,Jueves,08:00,Ana,0,3,0,moto
+Historia,Jueves,13:00,Norma,0,2,0,camión
+Biología,Martes,13:00,Norma,0,2,1,taxi
+Química,Lunes,09:00,Norma,0,5,0,bicicleta
+Física,Martes,09:00,Norma,0,5,0,combi
+Química,Viernes,13:00,Norma,0,2,0,camina
+Matemáticas,Lunes,12:00,Juan,0,3,1,camina
+Matemáticas,Lunes,13:00,Jose,0,4,1,taxi
+Biología,Jueves,08:00,Jose,0,1,1,taxi
+Física,Lunes,13:00,Jose,0,1,0,camión
+Física,Lunes,11:00,Ana,0,1,1,moto
+Biología,Miércoles,08:00,Ana,0,3,1,camina
+Matemáticas,Viernes,08:00,Norma,0,5,0,bicicleta
+Biología,Martes,11:00,Ana,1,2,1,camina
+Química,Jueves,09:00,Ana,0,5,1,camina
+Biología,Jueves,08:00,Juan,0,3,0,camión
+Química,Jueves,13:00,Juan,0,4,0,taxi
+Matemáticas,Martes,08:00,Juan,0,2,1,camión
+Química,Miércoles,09:00,Jose,1,2,1,auto propio
+Matemáticas,Martes,09:00,Juan,0,4,0,combi
+Biología,Martes,11:00,Norma,0,2,0,taxi
+Biología,Jueves,09:00,Carmen,0,0,0,camión
+Biología,Lunes,13:00,Ana,0,3,0,combi
+Matemáticas,Jueves,13:00,Norma,0,5,0,taxi
+Física,Miércoles,11:00,Jose,0,4,0,taxi
+Historia,Viernes,08:00,Ana,0,3,1,combi
+Matemáticas,Viernes,12:00,Ana,0,0,0,auto propio
+Física,Viernes,11:00,Juan,0,0,0,auto propio
+Matemáticas,Lunes,13:00,Ana,0,3,1,camina
+Historia,Jueves,13:00,Jose,0,2,0,camión
+Historia,Jueves,12:00,Carmen,0,3,1,taxi
+Biología,Lunes,13:00,Norma,0,3,1,taxi
+Física,Viernes,12:00,Ana,0,4,0,camina
+Química,Viernes,13:00,Norma,0,2,1,combi
+Biología,Miércoles,11:00,Ana,0,4,1,moto
+Física,Martes,12:00,Ana,0,3,0,camión
+Química,Lunes,13:00,Ana,0,5,0,auto propio
+Historia,Lunes,11:00,Ana,0,2,0,auto propio
+Matemáticas,Jueves,11:00,Carmen,1,0,1,camina
+Física,Viernes,08:00,Juan,0,0,1,camión
+Biología,Jueves,12:00,Juan,0,5,0,moto
+Física,Jueves,09:00,Ana,0,4,1,camina
+Química,Jueves,11:00,Jose,0,3,0,bicicleta
+Historia,Viernes,11:00,Norma,0,4,0,moto
+Física,Martes,13:00,Jose,0,2,1,moto
+Física,Lunes,11:00,Juan,0,0,1,combi
+Matemáticas,Viernes,08:00,Ana,0,5,0,camina
+Física,Jueves,09:00,Ana,0,5,0,moto
+Historia,Miércoles,13:00,Carmen,0,0,1,bicicleta
+Física,Miércoles,11:00,Norma,0,5,0,moto
+Historia,Viernes,11:00,Carmen,0,2,0,combi
+Biología,Miércoles,13:00,Jose,0,5,0,moto
+Matemáticas,Lunes,08:00,Norma,0,3,1,combi
+Matemáticas,Miércoles,11:00,Juan,0,4,0,camina
+Química,Viernes,12:00,Jose,0,1,1,camina
+Historia,Lunes,13:00,Norma,0,2,0,camina
+Matemáticas,Martes,13:00,Ana,0,2,1,combi
+Biología,Martes,09:00,Ana,0,4,0,camina
+Matemáticas,Miércoles,11:00,Jose,0,0,0,bicicleta
+Biología,Miércoles,13:00,Norma,0,2,0,taxi
+Biología,Miércoles,09:00,Jose,1,1,1,bicicleta
+Física,Martes,08:00,Ana,0,5,0,camina
+Historia,Martes,08:00,Jose,0,2,1,auto propio
+Química,Lunes,11:00,Juan,0,5,0,camina
+Matemáticas,Viernes,09:00,Jose,0,3,1,bicicleta
+Historia,Jueves,09:00,Juan,1,2,1,auto propio
+Matemáticas,Viernes,12:00,Carmen,0,4,1,auto propio
+Física,Miércoles,08:00,Jose,0,5,1,combi
+Historia,Lunes,12:00,Norma,0,3,0,camina
+Física,Jueves,13:00,Ana,0,0,1,auto propio
+Química,Jueves,12:00,Juan,0,2,0,moto
+Física,Martes,12:00,Carmen,0,3,1,camina
+Física,Jueves,12:00,Carmen,0,5,0,taxi
+Historia,Lunes,12:00,Ana,0,5,0,moto
+Física,Viernes,12:00,Norma,0,4,0,moto
+Física,Martes,12:00,Jose,0,5,1,auto propio
+Matemáticas,Viernes,08:00,Norma,0,0,1,camina
+Química,Viernes,12:00,Norma,0,0,0,moto
+Física,Lunes,08:00,Norma,0,1,1,auto propio
+Biología,Viernes,11:00,Juan,0,4,0,combi
+Historia,Miércoles,11:00,Norma,0,0,0,auto propio
+Matemáticas,Viernes,11:00,Jose,0,3,0,camina
+Historia,Lunes,08:00,Norma,0,0,0,combi
+Biología,Miércoles,12:00,Carmen,0,0,0,bicicleta
+Biología,Lunes,13:00,Ana,0,5,0,moto
+Física,Lunes,13:00,Norma,0,5,1,combi
+Historia,Jueves,11:00,Juan,0,4,0,bicicleta
+Física,Martes,13:00,Jose,0,1,0,auto propio
+Física,Miércoles,11:00,Jose,0,1,0,auto propio
+Química,Martes,09:00,Jose,0,3,0,camión
+Física,Lunes,11:00,Norma,0,4,1,taxi
+Matemáticas,Jueves,09:00,Jose,0,1,1,combi
+Química,Miércoles,11:00,Juan,0,4,1,camina
+Química,Jueves,08:00,Ana,0,5,1,auto propio
+Biología,Martes,09:00,Juan,1,0,1,camina
+Química,Miércoles,09:00,Norma,0,4,1,camión
+Historia,Miércoles,12:00,Carmen,0,3,1,taxi
+Matemáticas,Viernes,13:00,Ana,0,4,1,bicicleta
+Química,Lunes,08:00,Norma,0,5,1,bicicleta
+Matemáticas,Martes,11:00,Carmen,0,4,0,combi
+Física,Jueves,08:00,Juan,0,0,0,camión
+Física,Lunes,12:00,Ana,0,4,0,moto
+Biología,Lunes,11:00,Ana,0,4,0,camina
+Física,Martes,08:00,Juan,0,5,0,auto propio
+Historia,Viernes,09:00,Ana,0,0,0,moto
+Biología,Lunes,11:00,Norma,0,4,0,camión
+Historia,Martes,13:00,Jose,0,1,1,camina
+Química,Jueves,11:00,Carmen,0,1,0,camión
+Historia,Jueves,09:00,Juan,0,3,0,camión
+Matemáticas,Lunes,09:00,Carmen,0,0,1,camión
+Química,Martes,08:00,Ana,0,2,1,combi
+Biología,Jueves,13:00,Juan,0,1,0,combi
+Historia,Viernes,11:00,Norma,0,1,0,camión
+Biología,Jueves,09:00,Jose,0,5,0,taxi
+Historia,Viernes,13:00,Norma,0,3,1,bicicleta
+Historia,Viernes,08:00,Juan,0,0,0,moto
+Matemáticas,Martes,08:00,Norma,0,0,0,auto propio
+Historia,Miércoles,12:00,Carmen,0,4,1,taxi
+Matemáticas,Miércoles,12:00,Carmen,0,4,1,bicicleta
+Matemáticas,Martes,09:00,Ana,0,3,0,camión
+Química,Lunes,11:00,Carmen,0,4,1,taxi
+Matemáticas,Jueves,13:00,Norma,0,0,1,camión
+Física,Viernes,09:00,Juan,0,4,1,combi
+Historia,Martes,08:00,Norma,0,4,1,auto propio
+Química,Viernes,08:00,Juan,0,1,1,combi
+Biología,Jueves,12:00,Carmen,0,2,0,camión
+Historia,Miércoles,08:00,Jose,0,2,1,bicicleta
+Historia,Miércoles,11:00,Norma,0,4,0,camina
+Matemáticas,Jueves,08:00,Carmen,0,1,1,auto propio
+Química,Miércoles,09:00,Jose,0,5,0,taxi
+Biología,Miércoles,13:00,Ana,0,5,0,camina
+Matemáticas,Martes,11:00,Jose,1,0,1,taxi
+Historia,Lunes,13:00,Ana,0,1,0,combi
+Biología,Lunes,12:00,Jose,0,2,0,camina
+Historia,Martes,08:00,Norma,0,0,0,auto propio
+Química,Lunes,09:00,Jose,0,2,0,auto propio
+Física,Martes,12:00,Ana,0,5,1,camina
+Historia,Viernes,12:00,Norma,0,5,0,camina
+Física,Miércoles,09:00,Norma,0,1,0,taxi
+Química,Lunes,11:00,Carmen,0,5,0,taxi
+Historia,Jueves,11:00,Ana,0,5,1,bicicleta
+Física,Martes,13:00,Jose,0,4,0,bicicleta
+Física,Miércoles,09:00,Norma,1,2,1,camina
+Matemáticas,Martes,08:00,Carmen,0,5,0,moto
+Historia,Lunes,08:00,Carmen,0,5,1,combi
+Física,Viernes,09:00,Carmen,0,5,0,auto propio
+Historia,Martes,12:00,Juan,0,0,0,taxi
+Matemáticas,Miércoles,09:00,Carmen,0,2,0,moto
+Física,Miércoles,12:00,Jose,0,3,0,combi
+Matemáticas,Martes,11:00,Jose,1,1,1,taxi
+Matemáticas,Miércoles,13:00,Norma,0,1,1,camina
+Física,Miércoles,11:00,Carmen,0,4,0,auto propio
+Biología,Viernes,09:00,Jose,0,1,1,auto propio
+Historia,Martes,13:00,Norma,0,4,0,camión
+Historia,Miércoles,13:00,Carmen,0,5,1,combi
+Física,Miércoles,12:00,Ana,0,1,0,camión
+Física,Lunes,09:00,Juan,0,5,1,moto
+Biología,Miércoles,12:00,Jose,0,4,0,taxi
+Física,Martes,11:00,Jose,0,3,0,camina
+Química,Miércoles,12:00,Norma,0,3,0,combi
+Biología,Viernes,08:00,Ana,0,1,0,auto propio
+Historia,Martes,08:00,Ana,0,4,0,camina
+Física,Lunes,13:00,Carmen,0,0,0,camión
+Matemáticas,Miércoles,08:00,Juan,0,3,1,auto propio
+Química,Jueves,13:00,Norma,0,2,0,taxi
+Biología,Miércoles,11:00,Jose,0,4,0,bicicleta
+Química,Lunes,13:00,Norma,0,3,1,taxi
+Matemáticas,Martes,11:00,Jose,0,4,0,moto
+Biología,Viernes,13:00,Ana,0,4,0,auto propio
+Química,Martes,08:00,Carmen,0,4,1,bicicleta
+Física,Jueves,09:00,Carmen,0,0,0,camina
+Química,Viernes,08:00,Jose,0,1,0,camina
+Matemáticas,Miércoles,11:00,Ana,1,2,1,camina
