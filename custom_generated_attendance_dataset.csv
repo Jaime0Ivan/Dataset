@@ -1,0 +1,1001 @@
+Fecha,Materia,Clima,Día de la Semana,Hora,Profesor,Asistencia,Historial de Faltas del Mes Pasado,Renta,Traslado
+01/01/2023,Historia,Lluvioso,Lunes,12:00,Carmen,0,10,1,camina
+09/04/2023,Historia,Lluvioso,Martes,10:00,Carmen,0,10,0,combi
+17/01/2023,Biología,Lluvioso,Jueves,14:00,Ana,1,1,1,auto propio
+03/10/2023,Química,Soleado,Lunes,08:00,Norma,1,9,0,camina
+18/10/2023,Física,Lluvioso,Lunes,10:00,Jose,0,1,1,camión
+16/06/2023,Química,Nublado,Martes,10:00,Juan,1,9,0,camina
+05/08/2023,Historia,Ventoso,Lunes,14:00,Norma,0,4,0,bicicleta
+23/06/2023,Biología,Nublado,Miércoles,14:00,Carmen,1,6,0,taxi
+02/09/2023,Física,Lluvioso,Lunes,12:00,Jose,0,7,0,camión
+18/04/2023,Física,Nublado,Martes,12:00,Ana,0,0,0,bicicleta
+08/08/2023,Matemáticas,Ventoso,Viernes,14:00,Juan,1,0,0,camina
+14/02/2023,Biología,Ventoso,Jueves,16:00,Juan,1,6,1,auto propio
+15/04/2023,Física,Ventoso,Lunes,12:00,Carmen,1,9,0,camina
+05/01/2023,Física,Lluvioso,Lunes,10:00,Norma,1,5,1,camión
+04/11/2023,Química,Ventoso,Jueves,16:00,Carmen,1,5,1,taxi
+20/03/2023,Química,Lluvioso,Jueves,14:00,Norma,0,8,0,camión
+10/03/2023,Química,Lluvioso,Jueves,14:00,Jose,0,7,1,camión
+04/08/2023,Matemáticas,Soleado,Martes,16:00,Ana,1,9,0,camión
+01/07/2023,Biología,Soleado,Martes,14:00,Norma,0,3,1,moto
+04/09/2023,Matemáticas,Ventoso,Miércoles,16:00,Jose,1,8,1,auto propio
+05/09/2023,Física,Nublado,Viernes,16:00,Jose,1,10,0,taxi
+04/10/2023,Química,Ventoso,Miércoles,16:00,Juan,0,5,0,moto
+26/11/2023,Historia,Lluvioso,Miércoles,12:00,Ana,0,5,0,combi
+27/08/2023,Historia,Ventoso,Viernes,10:00,Carmen,1,7,0,camina
+22/12/2023,Física,Lluvioso,Jueves,10:00,Ana,0,4,1,moto
+13/11/2023,Física,Nublado,Jueves,14:00,Jose,1,9,1,taxi
+02/05/2023,Biología,Soleado,Lunes,10:00,Carmen,1,10,0,camina
+22/02/2023,Biología,Nublado,Miércoles,12:00,Carmen,0,8,0,moto
+16/04/2023,Matemáticas,Lluvioso,Jueves,12:00,Jose,0,0,1,taxi
+22/12/2023,Química,Ventoso,Miércoles,10:00,Norma,0,6,0,moto
+05/04/2023,Historia,Soleado,Martes,14:00,Carmen,1,3,1,combi
+12/01/2023,Historia,Ventoso,Jueves,12:00,Norma,0,0,1,moto
+06/03/2023,Química,Soleado,Martes,12:00,Juan,0,1,0,combi
+10/09/2023,Matemáticas,Lluvioso,Jueves,16:00,Ana,1,1,0,bicicleta
+07/12/2023,Biología,Lluvioso,Viernes,12:00,Carmen,1,10,1,moto
+02/05/2023,Historia,Soleado,Martes,14:00,Juan,1,0,1,camión
+26/09/2023,Matemáticas,Soleado,Jueves,08:00,Jose,1,5,1,moto
+02/11/2023,Química,Soleado,Miércoles,10:00,Carmen,0,1,1,combi
+22/10/2023,Historia,Ventoso,Viernes,12:00,Carmen,0,3,0,auto propio
+13/12/2023,Matemáticas,Nublado,Lunes,12:00,Carmen,1,1,1,bicicleta
+01/09/2023,Historia,Lluvioso,Viernes,10:00,Carmen,0,1,0,taxi
+22/10/2023,Química,Ventoso,Martes,08:00,Juan,1,8,1,bicicleta
+21/05/2023,Física,Soleado,Martes,10:00,Juan,0,8,1,auto propio
+23/10/2023,Química,Lluvioso,Martes,08:00,Juan,0,3,0,camión
+17/05/2023,Química,Soleado,Viernes,16:00,Jose,1,3,1,camina
+22/11/2023,Historia,Lluvioso,Martes,16:00,Norma,1,2,1,bicicleta
+30/09/2023,Física,Ventoso,Lunes,14:00,Juan,1,8,0,camina
+06/10/2023,Física,Soleado,Jueves,10:00,Juan,0,9,1,taxi
+22/01/2023,Física,Lluvioso,Lunes,14:00,Norma,1,2,1,moto
+15/09/2023,Biología,Ventoso,Miércoles,16:00,Norma,1,9,1,bicicleta
+04/02/2023,Química,Nublado,Martes,10:00,Norma,1,10,1,bicicleta
+20/06/2023,Matemáticas,Soleado,Viernes,08:00,Ana,1,3,0,camión
+23/11/2023,Matemáticas,Nublado,Lunes,08:00,Ana,1,9,1,moto
+07/02/2023,Química,Soleado,Martes,16:00,Ana,0,10,0,bicicleta
+27/02/2023,Matemáticas,Soleado,Viernes,08:00,Juan,1,2,1,camina
+07/03/2023,Física,Lluvioso,Martes,16:00,Juan,0,6,0,auto propio
+20/10/2023,Química,Lluvioso,Viernes,14:00,Carmen,0,4,1,bicicleta
+12/06/2023,Historia,Nublado,Jueves,14:00,Ana,0,2,0,combi
+20/04/2023,Química,Ventoso,Jueves,10:00,Carmen,1,8,1,moto
+01/09/2023,Biología,Ventoso,Martes,08:00,Carmen,1,4,0,camina
+14/03/2023,Historia,Ventoso,Viernes,10:00,Jose,0,2,1,moto
+22/02/2023,Historia,Lluvioso,Martes,12:00,Juan,1,5,1,moto
+09/05/2023,Física,Ventoso,Miércoles,14:00,Carmen,0,9,1,auto propio
+12/01/2023,Matemáticas,Ventoso,Viernes,12:00,Carmen,0,2,1,bicicleta
+09/06/2023,Física,Soleado,Jueves,14:00,Norma,0,9,1,combi
+22/03/2023,Matemáticas,Soleado,Martes,08:00,Ana,0,1,1,camina
+27/09/2023,Física,Ventoso,Viernes,14:00,Ana,1,3,1,auto propio
+14/11/2023,Química,Soleado,Lunes,08:00,Ana,1,8,1,combi
+31/10/2023,Historia,Lluvioso,Lunes,16:00,Jose,1,7,1,moto
+17/06/2023,Historia,Ventoso,Martes,16:00,Ana,0,2,1,camión
+30/06/2023,Química,Soleado,Lunes,14:00,Norma,0,0,0,camión
+01/04/2023,Matemáticas,Lluvioso,Viernes,08:00,Norma,0,7,1,bicicleta
+31/03/2023,Historia,Soleado,Miércoles,08:00,Norma,0,1,0,camina
+28/05/2023,Historia,Soleado,Miércoles,16:00,Ana,1,6,1,bicicleta
+29/12/2023,Historia,Nublado,Martes,12:00,Juan,1,10,1,auto propio
+07/10/2023,Matemáticas,Soleado,Lunes,08:00,Juan,0,6,1,camina
+17/07/2023,Historia,Nublado,Miércoles,14:00,Jose,0,8,1,camina
+07/02/2023,Física,Lluvioso,Lunes,14:00,Jose,1,4,1,taxi
+26/12/2023,Química,Ventoso,Miércoles,12:00,Juan,1,8,0,auto propio
+20/10/2023,Biología,Nublado,Martes,14:00,Juan,1,6,1,camión
+11/06/2023,Matemáticas,Lluvioso,Miércoles,12:00,Ana,0,3,0,taxi
+15/02/2023,Matemáticas,Ventoso,Viernes,08:00,Carmen,1,4,1,combi
+05/10/2023,Matemáticas,Nublado,Lunes,08:00,Norma,0,4,1,combi
+09/09/2023,Física,Lluvioso,Miércoles,08:00,Jose,1,0,0,moto
+26/08/2023,Historia,Ventoso,Lunes,12:00,Ana,0,3,1,moto
+29/03/2023,Historia,Nublado,Miércoles,16:00,Ana,0,4,0,auto propio
+29/03/2023,Historia,Nublado,Jueves,16:00,Norma,1,9,1,bicicleta
+13/02/2023,Física,Ventoso,Lunes,16:00,Carmen,0,10,1,auto propio
+09/07/2023,Matemáticas,Ventoso,Viernes,12:00,Ana,1,9,1,taxi
+11/05/2023,Matemáticas,Nublado,Viernes,16:00,Jose,0,6,0,camina
+18/11/2023,Historia,Ventoso,Lunes,14:00,Ana,0,0,1,bicicleta
+20/06/2023,Física,Ventoso,Lunes,10:00,Ana,0,4,1,combi
+23/09/2023,Física,Lluvioso,Miércoles,10:00,Juan,1,10,0,camión
+19/08/2023,Biología,Ventoso,Miércoles,08:00,Jose,0,4,0,auto propio
+20/01/2023,Física,Soleado,Martes,12:00,Jose,0,6,0,taxi
+17/06/2023,Matemáticas,Nublado,Martes,10:00,Ana,0,6,0,moto
+09/09/2023,Historia,Nublado,Viernes,08:00,Jose,0,1,1,moto
+12/02/2023,Biología,Lluvioso,Jueves,10:00,Juan,0,8,0,moto
+19/04/2023,Biología,Lluvioso,Martes,14:00,Jose,1,4,0,camión
+31/01/2023,Historia,Ventoso,Jueves,08:00,Ana,0,0,1,camión
+10/04/2023,Física,Ventoso,Viernes,16:00,Carmen,1,2,0,combi
+05/06/2023,Química,Nublado,Lunes,16:00,Jose,1,10,0,combi
+13/09/2023,Historia,Lluvioso,Jueves,10:00,Jose,0,5,1,combi
+25/03/2023,Historia,Nublado,Martes,14:00,Carmen,1,8,0,camión
+21/07/2023,Matemáticas,Soleado,Viernes,08:00,Norma,0,4,1,moto
+19/06/2023,Historia,Soleado,Jueves,14:00,Jose,0,0,1,taxi
+04/12/2023,Matemáticas,Lluvioso,Jueves,12:00,Ana,1,4,1,auto propio
+13/04/2023,Física,Soleado,Lunes,10:00,Juan,0,0,0,camina
+26/09/2023,Historia,Lluvioso,Viernes,10:00,Carmen,1,10,0,bicicleta
+07/12/2023,Matemáticas,Soleado,Jueves,12:00,Ana,1,2,1,auto propio
+03/09/2023,Biología,Lluvioso,Martes,12:00,Juan,0,0,1,taxi
+07/06/2023,Matemáticas,Soleado,Viernes,08:00,Juan,0,6,1,auto propio
+17/12/2023,Química,Lluvioso,Lunes,14:00,Juan,0,0,0,taxi
+09/03/2023,Matemáticas,Nublado,Martes,16:00,Jose,0,4,1,camina
+18/05/2023,Física,Nublado,Viernes,16:00,Juan,0,6,1,taxi
+31/10/2023,Física,Nublado,Jueves,14:00,Carmen,0,3,1,combi
+25/11/2023,Historia,Soleado,Lunes,10:00,Carmen,0,10,0,moto
+29/06/2023,Historia,Nublado,Jueves,14:00,Carmen,0,9,1,camión
+16/05/2023,Historia,Soleado,Martes,08:00,Carmen,0,2,1,moto
+20/01/2023,Biología,Ventoso,Jueves,12:00,Norma,0,8,1,camina
+21/11/2023,Biología,Nublado,Viernes,08:00,Carmen,0,4,1,moto
+19/04/2023,Biología,Ventoso,Jueves,14:00,Carmen,1,5,0,auto propio
+28/08/2023,Física,Lluvioso,Jueves,10:00,Carmen,1,6,1,moto
+22/11/2023,Química,Ventoso,Miércoles,10:00,Juan,1,3,1,combi
+06/04/2023,Biología,Ventoso,Jueves,10:00,Norma,1,10,0,taxi
+11/07/2023,Física,Ventoso,Viernes,10:00,Jose,0,3,1,moto
+17/09/2023,Física,Soleado,Miércoles,16:00,Juan,0,4,0,bicicleta
+26/12/2023,Física,Lluvioso,Martes,14:00,Ana,1,9,0,combi
+05/09/2023,Física,Lluvioso,Jueves,08:00,Jose,0,9,0,camina
+03/02/2023,Biología,Soleado,Martes,10:00,Norma,0,5,1,taxi
+07/03/2023,Física,Nublado,Jueves,12:00,Carmen,1,5,1,auto propio
+01/10/2023,Química,Ventoso,Lunes,16:00,Jose,0,6,1,camina
+17/01/2023,Matemáticas,Ventoso,Lunes,10:00,Carmen,1,3,0,bicicleta
+01/03/2023,Matemáticas,Ventoso,Miércoles,14:00,Ana,0,10,0,bicicleta
+07/07/2023,Química,Ventoso,Lunes,10:00,Juan,0,0,1,auto propio
+04/11/2023,Biología,Ventoso,Lunes,12:00,Juan,1,10,0,camina
+08/09/2023,Matemáticas,Soleado,Lunes,08:00,Carmen,0,4,0,taxi
+17/03/2023,Química,Ventoso,Martes,12:00,Jose,0,0,1,moto
+22/10/2023,Matemáticas,Lluvioso,Lunes,08:00,Norma,0,10,0,moto
+09/04/2023,Química,Nublado,Miércoles,16:00,Jose,0,1,0,auto propio
+31/05/2023,Historia,Soleado,Jueves,16:00,Juan,0,4,0,moto
+24/02/2023,Matemáticas,Ventoso,Jueves,10:00,Jose,0,1,1,combi
+02/05/2023,Biología,Nublado,Miércoles,16:00,Norma,0,1,0,camina
+25/09/2023,Biología,Nublado,Miércoles,10:00,Norma,0,2,1,moto
+03/08/2023,Historia,Lluvioso,Martes,14:00,Jose,0,6,0,auto propio
+02/12/2023,Biología,Soleado,Martes,10:00,Carmen,1,6,0,camión
+22/03/2023,Matemáticas,Soleado,Viernes,16:00,Norma,1,6,0,moto
+14/04/2023,Física,Nublado,Jueves,08:00,Norma,0,9,1,camión
+07/06/2023,Matemáticas,Nublado,Lunes,14:00,Norma,0,3,1,camina
+20/03/2023,Matemáticas,Ventoso,Viernes,12:00,Ana,0,3,1,combi
+28/11/2023,Biología,Nublado,Miércoles,14:00,Carmen,1,7,1,taxi
+27/05/2023,Química,Ventoso,Viernes,16:00,Juan,1,0,0,taxi
+23/04/2023,Historia,Nublado,Lunes,08:00,Jose,1,2,1,auto propio
+15/04/2023,Historia,Ventoso,Lunes,10:00,Ana,1,7,1,taxi
+10/04/2023,Biología,Soleado,Miércoles,14:00,Norma,1,5,1,moto
+02/12/2023,Historia,Soleado,Jueves,08:00,Carmen,0,5,0,combi
+03/07/2023,Biología,Soleado,Lunes,16:00,Norma,0,10,1,combi
+25/12/2023,Matemáticas,Nublado,Viernes,08:00,Norma,1,8,1,auto propio
+01/09/2023,Química,Nublado,Martes,16:00,Carmen,1,5,0,camión
+14/12/2023,Matemáticas,Nublado,Miércoles,16:00,Norma,0,0,1,camión
+23/01/2023,Biología,Soleado,Viernes,14:00,Juan,1,4,1,taxi
+02/03/2023,Física,Nublado,Jueves,14:00,Jose,1,6,1,moto
+26/02/2023,Física,Ventoso,Miércoles,14:00,Carmen,0,2,1,taxi
+14/05/2023,Física,Ventoso,Martes,10:00,Juan,1,3,1,moto
+24/05/2023,Física,Ventoso,Viernes,14:00,Ana,1,1,1,camina
+06/12/2023,Matemáticas,Lluvioso,Lunes,10:00,Norma,0,5,1,camión
+30/01/2023,Biología,Nublado,Miércoles,08:00,Norma,1,4,0,taxi
+21/07/2023,Matemáticas,Ventoso,Viernes,10:00,Jose,0,4,1,moto
+12/09/2023,Historia,Ventoso,Jueves,12:00,Carmen,1,10,1,combi
+20/09/2023,Historia,Lluvioso,Lunes,16:00,Juan,0,2,1,moto
+09/09/2023,Historia,Soleado,Miércoles,16:00,Carmen,1,5,0,taxi
+17/08/2023,Química,Soleado,Jueves,16:00,Ana,1,1,1,taxi
+21/03/2023,Biología,Soleado,Lunes,16:00,Norma,0,3,0,camión
+25/01/2023,Química,Lluvioso,Viernes,12:00,Jose,0,4,1,combi
+02/02/2023,Química,Lluvioso,Miércoles,14:00,Juan,1,9,1,moto
+07/12/2023,Biología,Lluvioso,Martes,12:00,Jose,0,8,0,camión
+22/04/2023,Biología,Nublado,Viernes,10:00,Ana,0,9,0,camión
+11/11/2023,Química,Nublado,Martes,10:00,Carmen,1,7,1,camión
+23/04/2023,Matemáticas,Ventoso,Miércoles,08:00,Norma,1,6,1,combi
+24/06/2023,Química,Ventoso,Viernes,12:00,Norma,0,10,1,auto propio
+16/08/2023,Física,Lluvioso,Lunes,10:00,Juan,0,0,0,bicicleta
+01/03/2023,Matemáticas,Ventoso,Miércoles,12:00,Norma,0,9,1,auto propio
+25/02/2023,Física,Ventoso,Viernes,16:00,Norma,0,10,1,camión
+22/01/2023,Biología,Soleado,Viernes,16:00,Juan,0,4,1,auto propio
+16/03/2023,Biología,Ventoso,Miércoles,10:00,Norma,0,8,1,auto propio
+24/09/2023,Matemáticas,Lluvioso,Viernes,16:00,Jose,1,9,0,camión
+16/04/2023,Historia,Ventoso,Martes,10:00,Jose,1,8,1,auto propio
+11/08/2023,Historia,Nublado,Viernes,14:00,Ana,1,1,0,moto
+14/01/2023,Física,Soleado,Viernes,16:00,Ana,1,1,0,camina
+13/07/2023,Historia,Nublado,Lunes,10:00,Carmen,1,1,1,auto propio
+17/12/2023,Física,Ventoso,Viernes,16:00,Carmen,1,6,1,camina
+20/12/2023,Matemáticas,Ventoso,Martes,14:00,Norma,1,6,0,camina
+21/08/2023,Química,Lluvioso,Viernes,16:00,Norma,1,3,0,combi
+10/11/2023,Biología,Ventoso,Jueves,14:00,Carmen,0,8,0,auto propio
+06/06/2023,Matemáticas,Lluvioso,Viernes,08:00,Juan,0,9,0,camina
+28/08/2023,Física,Nublado,Viernes,08:00,Ana,1,6,1,taxi
+26/09/2023,Química,Soleado,Viernes,10:00,Ana,0,10,1,camina
+12/03/2023,Historia,Soleado,Lunes,10:00,Juan,0,9,0,taxi
+11/01/2023,Biología,Lluvioso,Jueves,08:00,Juan,0,1,1,auto propio
+22/10/2023,Química,Ventoso,Miércoles,14:00,Juan,1,1,0,combi
+10/10/2023,Química,Lluvioso,Martes,14:00,Norma,1,8,0,taxi
+05/04/2023,Física,Ventoso,Miércoles,08:00,Jose,1,9,0,taxi
+14/10/2023,Física,Ventoso,Lunes,16:00,Norma,0,7,1,auto propio
+13/03/2023,Matemáticas,Lluvioso,Viernes,16:00,Juan,0,8,0,camión
+27/10/2023,Historia,Soleado,Miércoles,14:00,Juan,0,9,0,taxi
+25/01/2023,Biología,Ventoso,Jueves,14:00,Ana,1,2,0,camión
+01/09/2023,Historia,Ventoso,Viernes,10:00,Carmen,1,10,1,taxi
+09/08/2023,Química,Ventoso,Jueves,12:00,Ana,0,5,0,taxi
+09/12/2023,Matemáticas,Lluvioso,Miércoles,10:00,Jose,1,6,1,moto
+04/11/2023,Química,Ventoso,Miércoles,10:00,Norma,1,0,1,moto
+23/06/2023,Biología,Nublado,Jueves,14:00,Ana,1,2,1,combi
+11/02/2023,Matemáticas,Nublado,Martes,12:00,Jose,1,10,1,moto
+05/10/2023,Matemáticas,Ventoso,Jueves,08:00,Juan,0,8,0,camina
+13/02/2023,Química,Nublado,Lunes,12:00,Norma,0,1,1,auto propio
+01/08/2023,Física,Ventoso,Martes,16:00,Jose,1,0,0,taxi
+21/05/2023,Química,Ventoso,Lunes,16:00,Juan,0,4,0,camión
+13/02/2023,Física,Ventoso,Martes,12:00,Carmen,1,8,0,bicicleta
+19/06/2023,Historia,Lluvioso,Jueves,10:00,Carmen,1,4,0,camión
+13/06/2023,Matemáticas,Soleado,Jueves,12:00,Norma,1,7,1,camión
+15/07/2023,Matemáticas,Lluvioso,Viernes,12:00,Norma,0,2,1,combi
+28/10/2023,Física,Lluvioso,Viernes,08:00,Carmen,0,10,1,bicicleta
+15/01/2023,Química,Ventoso,Viernes,16:00,Norma,0,3,1,auto propio
+26/11/2023,Química,Soleado,Lunes,16:00,Ana,0,7,1,camión
+14/02/2023,Física,Lluvioso,Lunes,16:00,Juan,1,5,0,taxi
+21/06/2023,Biología,Nublado,Lunes,10:00,Ana,0,7,0,camión
+15/12/2023,Matemáticas,Ventoso,Miércoles,14:00,Ana,1,10,0,bicicleta
+18/08/2023,Biología,Nublado,Martes,10:00,Ana,0,5,1,combi
+20/07/2023,Biología,Lluvioso,Viernes,16:00,Juan,0,9,0,moto
+18/12/2023,Matemáticas,Soleado,Lunes,08:00,Carmen,0,5,0,auto propio
+20/09/2023,Química,Lluvioso,Lunes,08:00,Norma,0,6,0,taxi
+14/01/2023,Biología,Ventoso,Lunes,10:00,Juan,0,6,1,camina
+09/10/2023,Física,Ventoso,Miércoles,16:00,Ana,1,9,1,camión
+11/07/2023,Historia,Nublado,Lunes,10:00,Norma,0,6,0,auto propio
+02/02/2023,Biología,Lluvioso,Miércoles,08:00,Jose,0,5,1,camina
+09/11/2023,Historia,Lluvioso,Martes,14:00,Jose,1,1,0,bicicleta
+19/02/2023,Historia,Soleado,Viernes,10:00,Ana,0,10,1,bicicleta
+26/11/2023,Física,Lluvioso,Jueves,16:00,Ana,1,8,1,camión
+15/07/2023,Historia,Soleado,Viernes,12:00,Jose,0,10,1,combi
+12/04/2023,Biología,Nublado,Jueves,16:00,Carmen,0,7,0,camión
+27/12/2023,Física,Ventoso,Lunes,16:00,Juan,1,8,1,auto propio
+22/02/2023,Química,Soleado,Miércoles,12:00,Ana,0,5,0,camión
+22/01/2023,Química,Nublado,Martes,14:00,Norma,1,7,1,taxi
+29/09/2023,Historia,Soleado,Martes,10:00,Juan,0,7,1,moto
+01/05/2023,Matemáticas,Nublado,Lunes,10:00,Norma,0,6,1,taxi
+03/05/2023,Matemáticas,Lluvioso,Martes,10:00,Carmen,0,3,1,bicicleta
+20/01/2023,Química,Nublado,Lunes,08:00,Jose,1,6,1,auto propio
+20/02/2023,Matemáticas,Lluvioso,Viernes,16:00,Carmen,1,0,1,camión
+22/03/2023,Física,Nublado,Martes,14:00,Juan,1,9,0,auto propio
+03/10/2023,Biología,Lluvioso,Jueves,10:00,Carmen,1,7,1,combi
+22/06/2023,Historia,Nublado,Jueves,16:00,Juan,0,8,1,auto propio
+25/09/2023,Matemáticas,Lluvioso,Viernes,08:00,Norma,0,2,1,camión
+29/12/2023,Matemáticas,Nublado,Martes,08:00,Juan,1,9,0,camina
+23/02/2023,Historia,Ventoso,Martes,08:00,Ana,0,3,0,moto
+06/01/2023,Química,Lluvioso,Lunes,10:00,Ana,1,6,1,bicicleta
+21/06/2023,Química,Nublado,Viernes,12:00,Ana,0,1,0,taxi
+22/12/2023,Química,Lluvioso,Martes,08:00,Jose,1,7,0,camina
+28/07/2023,Matemáticas,Nublado,Miércoles,10:00,Juan,1,8,1,taxi
+29/04/2023,Física,Soleado,Miércoles,14:00,Ana,1,10,0,combi
+02/10/2023,Matemáticas,Lluvioso,Lunes,10:00,Carmen,1,2,0,camión
+08/09/2023,Química,Ventoso,Jueves,16:00,Norma,1,6,1,taxi
+22/03/2023,Biología,Nublado,Martes,12:00,Ana,0,1,1,camión
+22/06/2023,Química,Lluvioso,Jueves,08:00,Carmen,1,10,0,taxi
+05/02/2023,Química,Lluvioso,Martes,16:00,Ana,1,2,1,camina
+30/09/2023,Química,Soleado,Viernes,08:00,Jose,0,9,1,auto propio
+29/09/2023,Física,Lluvioso,Martes,14:00,Jose,1,2,1,combi
+23/12/2023,Química,Nublado,Miércoles,12:00,Ana,0,1,0,moto
+23/04/2023,Historia,Lluvioso,Viernes,10:00,Jose,1,8,1,camión
+25/05/2023,Física,Ventoso,Jueves,08:00,Jose,0,9,0,taxi
+07/08/2023,Historia,Lluvioso,Jueves,10:00,Jose,0,6,1,camión
+30/03/2023,Matemáticas,Nublado,Lunes,10:00,Norma,1,0,0,camina
+09/02/2023,Historia,Soleado,Viernes,10:00,Ana,0,1,1,moto
+19/09/2023,Biología,Nublado,Miércoles,14:00,Jose,1,0,0,camina
+15/05/2023,Historia,Lluvioso,Viernes,14:00,Ana,0,10,0,bicicleta
+25/06/2023,Matemáticas,Ventoso,Viernes,14:00,Ana,1,2,1,moto
+17/03/2023,Matemáticas,Soleado,Martes,12:00,Norma,0,8,1,taxi
+24/04/2023,Física,Soleado,Viernes,10:00,Jose,0,2,0,combi
+18/08/2023,Física,Nublado,Martes,12:00,Ana,0,7,0,camina
+06/12/2023,Biología,Nublado,Lunes,12:00,Jose,0,0,0,bicicleta
+11/12/2023,Matemáticas,Lluvioso,Viernes,14:00,Carmen,0,1,1,auto propio
+01/12/2023,Biología,Soleado,Viernes,10:00,Carmen,0,3,1,bicicleta
+19/08/2023,Física,Soleado,Martes,10:00,Juan,1,9,0,camina
+19/03/2023,Historia,Lluvioso,Viernes,08:00,Jose,1,1,0,moto
+07/12/2023,Matemáticas,Nublado,Jueves,10:00,Ana,1,9,0,camina
+12/12/2023,Historia,Ventoso,Miércoles,10:00,Ana,0,3,1,taxi
+01/05/2023,Química,Ventoso,Lunes,14:00,Juan,0,8,0,auto propio
+17/08/2023,Biología,Soleado,Miércoles,16:00,Norma,0,10,0,bicicleta
+27/03/2023,Química,Soleado,Martes,08:00,Juan,0,5,1,taxi
+15/06/2023,Química,Ventoso,Martes,12:00,Norma,1,2,1,moto
+15/02/2023,Matemáticas,Ventoso,Miércoles,08:00,Carmen,0,5,0,camina
+12/12/2023,Biología,Lluvioso,Viernes,14:00,Juan,1,8,1,camina
+22/08/2023,Matemáticas,Ventoso,Jueves,12:00,Ana,1,6,1,combi
+21/05/2023,Biología,Lluvioso,Martes,14:00,Juan,1,1,0,combi
+18/01/2023,Física,Ventoso,Martes,08:00,Norma,1,4,0,camión
+06/07/2023,Matemáticas,Ventoso,Jueves,14:00,Norma,1,4,0,taxi
+11/09/2023,Biología,Lluvioso,Jueves,10:00,Ana,0,9,1,combi
+21/12/2023,Química,Soleado,Martes,10:00,Carmen,0,1,0,combi
+22/12/2023,Física,Nublado,Jueves,14:00,Norma,1,1,1,bicicleta
+10/11/2023,Biología,Ventoso,Martes,10:00,Juan,0,9,1,bicicleta
+23/06/2023,Física,Soleado,Miércoles,08:00,Ana,0,7,1,auto propio
+10/11/2023,Física,Nublado,Viernes,12:00,Juan,1,8,1,moto
+23/10/2023,Física,Ventoso,Miércoles,08:00,Ana,0,4,1,moto
+05/05/2023,Química,Nublado,Lunes,12:00,Juan,0,9,1,bicicleta
+13/11/2023,Química,Lluvioso,Jueves,16:00,Ana,1,6,1,auto propio
+15/05/2023,Historia,Lluvioso,Lunes,16:00,Ana,0,8,0,moto
+12/07/2023,Matemáticas,Nublado,Martes,14:00,Ana,1,9,1,taxi
+18/07/2023,Química,Ventoso,Jueves,10:00,Jose,0,5,0,auto propio
+18/09/2023,Química,Nublado,Viernes,08:00,Carmen,1,6,0,taxi
+20/06/2023,Matemáticas,Lluvioso,Miércoles,10:00,Juan,1,3,0,moto
+03/07/2023,Matemáticas,Ventoso,Miércoles,10:00,Juan,0,4,1,auto propio
+20/09/2023,Química,Nublado,Miércoles,08:00,Carmen,1,8,1,taxi
+22/02/2023,Química,Soleado,Martes,08:00,Jose,0,6,1,camina
+18/03/2023,Química,Nublado,Jueves,10:00,Jose,1,10,1,camión
+19/12/2023,Química,Ventoso,Miércoles,08:00,Ana,1,4,0,bicicleta
+10/05/2023,Química,Soleado,Lunes,16:00,Carmen,0,9,0,moto
+11/10/2023,Física,Lluvioso,Lunes,14:00,Carmen,1,9,0,camión
+17/07/2023,Biología,Nublado,Viernes,14:00,Juan,1,1,0,taxi
+13/09/2023,Biología,Ventoso,Martes,08:00,Jose,0,10,0,combi
+06/08/2023,Matemáticas,Nublado,Miércoles,12:00,Jose,1,7,0,taxi
+01/01/2023,Química,Lluvioso,Viernes,12:00,Juan,0,7,0,combi
+14/06/2023,Biología,Soleado,Viernes,08:00,Jose,1,8,1,auto propio
+19/04/2023,Matemáticas,Lluvioso,Jueves,14:00,Ana,0,10,1,taxi
+02/03/2023,Historia,Nublado,Jueves,12:00,Juan,1,4,1,auto propio
+30/09/2023,Historia,Ventoso,Lunes,14:00,Carmen,1,5,0,taxi
+06/12/2023,Historia,Nublado,Miércoles,12:00,Ana,0,10,1,auto propio
+04/11/2023,Biología,Nublado,Jueves,08:00,Ana,1,9,1,bicicleta
+02/09/2023,Biología,Soleado,Viernes,14:00,Juan,0,3,0,camión
+28/12/2023,Física,Ventoso,Jueves,14:00,Juan,0,6,1,bicicleta
+04/01/2023,Historia,Nublado,Lunes,16:00,Juan,1,4,1,bicicleta
+15/01/2023,Química,Ventoso,Martes,12:00,Carmen,0,1,1,camina
+23/06/2023,Física,Ventoso,Lunes,14:00,Juan,1,5,0,camina
+18/03/2023,Matemáticas,Ventoso,Viernes,10:00,Juan,1,10,1,taxi
+18/02/2023,Historia,Lluvioso,Lunes,10:00,Jose,0,9,1,camina
+08/04/2023,Biología,Nublado,Lunes,16:00,Ana,0,6,0,combi
+13/09/2023,Física,Lluvioso,Miércoles,14:00,Ana,0,3,0,camina
+30/05/2023,Química,Nublado,Miércoles,08:00,Jose,0,7,1,bicicleta
+03/05/2023,Matemáticas,Ventoso,Jueves,16:00,Norma,0,6,1,auto propio
+14/11/2023,Química,Soleado,Jueves,12:00,Juan,0,7,1,auto propio
+05/06/2023,Física,Lluvioso,Miércoles,14:00,Carmen,0,1,0,camión
+07/12/2023,Historia,Nublado,Viernes,14:00,Juan,1,2,0,bicicleta
+02/08/2023,Física,Nublado,Viernes,10:00,Juan,1,10,1,taxi
+17/09/2023,Matemáticas,Lluvioso,Martes,12:00,Norma,0,6,1,camión
+18/11/2023,Matemáticas,Ventoso,Martes,14:00,Norma,1,4,1,camión
+17/07/2023,Química,Nublado,Viernes,08:00,Juan,1,9,0,bicicleta
+09/08/2023,Historia,Ventoso,Jueves,16:00,Ana,1,9,0,auto propio
+28/09/2023,Química,Soleado,Jueves,08:00,Ana,0,10,1,camión
+09/04/2023,Química,Nublado,Viernes,12:00,Juan,0,5,1,camina
+05/08/2023,Historia,Nublado,Lunes,12:00,Jose,0,6,1,bicicleta
+04/02/2023,Matemáticas,Soleado,Viernes,12:00,Ana,1,10,1,bicicleta
+03/03/2023,Matemáticas,Ventoso,Miércoles,10:00,Norma,1,0,1,bicicleta
+12/09/2023,Biología,Soleado,Jueves,10:00,Norma,1,5,0,bicicleta
+23/07/2023,Matemáticas,Lluvioso,Lunes,16:00,Norma,0,7,1,camión
+20/10/2023,Química,Ventoso,Lunes,08:00,Ana,0,7,1,camión
+27/09/2023,Historia,Nublado,Martes,12:00,Juan,0,1,0,auto propio
+20/01/2023,Historia,Nublado,Lunes,10:00,Ana,0,0,1,moto
+27/10/2023,Matemáticas,Ventoso,Miércoles,14:00,Jose,0,0,0,combi
+19/05/2023,Historia,Nublado,Viernes,08:00,Norma,1,0,1,camión
+03/12/2023,Historia,Ventoso,Viernes,12:00,Jose,0,8,1,auto propio
+01/11/2023,Matemáticas,Nublado,Martes,10:00,Jose,0,6,1,bicicleta
+15/12/2023,Historia,Soleado,Miércoles,12:00,Carmen,0,2,1,camión
+17/05/2023,Física,Ventoso,Lunes,12:00,Ana,1,5,1,camina
+18/03/2023,Física,Lluvioso,Lunes,10:00,Norma,0,1,0,combi
+14/12/2023,Física,Nublado,Viernes,16:00,Jose,0,9,1,auto propio
+06/11/2023,Física,Ventoso,Lunes,08:00,Jose,1,7,1,taxi
+18/02/2023,Química,Lluvioso,Jueves,12:00,Jose,0,3,0,camina
+17/08/2023,Física,Soleado,Jueves,12:00,Norma,1,3,1,bicicleta
+21/12/2023,Biología,Lluvioso,Jueves,12:00,Juan,1,7,1,moto
+17/10/2023,Física,Lluvioso,Martes,08:00,Jose,0,5,1,taxi
+26/01/2023,Historia,Lluvioso,Lunes,16:00,Jose,1,6,1,camión
+21/11/2023,Química,Soleado,Miércoles,08:00,Juan,0,6,1,camina
+01/01/2023,Química,Lluvioso,Jueves,14:00,Norma,0,8,0,camión
+11/10/2023,Biología,Soleado,Viernes,08:00,Norma,1,0,0,taxi
+14/09/2023,Física,Soleado,Jueves,14:00,Norma,0,1,1,combi
+25/02/2023,Matemáticas,Soleado,Jueves,16:00,Jose,1,4,0,bicicleta
+10/04/2023,Historia,Nublado,Lunes,08:00,Norma,0,0,0,combi
+01/02/2023,Química,Lluvioso,Miércoles,16:00,Jose,0,9,0,camión
+04/12/2023,Física,Lluvioso,Martes,08:00,Juan,0,2,0,auto propio
+23/02/2023,Química,Soleado,Viernes,16:00,Norma,0,8,0,moto
+26/09/2023,Matemáticas,Soleado,Martes,08:00,Norma,1,9,0,camina
+06/02/2023,Química,Soleado,Lunes,14:00,Juan,1,3,0,auto propio
+02/04/2023,Química,Soleado,Jueves,14:00,Ana,0,6,1,camión
+02/06/2023,Física,Ventoso,Lunes,14:00,Carmen,0,5,0,auto propio
+28/06/2023,Biología,Lluvioso,Viernes,10:00,Norma,0,6,0,moto
+13/11/2023,Física,Lluvioso,Miércoles,08:00,Jose,1,4,0,moto
+03/07/2023,Biología,Lluvioso,Miércoles,16:00,Carmen,1,1,0,camina
+09/08/2023,Matemáticas,Ventoso,Lunes,12:00,Ana,1,2,0,moto
+06/10/2023,Matemáticas,Lluvioso,Miércoles,14:00,Jose,0,5,0,moto
+24/09/2023,Historia,Ventoso,Jueves,16:00,Ana,0,9,1,camina
+30/10/2023,Historia,Ventoso,Miércoles,16:00,Jose,0,4,0,bicicleta
+19/08/2023,Química,Ventoso,Martes,16:00,Ana,0,6,0,camión
+15/07/2023,Biología,Ventoso,Martes,12:00,Carmen,0,7,1,moto
+06/06/2023,Biología,Ventoso,Miércoles,12:00,Jose,0,0,0,taxi
+30/05/2023,Física,Lluvioso,Miércoles,10:00,Norma,0,4,1,taxi
+31/03/2023,Matemáticas,Ventoso,Miércoles,12:00,Ana,0,1,0,camina
+11/01/2023,Biología,Soleado,Jueves,10:00,Norma,1,0,0,camina
+16/03/2023,Biología,Ventoso,Viernes,14:00,Juan,1,2,1,taxi
+26/10/2023,Matemáticas,Soleado,Miércoles,14:00,Ana,0,8,1,combi
+23/04/2023,Biología,Lluvioso,Martes,12:00,Carmen,1,2,1,combi
+02/06/2023,Física,Nublado,Viernes,10:00,Juan,0,10,1,moto
+07/12/2023,Historia,Ventoso,Lunes,14:00,Norma,0,7,1,bicicleta
+11/12/2023,Historia,Lluvioso,Jueves,12:00,Norma,1,1,0,camión
+16/10/2023,Biología,Nublado,Jueves,12:00,Norma,1,7,1,camina
+10/02/2023,Biología,Nublado,Viernes,14:00,Ana,0,3,0,camina
+09/09/2023,Química,Ventoso,Viernes,12:00,Jose,0,0,0,bicicleta
+10/01/2023,Química,Soleado,Miércoles,08:00,Norma,0,6,1,taxi
+10/03/2023,Química,Nublado,Miércoles,14:00,Jose,1,9,0,moto
+05/01/2023,Química,Nublado,Jueves,14:00,Ana,0,0,0,bicicleta
+13/04/2023,Historia,Soleado,Lunes,16:00,Carmen,1,9,1,taxi
+17/07/2023,Química,Lluvioso,Jueves,08:00,Juan,1,6,1,combi
+16/10/2023,Química,Ventoso,Martes,16:00,Carmen,1,3,0,camión
+16/12/2023,Biología,Ventoso,Martes,16:00,Ana,1,9,1,moto
+07/03/2023,Historia,Ventoso,Viernes,10:00,Norma,1,3,1,camión
+24/08/2023,Química,Soleado,Martes,14:00,Jose,1,8,0,camina
+13/05/2023,Química,Nublado,Miércoles,16:00,Carmen,1,10,0,camión
+09/09/2023,Matemáticas,Ventoso,Viernes,12:00,Ana,1,5,0,combi
+19/10/2023,Física,Nublado,Lunes,14:00,Ana,1,5,0,taxi
+12/02/2023,Historia,Ventoso,Lunes,08:00,Norma,0,5,0,camión
+19/01/2023,Matemáticas,Soleado,Jueves,08:00,Norma,1,1,1,auto propio
+10/12/2023,Física,Nublado,Martes,08:00,Jose,1,6,1,camión
+13/06/2023,Biología,Ventoso,Miércoles,14:00,Juan,1,6,0,bicicleta
+23/11/2023,Matemáticas,Nublado,Jueves,10:00,Ana,1,6,0,bicicleta
+11/11/2023,Biología,Ventoso,Viernes,10:00,Juan,1,2,0,bicicleta
+03/05/2023,Biología,Nublado,Jueves,12:00,Carmen,1,3,0,auto propio
+18/11/2023,Química,Ventoso,Lunes,12:00,Carmen,0,8,0,taxi
+16/05/2023,Historia,Soleado,Lunes,12:00,Norma,1,6,1,camión
+12/03/2023,Matemáticas,Lluvioso,Miércoles,14:00,Ana,0,7,0,auto propio
+15/08/2023,Química,Nublado,Lunes,10:00,Juan,1,3,0,camión
+07/01/2023,Matemáticas,Lluvioso,Miércoles,12:00,Norma,1,2,1,bicicleta
+08/02/2023,Física,Lluvioso,Martes,10:00,Juan,1,8,1,moto
+23/11/2023,Biología,Lluvioso,Jueves,14:00,Norma,1,5,1,moto
+08/12/2023,Biología,Soleado,Viernes,12:00,Carmen,0,3,1,camina
+17/05/2023,Historia,Lluvioso,Miércoles,12:00,Juan,0,10,1,camión
+20/08/2023,Historia,Soleado,Martes,08:00,Juan,1,8,0,moto
+18/10/2023,Física,Soleado,Miércoles,16:00,Carmen,0,10,1,taxi
+18/09/2023,Biología,Ventoso,Miércoles,08:00,Carmen,0,2,1,taxi
+10/01/2023,Física,Nublado,Jueves,08:00,Ana,1,9,0,camina
+01/07/2023,Química,Soleado,Jueves,12:00,Norma,1,2,1,combi
+10/02/2023,Biología,Soleado,Viernes,10:00,Carmen,0,5,1,taxi
+10/02/2023,Física,Nublado,Miércoles,08:00,Carmen,1,5,1,bicicleta
+10/01/2023,Biología,Soleado,Viernes,08:00,Carmen,1,0,0,moto
+17/11/2023,Historia,Soleado,Jueves,16:00,Ana,1,4,0,combi
+24/01/2023,Historia,Ventoso,Lunes,16:00,Jose,1,0,0,bicicleta
+14/02/2023,Biología,Ventoso,Jueves,14:00,Jose,0,3,1,combi
+22/05/2023,Biología,Lluvioso,Miércoles,10:00,Norma,0,8,1,camión
+05/05/2023,Física,Lluvioso,Martes,10:00,Carmen,0,2,1,taxi
+01/11/2023,Biología,Ventoso,Martes,16:00,Norma,0,5,1,moto
+03/08/2023,Historia,Soleado,Lunes,14:00,Juan,1,6,1,bicicleta
+19/01/2023,Historia,Nublado,Jueves,16:00,Norma,0,2,1,taxi
+20/02/2023,Biología,Soleado,Jueves,08:00,Norma,0,8,0,camina
+03/03/2023,Biología,Nublado,Martes,14:00,Ana,1,6,0,camión
+23/07/2023,Física,Soleado,Miércoles,12:00,Ana,0,6,1,combi
+02/06/2023,Física,Lluvioso,Miércoles,16:00,Carmen,0,10,0,camina
+07/10/2023,Historia,Ventoso,Lunes,12:00,Norma,1,8,0,auto propio
+26/03/2023,Química,Ventoso,Miércoles,12:00,Ana,0,3,1,auto propio
+17/09/2023,Historia,Ventoso,Viernes,14:00,Juan,1,9,0,camina
+12/06/2023,Historia,Lluvioso,Miércoles,08:00,Ana,0,1,0,combi
+01/04/2023,Química,Ventoso,Viernes,10:00,Norma,1,10,0,camión
+24/11/2023,Historia,Nublado,Miércoles,14:00,Carmen,1,10,0,auto propio
+02/08/2023,Historia,Ventoso,Lunes,08:00,Norma,1,7,1,camión
+04/01/2023,Biología,Lluvioso,Martes,16:00,Carmen,0,0,1,auto propio
+29/08/2023,Física,Ventoso,Miércoles,16:00,Carmen,1,2,0,combi
+14/07/2023,Biología,Ventoso,Miércoles,12:00,Jose,1,6,1,camión
+17/10/2023,Física,Nublado,Martes,12:00,Carmen,0,7,1,moto
+20/06/2023,Física,Nublado,Miércoles,12:00,Jose,0,1,0,combi
+18/09/2023,Historia,Ventoso,Martes,08:00,Ana,1,8,1,camión
+13/03/2023,Historia,Soleado,Martes,12:00,Jose,1,6,0,camión
+23/04/2023,Física,Ventoso,Viernes,16:00,Juan,0,10,0,bicicleta
+20/10/2023,Física,Ventoso,Lunes,10:00,Carmen,1,6,1,combi
+10/04/2023,Historia,Nublado,Martes,08:00,Ana,0,10,0,camina
+01/07/2023,Biología,Nublado,Martes,14:00,Norma,1,4,1,moto
+07/01/2023,Física,Lluvioso,Martes,12:00,Juan,0,5,1,combi
+19/02/2023,Química,Nublado,Martes,14:00,Norma,0,2,1,taxi
+23/01/2023,Historia,Soleado,Miércoles,16:00,Jose,1,8,1,taxi
+26/01/2023,Biología,Nublado,Lunes,16:00,Norma,1,2,1,auto propio
+04/06/2023,Biología,Lluvioso,Jueves,16:00,Carmen,1,8,1,moto
+24/05/2023,Matemáticas,Lluvioso,Martes,16:00,Norma,0,8,0,camión
+10/06/2023,Historia,Ventoso,Martes,10:00,Juan,0,2,1,bicicleta
+18/01/2023,Química,Nublado,Miércoles,16:00,Juan,1,4,0,combi
+22/02/2023,Historia,Nublado,Lunes,14:00,Carmen,1,3,1,moto
+04/06/2023,Matemáticas,Lluvioso,Viernes,14:00,Ana,1,2,1,taxi
+10/09/2023,Historia,Ventoso,Viernes,16:00,Ana,0,1,1,moto
+18/09/2023,Física,Soleado,Miércoles,12:00,Ana,0,3,1,bicicleta
+12/11/2023,Historia,Lluvioso,Miércoles,16:00,Carmen,1,1,0,bicicleta
+12/04/2023,Física,Soleado,Viernes,16:00,Jose,1,2,1,bicicleta
+13/07/2023,Biología,Soleado,Miércoles,14:00,Juan,1,5,1,bicicleta
+29/03/2023,Historia,Ventoso,Viernes,08:00,Juan,1,10,0,taxi
+08/06/2023,Química,Nublado,Lunes,14:00,Jose,1,1,0,bicicleta
+23/02/2023,Historia,Lluvioso,Viernes,16:00,Juan,1,9,0,camina
+27/06/2023,Biología,Ventoso,Jueves,08:00,Jose,1,0,0,bicicleta
+02/08/2023,Biología,Lluvioso,Martes,14:00,Jose,1,4,0,moto
+30/06/2023,Física,Ventoso,Lunes,14:00,Carmen,0,1,1,bicicleta
+25/02/2023,Biología,Soleado,Lunes,14:00,Ana,1,3,1,combi
+16/07/2023,Historia,Ventoso,Jueves,16:00,Ana,1,9,0,camión
+14/01/2023,Química,Lluvioso,Jueves,16:00,Ana,1,6,0,combi
+01/08/2023,Matemáticas,Ventoso,Jueves,14:00,Juan,0,8,1,combi
+23/04/2023,Física,Nublado,Miércoles,12:00,Juan,1,8,1,moto
+01/01/2023,Física,Lluvioso,Miércoles,16:00,Jose,1,5,0,combi
+16/01/2023,Historia,Soleado,Viernes,12:00,Juan,0,0,1,bicicleta
+05/03/2023,Física,Nublado,Lunes,08:00,Jose,1,5,0,auto propio
+22/02/2023,Matemáticas,Nublado,Jueves,08:00,Juan,0,9,1,bicicleta
+25/04/2023,Física,Nublado,Miércoles,16:00,Ana,1,9,0,camión
+09/07/2023,Matemáticas,Nublado,Viernes,16:00,Jose,0,6,1,moto
+16/11/2023,Química,Ventoso,Miércoles,16:00,Jose,1,7,1,moto
+31/10/2023,Historia,Nublado,Jueves,14:00,Ana,1,8,1,auto propio
+05/07/2023,Biología,Ventoso,Viernes,12:00,Carmen,0,8,1,combi
+14/11/2023,Física,Lluvioso,Viernes,14:00,Jose,1,8,0,taxi
+11/05/2023,Física,Ventoso,Jueves,08:00,Jose,1,4,1,camina
+03/04/2023,Química,Lluvioso,Jueves,08:00,Juan,1,2,0,moto
+27/01/2023,Biología,Lluvioso,Viernes,08:00,Carmen,1,4,1,taxi
+20/10/2023,Química,Soleado,Miércoles,14:00,Norma,1,4,1,camión
+10/04/2023,Química,Ventoso,Lunes,16:00,Carmen,1,9,0,moto
+07/06/2023,Física,Ventoso,Lunes,16:00,Carmen,1,1,1,camina
+27/09/2023,Biología,Lluvioso,Martes,12:00,Norma,1,9,1,camión
+18/11/2023,Química,Ventoso,Lunes,12:00,Norma,1,2,1,combi
+12/08/2023,Historia,Soleado,Jueves,08:00,Jose,0,1,0,combi
+29/07/2023,Química,Nublado,Martes,10:00,Jose,0,3,0,camión
+05/01/2023,Matemáticas,Soleado,Jueves,16:00,Ana,1,2,0,camina
+05/08/2023,Historia,Soleado,Jueves,12:00,Carmen,1,4,0,camión
+01/08/2023,Química,Lluvioso,Miércoles,14:00,Jose,1,8,0,combi
+03/01/2023,Biología,Soleado,Miércoles,14:00,Juan,1,8,1,bicicleta
+19/06/2023,Física,Lluvioso,Jueves,12:00,Norma,1,9,0,bicicleta
+13/09/2023,Biología,Lluvioso,Lunes,12:00,Norma,0,9,0,camina
+15/10/2023,Biología,Lluvioso,Miércoles,10:00,Juan,0,2,1,moto
+15/06/2023,Física,Nublado,Lunes,12:00,Juan,0,2,1,taxi
+06/10/2023,Física,Nublado,Lunes,08:00,Norma,0,1,1,moto
+04/10/2023,Física,Nublado,Viernes,12:00,Jose,1,2,0,moto
+31/08/2023,Biología,Nublado,Viernes,14:00,Juan,1,5,1,moto
+22/01/2023,Historia,Lluvioso,Viernes,14:00,Jose,1,2,1,taxi
+18/04/2023,Biología,Nublado,Miércoles,14:00,Carmen,1,7,1,auto propio
+10/02/2023,Historia,Nublado,Jueves,08:00,Juan,1,10,0,auto propio
+27/06/2023,Historia,Soleado,Viernes,14:00,Jose,0,6,0,camión
+11/04/2023,Biología,Lluvioso,Jueves,12:00,Jose,0,8,1,camina
+01/11/2023,Biología,Lluvioso,Lunes,10:00,Jose,1,10,1,camina
+06/03/2023,Química,Lluvioso,Martes,10:00,Juan,0,9,0,camina
+13/08/2023,Historia,Lluvioso,Viernes,16:00,Jose,0,9,0,bicicleta
+25/09/2023,Matemáticas,Nublado,Miércoles,12:00,Juan,1,2,0,combi
+16/05/2023,Física,Lluvioso,Lunes,12:00,Norma,0,10,0,camión
+28/03/2023,Matemáticas,Lluvioso,Martes,10:00,Norma,0,7,0,camión
+24/06/2023,Física,Nublado,Miércoles,12:00,Jose,1,5,0,combi
+02/01/2023,Biología,Soleado,Martes,08:00,Juan,1,4,1,auto propio
+12/07/2023,Química,Ventoso,Lunes,10:00,Juan,1,7,0,camión
+15/09/2023,Química,Lluvioso,Martes,14:00,Norma,1,2,1,auto propio
+31/03/2023,Matemáticas,Lluvioso,Jueves,16:00,Ana,0,10,0,auto propio
+12/02/2023,Química,Nublado,Lunes,10:00,Jose,1,3,1,camina
+12/02/2023,Biología,Nublado,Lunes,08:00,Norma,0,2,1,moto
+25/08/2023,Matemáticas,Soleado,Jueves,08:00,Jose,1,2,0,bicicleta
+17/11/2023,Historia,Soleado,Viernes,14:00,Jose,1,1,0,camión
+11/11/2023,Matemáticas,Ventoso,Jueves,14:00,Norma,1,10,0,camión
+02/10/2023,Química,Nublado,Lunes,14:00,Juan,0,5,0,camina
+22/11/2023,Historia,Ventoso,Miércoles,16:00,Carmen,0,4,0,combi
+20/02/2023,Biología,Soleado,Lunes,14:00,Jose,1,4,1,moto
+03/01/2023,Física,Ventoso,Lunes,10:00,Carmen,1,9,1,camina
+10/01/2023,Química,Ventoso,Jueves,10:00,Juan,0,9,0,taxi
+26/11/2023,Biología,Ventoso,Lunes,10:00,Juan,0,6,0,bicicleta
+07/12/2023,Química,Soleado,Jueves,12:00,Norma,0,9,0,bicicleta
+09/08/2023,Química,Lluvioso,Jueves,08:00,Juan,0,4,0,taxi
+15/04/2023,Historia,Lluvioso,Viernes,10:00,Ana,1,10,0,camina
+16/08/2023,Química,Soleado,Miércoles,14:00,Carmen,1,10,1,combi
+12/03/2023,Historia,Lluvioso,Jueves,08:00,Jose,0,0,0,camina
+12/09/2023,Física,Ventoso,Miércoles,10:00,Juan,0,6,1,combi
+08/02/2023,Física,Soleado,Jueves,08:00,Norma,0,7,1,taxi
+24/11/2023,Física,Soleado,Martes,08:00,Juan,1,4,0,camina
+12/01/2023,Biología,Ventoso,Lunes,14:00,Norma,1,10,1,auto propio
+12/08/2023,Historia,Nublado,Viernes,16:00,Norma,1,0,0,moto
+25/08/2023,Matemáticas,Ventoso,Viernes,08:00,Ana,0,0,1,combi
+16/04/2023,Biología,Soleado,Jueves,08:00,Juan,0,9,1,moto
+21/03/2023,Química,Ventoso,Lunes,08:00,Norma,1,1,1,moto
+10/07/2023,Física,Lluvioso,Viernes,16:00,Jose,1,0,1,camión
+07/03/2023,Biología,Nublado,Viernes,14:00,Ana,0,10,1,bicicleta
+08/07/2023,Biología,Nublado,Lunes,16:00,Juan,0,2,0,bicicleta
+10/10/2023,Historia,Nublado,Miércoles,12:00,Juan,1,3,1,camina
+14/12/2023,Historia,Ventoso,Martes,10:00,Norma,1,10,1,combi
+11/04/2023,Matemáticas,Ventoso,Miércoles,12:00,Norma,1,3,1,moto
+20/05/2023,Historia,Nublado,Lunes,12:00,Norma,0,8,1,bicicleta
+08/04/2023,Historia,Lluvioso,Martes,08:00,Norma,0,0,1,camión
+23/12/2023,Química,Soleado,Lunes,10:00,Norma,0,1,0,camina
+02/07/2023,Química,Soleado,Jueves,14:00,Ana,1,4,1,auto propio
+02/04/2023,Biología,Ventoso,Jueves,08:00,Juan,1,6,1,moto
+05/11/2023,Química,Soleado,Viernes,08:00,Carmen,1,1,1,camión
+17/07/2023,Química,Soleado,Miércoles,10:00,Norma,1,3,0,bicicleta
+19/04/2023,Historia,Ventoso,Viernes,10:00,Carmen,1,10,1,camina
+19/01/2023,Física,Soleado,Lunes,10:00,Ana,1,5,1,camión
+05/02/2023,Matemáticas,Lluvioso,Martes,10:00,Juan,0,0,1,combi
+23/05/2023,Historia,Soleado,Martes,08:00,Norma,1,9,1,camina
+06/03/2023,Historia,Soleado,Lunes,14:00,Juan,0,5,1,taxi
+21/04/2023,Matemáticas,Soleado,Jueves,16:00,Jose,0,7,0,auto propio
+29/05/2023,Historia,Ventoso,Jueves,08:00,Carmen,1,8,1,combi
+01/01/2023,Matemáticas,Ventoso,Martes,08:00,Norma,0,7,1,camina
+13/06/2023,Química,Lluvioso,Martes,10:00,Norma,1,2,0,combi
+14/09/2023,Matemáticas,Ventoso,Viernes,16:00,Ana,1,2,1,bicicleta
+27/06/2023,Física,Nublado,Jueves,10:00,Juan,0,8,1,auto propio
+29/05/2023,Física,Lluvioso,Lunes,12:00,Jose,1,7,0,taxi
+06/08/2023,Química,Soleado,Lunes,14:00,Jose,1,8,0,camión
+30/07/2023,Física,Lluvioso,Lunes,08:00,Jose,0,6,0,camión
+20/09/2023,Química,Ventoso,Martes,10:00,Carmen,1,8,0,moto
+27/01/2023,Historia,Ventoso,Viernes,14:00,Ana,0,3,0,camina
+12/09/2023,Biología,Ventoso,Viernes,16:00,Ana,0,1,1,bicicleta
+02/07/2023,Química,Lluvioso,Miércoles,10:00,Jose,1,9,0,auto propio
+16/05/2023,Matemáticas,Nublado,Jueves,12:00,Norma,0,0,0,auto propio
+01/05/2023,Matemáticas,Nublado,Lunes,16:00,Jose,0,9,0,moto
+07/07/2023,Historia,Nublado,Lunes,12:00,Norma,1,3,0,auto propio
+10/05/2023,Química,Nublado,Lunes,14:00,Juan,0,1,1,auto propio
+03/03/2023,Biología,Nublado,Viernes,10:00,Norma,0,6,0,camión
+08/01/2023,Biología,Nublado,Viernes,16:00,Norma,0,9,0,auto propio
+10/12/2023,Matemáticas,Nublado,Viernes,10:00,Norma,1,0,0,auto propio
+22/11/2023,Física,Nublado,Miércoles,16:00,Jose,0,1,1,camión
+14/04/2023,Biología,Ventoso,Martes,14:00,Ana,1,10,0,combi
+25/06/2023,Biología,Ventoso,Lunes,12:00,Jose,0,5,0,combi
+25/03/2023,Física,Soleado,Martes,14:00,Norma,0,1,1,taxi
+07/02/2023,Biología,Soleado,Jueves,08:00,Carmen,0,10,1,moto
+22/10/2023,Química,Lluvioso,Martes,14:00,Jose,0,2,1,taxi
+13/06/2023,Biología,Ventoso,Jueves,12:00,Carmen,1,7,1,camión
+20/10/2023,Química,Lluvioso,Miércoles,12:00,Ana,0,7,0,camina
+24/10/2023,Biología,Nublado,Lunes,10:00,Juan,1,9,0,bicicleta
+13/01/2023,Matemáticas,Nublado,Martes,08:00,Jose,1,3,0,taxi
+10/09/2023,Física,Lluvioso,Miércoles,14:00,Jose,1,1,0,moto
+10/11/2023,Matemáticas,Nublado,Martes,14:00,Ana,1,2,0,bicicleta
+23/05/2023,Matemáticas,Soleado,Lunes,16:00,Carmen,1,10,0,bicicleta
+14/12/2023,Matemáticas,Ventoso,Viernes,08:00,Jose,0,9,0,moto
+20/08/2023,Física,Ventoso,Miércoles,16:00,Juan,0,3,0,auto propio
+26/11/2023,Biología,Nublado,Lunes,12:00,Juan,1,10,1,camina
+16/06/2023,Matemáticas,Ventoso,Lunes,12:00,Carmen,1,9,0,bicicleta
+22/11/2023,Química,Lluvioso,Lunes,08:00,Juan,1,3,0,auto propio
+13/04/2023,Biología,Soleado,Lunes,16:00,Carmen,1,7,1,camina
+03/11/2023,Biología,Soleado,Lunes,14:00,Juan,0,2,1,auto propio
+19/05/2023,Física,Soleado,Miércoles,08:00,Juan,0,2,0,auto propio
+13/12/2023,Física,Ventoso,Viernes,08:00,Jose,1,2,1,combi
+05/10/2023,Física,Soleado,Martes,10:00,Carmen,0,10,0,camina
+05/10/2023,Física,Lluvioso,Lunes,14:00,Carmen,1,7,0,bicicleta
+08/01/2023,Biología,Nublado,Martes,08:00,Ana,1,5,1,taxi
+04/09/2023,Física,Nublado,Jueves,10:00,Jose,0,10,0,camina
+07/05/2023,Matemáticas,Lluvioso,Lunes,10:00,Carmen,1,3,0,moto
+19/12/2023,Biología,Nublado,Viernes,08:00,Jose,1,1,1,bicicleta
+24/01/2023,Física,Lluvioso,Martes,10:00,Norma,1,3,0,taxi
+29/05/2023,Física,Soleado,Lunes,08:00,Juan,1,4,1,camina
+28/11/2023,Física,Soleado,Martes,08:00,Juan,1,4,1,combi
+20/11/2023,Química,Ventoso,Martes,08:00,Ana,0,1,0,camina
+01/05/2023,Física,Lluvioso,Lunes,12:00,Jose,0,7,0,taxi
+10/08/2023,Química,Lluvioso,Miércoles,12:00,Carmen,1,8,1,moto
+03/01/2023,Química,Nublado,Jueves,12:00,Carmen,0,9,0,camina
+05/05/2023,Historia,Lluvioso,Lunes,14:00,Juan,1,7,0,bicicleta
+19/04/2023,Química,Ventoso,Lunes,08:00,Juan,1,10,1,camina
+03/01/2023,Historia,Ventoso,Lunes,12:00,Juan,0,7,0,taxi
+04/11/2023,Química,Nublado,Viernes,14:00,Jose,0,8,1,auto propio
+05/10/2023,Historia,Ventoso,Lunes,16:00,Carmen,0,5,1,taxi
+27/07/2023,Historia,Ventoso,Jueves,10:00,Jose,0,7,1,combi
+18/01/2023,Química,Soleado,Viernes,08:00,Ana,0,0,0,moto
+05/04/2023,Física,Lluvioso,Miércoles,14:00,Juan,0,6,1,combi
+30/05/2023,Biología,Ventoso,Martes,16:00,Juan,1,5,0,bicicleta
+06/01/2023,Historia,Lluvioso,Lunes,08:00,Jose,0,4,0,taxi
+25/10/2023,Biología,Soleado,Martes,14:00,Juan,1,1,0,auto propio
+19/04/2023,Biología,Lluvioso,Miércoles,14:00,Jose,0,8,1,bicicleta
+23/02/2023,Historia,Ventoso,Martes,12:00,Carmen,1,8,1,auto propio
+13/04/2023,Historia,Nublado,Viernes,14:00,Jose,1,3,1,combi
+18/03/2023,Química,Ventoso,Jueves,12:00,Ana,0,5,1,camina
+10/06/2023,Química,Nublado,Viernes,16:00,Norma,1,1,1,auto propio
+04/07/2023,Matemáticas,Lluvioso,Miércoles,12:00,Norma,0,2,1,combi
+25/05/2023,Historia,Nublado,Jueves,12:00,Juan,0,2,0,camina
+16/02/2023,Matemáticas,Ventoso,Viernes,08:00,Norma,1,2,0,moto
+22/02/2023,Química,Ventoso,Martes,14:00,Carmen,0,10,0,auto propio
+22/07/2023,Física,Lluvioso,Viernes,10:00,Jose,0,5,1,moto
+23/03/2023,Química,Ventoso,Miércoles,12:00,Norma,0,9,0,camión
+08/03/2023,Biología,Ventoso,Viernes,14:00,Jose,0,6,1,combi
+10/09/2023,Física,Ventoso,Lunes,10:00,Norma,0,3,1,taxi
+17/08/2023,Biología,Ventoso,Martes,10:00,Ana,0,9,0,combi
+26/05/2023,Matemáticas,Soleado,Martes,08:00,Juan,1,4,1,moto
+10/09/2023,Física,Nublado,Viernes,08:00,Norma,0,10,1,moto
+25/11/2023,Física,Lluvioso,Viernes,16:00,Norma,0,1,0,camina
+14/01/2023,Física,Lluvioso,Lunes,12:00,Norma,0,10,1,camina
+29/07/2023,Química,Ventoso,Miércoles,12:00,Norma,0,7,0,taxi
+28/05/2023,Historia,Soleado,Viernes,08:00,Ana,1,7,1,camina
+21/04/2023,Química,Nublado,Viernes,12:00,Carmen,0,3,0,moto
+02/05/2023,Física,Ventoso,Lunes,14:00,Jose,0,7,1,bicicleta
+09/08/2023,Biología,Ventoso,Martes,14:00,Carmen,1,6,0,combi
+14/03/2023,Física,Lluvioso,Lunes,14:00,Carmen,1,3,0,bicicleta
+05/12/2023,Matemáticas,Soleado,Miércoles,10:00,Norma,0,4,1,bicicleta
+02/06/2023,Matemáticas,Ventoso,Jueves,10:00,Jose,1,0,0,camión
+26/02/2023,Matemáticas,Ventoso,Miércoles,10:00,Juan,0,8,1,bicicleta
+24/10/2023,Biología,Nublado,Martes,14:00,Ana,0,5,0,camina
+24/03/2023,Historia,Lluvioso,Lunes,12:00,Ana,1,8,1,auto propio
+26/07/2023,Física,Soleado,Lunes,12:00,Juan,1,7,1,bicicleta
+26/09/2023,Física,Ventoso,Lunes,10:00,Carmen,0,0,0,camina
+09/02/2023,Historia,Nublado,Jueves,16:00,Ana,1,5,1,camión
+01/05/2023,Física,Soleado,Lunes,10:00,Juan,0,10,1,camión
+05/11/2023,Historia,Ventoso,Viernes,10:00,Juan,0,0,0,auto propio
+21/07/2023,Biología,Lluvioso,Lunes,10:00,Norma,1,2,1,camión
+22/05/2023,Física,Nublado,Viernes,14:00,Juan,0,4,0,taxi
+19/07/2023,Química,Lluvioso,Miércoles,08:00,Carmen,1,2,0,taxi
+05/05/2023,Física,Ventoso,Miércoles,14:00,Norma,1,9,0,moto
+06/12/2023,Química,Nublado,Jueves,10:00,Jose,0,9,1,bicicleta
+23/05/2023,Matemáticas,Lluvioso,Miércoles,12:00,Ana,0,0,0,camión
+12/07/2023,Física,Lluvioso,Lunes,12:00,Jose,1,7,1,camión
+20/01/2023,Historia,Ventoso,Lunes,10:00,Ana,1,2,1,taxi
+25/04/2023,Matemáticas,Ventoso,Viernes,14:00,Carmen,1,4,1,bicicleta
+25/10/2023,Matemáticas,Soleado,Miércoles,14:00,Norma,1,1,1,auto propio
+13/05/2023,Historia,Lluvioso,Viernes,08:00,Norma,0,7,1,auto propio
+12/07/2023,Matemáticas,Nublado,Martes,08:00,Jose,0,9,0,moto
+11/05/2023,Química,Nublado,Martes,10:00,Norma,1,1,0,camión
+08/09/2023,Matemáticas,Soleado,Miércoles,16:00,Jose,0,5,0,bicicleta
+23/05/2023,Física,Lluvioso,Miércoles,12:00,Norma,0,4,0,camina
+11/04/2023,Biología,Ventoso,Viernes,08:00,Ana,1,9,0,moto
+11/07/2023,Química,Lluvioso,Jueves,08:00,Juan,1,4,1,camina
+18/04/2023,Matemáticas,Ventoso,Miércoles,12:00,Ana,0,10,0,auto propio
+04/12/2023,Historia,Lluvioso,Jueves,14:00,Ana,1,6,0,camión
+30/08/2023,Física,Lluvioso,Martes,08:00,Jose,1,3,0,combi
+03/06/2023,Química,Lluvioso,Lunes,10:00,Jose,0,9,1,auto propio
+14/05/2023,Historia,Lluvioso,Martes,12:00,Norma,0,10,0,taxi
+29/08/2023,Física,Lluvioso,Jueves,08:00,Jose,1,10,0,moto
+10/06/2023,Biología,Lluvioso,Viernes,16:00,Jose,0,10,0,combi
+24/07/2023,Biología,Nublado,Miércoles,12:00,Carmen,0,6,1,combi
+16/05/2023,Matemáticas,Nublado,Jueves,16:00,Carmen,0,1,0,bicicleta
+02/05/2023,Física,Nublado,Lunes,10:00,Norma,1,8,0,taxi
+29/05/2023,Matemáticas,Soleado,Martes,14:00,Jose,1,2,1,camión
+02/08/2023,Física,Nublado,Miércoles,16:00,Jose,1,7,0,taxi
+17/09/2023,Historia,Ventoso,Jueves,14:00,Juan,1,4,0,taxi
+30/11/2023,Biología,Nublado,Lunes,08:00,Ana,0,4,0,combi
+11/04/2023,Matemáticas,Lluvioso,Miércoles,14:00,Ana,0,6,1,camión
+13/02/2023,Biología,Nublado,Lunes,08:00,Norma,1,2,1,bicicleta
+17/02/2023,Biología,Soleado,Viernes,10:00,Carmen,1,8,0,auto propio
+27/12/2023,Biología,Soleado,Viernes,10:00,Ana,1,3,1,taxi
+29/11/2023,Química,Soleado,Miércoles,08:00,Ana,1,10,0,camión
+12/01/2023,Historia,Soleado,Lunes,08:00,Jose,0,3,1,camión
+18/05/2023,Matemáticas,Soleado,Miércoles,14:00,Jose,0,9,0,taxi
+04/12/2023,Biología,Lluvioso,Lunes,12:00,Carmen,1,5,1,combi
+11/09/2023,Historia,Nublado,Martes,14:00,Carmen,0,3,0,camina
+19/08/2023,Matemáticas,Lluvioso,Lunes,10:00,Ana,0,1,0,auto propio
+17/12/2023,Física,Nublado,Lunes,10:00,Carmen,1,9,0,auto propio
+09/07/2023,Química,Soleado,Jueves,08:00,Juan,1,0,0,taxi
+12/12/2023,Historia,Ventoso,Miércoles,12:00,Carmen,1,4,1,taxi
+15/10/2023,Historia,Soleado,Viernes,14:00,Norma,1,3,0,combi
+13/01/2023,Matemáticas,Lluvioso,Jueves,16:00,Carmen,0,0,1,bicicleta
+19/08/2023,Biología,Lluvioso,Lunes,12:00,Norma,0,0,1,camión
+31/08/2023,Historia,Nublado,Viernes,14:00,Carmen,0,3,0,camina
+24/05/2023,Química,Ventoso,Miércoles,10:00,Norma,1,3,1,combi
+26/04/2023,Química,Lluvioso,Lunes,12:00,Carmen,0,6,1,moto
+10/10/2023,Biología,Ventoso,Lunes,10:00,Jose,0,8,0,camión
+23/01/2023,Química,Nublado,Martes,16:00,Carmen,1,4,1,taxi
+26/02/2023,Historia,Nublado,Jueves,16:00,Jose,1,7,0,moto
+27/10/2023,Matemáticas,Nublado,Jueves,14:00,Ana,1,0,1,taxi
+24/06/2023,Historia,Nublado,Lunes,10:00,Jose,1,3,1,auto propio
+19/05/2023,Matemáticas,Ventoso,Miércoles,10:00,Juan,1,5,0,moto
+08/10/2023,Química,Lluvioso,Martes,12:00,Ana,1,9,0,camión
+29/12/2023,Matemáticas,Ventoso,Martes,08:00,Juan,0,6,0,moto
+16/07/2023,Física,Soleado,Viernes,16:00,Jose,0,0,1,combi
+09/09/2023,Biología,Ventoso,Martes,10:00,Juan,0,8,0,camina
+10/07/2023,Química,Lluvioso,Miércoles,16:00,Norma,0,1,0,auto propio
+25/06/2023,Química,Soleado,Martes,14:00,Norma,1,8,0,moto
+01/12/2023,Química,Ventoso,Lunes,08:00,Juan,0,6,1,taxi
+15/12/2023,Química,Lluvioso,Martes,12:00,Carmen,1,3,0,combi
+21/02/2023,Química,Nublado,Jueves,12:00,Juan,0,8,0,camión
+10/04/2023,Biología,Soleado,Miércoles,08:00,Carmen,0,7,1,camina
+22/03/2023,Matemáticas,Soleado,Lunes,10:00,Norma,1,8,0,taxi
+17/12/2023,Historia,Lluvioso,Miércoles,16:00,Ana,0,2,0,auto propio
+23/05/2023,Química,Ventoso,Miércoles,08:00,Jose,1,9,1,auto propio
+17/07/2023,Física,Nublado,Lunes,08:00,Juan,0,2,1,taxi
+22/12/2023,Historia,Nublado,Martes,14:00,Jose,1,8,0,moto
+12/08/2023,Química,Nublado,Miércoles,10:00,Jose,1,1,0,moto
+26/04/2023,Matemáticas,Ventoso,Miércoles,12:00,Ana,0,10,0,combi
+28/09/2023,Biología,Ventoso,Miércoles,12:00,Ana,0,5,1,camina
+20/11/2023,Química,Nublado,Lunes,08:00,Norma,1,3,0,moto
+17/06/2023,Historia,Ventoso,Viernes,08:00,Jose,1,4,0,moto
+30/08/2023,Matemáticas,Ventoso,Jueves,08:00,Ana,0,7,1,combi
+20/10/2023,Física,Ventoso,Lunes,16:00,Carmen,0,6,0,bicicleta
+10/06/2023,Química,Soleado,Viernes,16:00,Juan,0,1,0,combi
+30/11/2023,Matemáticas,Lluvioso,Viernes,12:00,Jose,0,9,1,combi
+09/09/2023,Química,Lluvioso,Viernes,10:00,Norma,0,9,1,camión
+04/11/2023,Historia,Soleado,Jueves,08:00,Juan,0,6,0,auto propio
+12/06/2023,Física,Lluvioso,Viernes,16:00,Carmen,0,2,1,auto propio
+06/09/2023,Física,Soleado,Viernes,08:00,Ana,0,2,0,camina
+08/05/2023,Química,Lluvioso,Miércoles,10:00,Carmen,1,3,1,camión
+22/03/2023,Matemáticas,Lluvioso,Lunes,10:00,Carmen,1,6,0,auto propio
+26/12/2023,Historia,Soleado,Viernes,10:00,Norma,0,10,0,moto
+22/11/2023,Biología,Nublado,Jueves,12:00,Juan,0,9,0,camión
+17/03/2023,Química,Nublado,Jueves,10:00,Carmen,1,9,1,auto propio
+26/11/2023,Historia,Nublado,Martes,12:00,Juan,0,2,1,combi
+21/04/2023,Biología,Soleado,Viernes,14:00,Norma,1,9,0,bicicleta
+15/12/2023,Matemáticas,Nublado,Viernes,12:00,Norma,0,8,0,taxi
+14/09/2023,Matemáticas,Soleado,Jueves,12:00,Jose,1,2,0,bicicleta
+30/09/2023,Matemáticas,Ventoso,Miércoles,12:00,Carmen,0,8,0,auto propio
+19/12/2023,Matemáticas,Soleado,Lunes,14:00,Carmen,0,2,0,auto propio
+07/01/2023,Historia,Ventoso,Martes,08:00,Ana,0,6,1,taxi
+03/01/2023,Química,Lluvioso,Lunes,16:00,Jose,1,3,1,camión
+18/07/2023,Matemáticas,Soleado,Miércoles,16:00,Carmen,0,3,1,taxi
+14/10/2023,Biología,Ventoso,Jueves,16:00,Juan,0,1,0,camión
+14/04/2023,Matemáticas,Nublado,Miércoles,10:00,Ana,0,4,1,combi
+02/07/2023,Matemáticas,Soleado,Lunes,16:00,Norma,0,4,0,auto propio
+17/07/2023,Historia,Soleado,Martes,08:00,Norma,1,5,0,combi
+27/02/2023,Química,Ventoso,Jueves,16:00,Jose,0,2,1,camina
+02/10/2023,Biología,Soleado,Martes,12:00,Carmen,1,6,1,combi
+10/10/2023,Física,Nublado,Martes,08:00,Carmen,1,8,1,bicicleta
+28/12/2023,Biología,Ventoso,Viernes,12:00,Jose,0,0,0,camina
+16/08/2023,Química,Soleado,Miércoles,12:00,Juan,1,7,1,taxi
+04/11/2023,Física,Lluvioso,Jueves,10:00,Juan,1,6,0,camina
+03/12/2023,Matemáticas,Nublado,Lunes,08:00,Norma,0,7,0,moto
+05/09/2023,Matemáticas,Ventoso,Jueves,10:00,Carmen,0,6,0,auto propio
+27/10/2023,Física,Lluvioso,Jueves,16:00,Norma,0,2,1,bicicleta
+02/05/2023,Física,Ventoso,Viernes,12:00,Jose,0,2,0,auto propio
+25/08/2023,Biología,Ventoso,Viernes,10:00,Juan,0,6,1,combi
+01/08/2023,Matemáticas,Soleado,Jueves,16:00,Carmen,0,3,0,bicicleta
+20/02/2023,Química,Soleado,Miércoles,08:00,Carmen,0,6,1,combi
+24/06/2023,Matemáticas,Ventoso,Viernes,12:00,Jose,0,1,0,combi
+02/03/2023,Biología,Lluvioso,Miércoles,14:00,Juan,0,7,1,camina
+25/04/2023,Física,Ventoso,Lunes,08:00,Norma,0,0,0,auto propio
+18/05/2023,Química,Lluvioso,Viernes,08:00,Carmen,0,10,0,camión
+14/02/2023,Física,Nublado,Martes,14:00,Ana,0,9,1,auto propio
+03/09/2023,Biología,Nublado,Martes,10:00,Carmen,1,0,0,camión
+04/12/2023,Historia,Lluvioso,Lunes,08:00,Jose,0,10,1,camión
+05/08/2023,Física,Soleado,Jueves,12:00,Juan,0,2,1,combi
+26/10/2023,Biología,Ventoso,Miércoles,14:00,Carmen,1,3,1,camión
+24/07/2023,Matemáticas,Ventoso,Viernes,10:00,Jose,0,7,0,auto propio
+11/08/2023,Matemáticas,Lluvioso,Martes,16:00,Norma,1,3,1,camina
+24/05/2023,Física,Soleado,Viernes,10:00,Juan,0,6,1,moto
+13/09/2023,Química,Soleado,Martes,12:00,Ana,0,8,0,bicicleta
+28/06/2023,Historia,Ventoso,Martes,12:00,Jose,1,2,1,camión
+02/09/2023,Física,Ventoso,Miércoles,10:00,Norma,1,4,1,taxi
+13/02/2023,Matemáticas,Lluvioso,Martes,10:00,Jose,0,8,1,auto propio
+09/11/2023,Química,Nublado,Viernes,16:00,Jose,1,0,0,auto propio
+04/01/2023,Física,Soleado,Jueves,14:00,Jose,0,3,0,moto
+05/09/2023,Biología,Soleado,Miércoles,08:00,Norma,1,4,1,camión
+08/09/2023,Biología,Ventoso,Martes,12:00,Norma,0,9,1,taxi
+04/02/2023,Química,Soleado,Martes,08:00,Carmen,1,9,0,bicicleta
+20/03/2023,Matemáticas,Ventoso,Miércoles,10:00,Carmen,1,4,0,camina
+20/04/2023,Historia,Soleado,Lunes,14:00,Ana,0,2,1,camión
+30/12/2023,Física,Ventoso,Martes,16:00,Norma,1,5,1,moto
+25/05/2023,Química,Nublado,Lunes,10:00,Jose,0,2,1,bicicleta
+31/08/2023,Biología,Ventoso,Miércoles,08:00,Juan,0,5,0,taxi
+14/08/2023,Química,Lluvioso,Viernes,12:00,Juan,0,2,1,moto
+17/10/2023,Matemáticas,Ventoso,Miércoles,12:00,Carmen,0,10,1,taxi
+10/07/2023,Biología,Soleado,Martes,12:00,Norma,0,0,1,combi
+10/05/2023,Física,Soleado,Viernes,16:00,Ana,1,0,0,bicicleta
+27/12/2023,Física,Lluvioso,Martes,12:00,Juan,0,6,1,camión
+02/07/2023,Física,Soleado,Martes,14:00,Juan,1,10,1,taxi
+14/12/2023,Historia,Soleado,Lunes,14:00,Ana,1,5,0,moto
+06/03/2023,Matemáticas,Nublado,Lunes,10:00,Carmen,0,4,1,combi
+29/12/2023,Matemáticas,Soleado,Martes,12:00,Carmen,0,1,1,camina
+10/07/2023,Historia,Nublado,Jueves,16:00,Ana,1,2,0,camión
+18/12/2023,Química,Nublado,Viernes,08:00,Ana,1,10,0,camina
+08/02/2023,Historia,Ventoso,Miércoles,16:00,Norma,0,10,1,camión
+01/02/2023,Química,Ventoso,Jueves,14:00,Carmen,1,7,0,taxi
+09/01/2023,Física,Soleado,Lunes,14:00,Carmen,1,8,1,combi
+29/09/2023,Matemáticas,Nublado,Viernes,08:00,Jose,1,4,1,moto
+23/02/2023,Química,Soleado,Lunes,16:00,Ana,0,1,0,camión
+21/03/2023,Matemáticas,Nublado,Jueves,10:00,Jose,0,4,1,auto propio
+21/02/2023,Matemáticas,Nublado,Miércoles,10:00,Norma,0,9,1,camina
+15/10/2023,Química,Ventoso,Miércoles,08:00,Carmen,1,5,1,auto propio
+08/04/2023,Biología,Nublado,Lunes,16:00,Juan,0,7,0,moto
+04/10/2023,Biología,Lluvioso,Jueves,16:00,Jose,1,3,1,camina
+08/04/2023,Biología,Ventoso,Lunes,14:00,Jose,0,5,0,camión
+21/10/2023,Física,Ventoso,Jueves,12:00,Juan,1,2,1,taxi
+30/06/2023,Biología,Soleado,Viernes,14:00,Ana,1,7,0,taxi
+02/11/2023,Matemáticas,Soleado,Jueves,14:00,Carmen,0,4,0,auto propio
+23/12/2023,Química,Soleado,Jueves,14:00,Juan,0,6,1,bicicleta
+03/02/2023,Física,Nublado,Lunes,10:00,Ana,1,5,1,auto propio
+25/12/2023,Química,Ventoso,Lunes,14:00,Ana,0,6,0,taxi
+07/07/2023,Biología,Nublado,Miércoles,14:00,Jose,1,4,0,auto propio
+24/10/2023,Biología,Nublado,Jueves,12:00,Juan,0,4,0,combi
+09/08/2023,Física,Soleado,Lunes,12:00,Carmen,0,0,1,auto propio
+09/05/2023,Historia,Soleado,Miércoles,12:00,Norma,0,10,1,camina
+06/11/2023,Historia,Soleado,Lunes,14:00,Juan,1,1,0,camina
+09/11/2023,Matemáticas,Soleado,Viernes,08:00,Jose,0,5,0,auto propio
+02/12/2023,Química,Nublado,Jueves,10:00,Ana,0,1,0,combi
+13/04/2023,Química,Ventoso,Miércoles,10:00,Ana,0,6,1,auto propio
+14/10/2023,Física,Ventoso,Viernes,10:00,Norma,1,4,1,camión
+13/01/2023,Biología,Nublado,Martes,12:00,Norma,0,1,1,camión
+16/08/2023,Matemáticas,Nublado,Viernes,16:00,Juan,0,4,0,taxi
+04/07/2023,Historia,Ventoso,Jueves,08:00,Juan,1,2,0,camina
+24/02/2023,Biología,Nublado,Martes,12:00,Norma,1,8,1,camión
+22/07/2023,Física,Lluvioso,Lunes,12:00,Jose,1,0,0,taxi
+15/10/2023,Historia,Lluvioso,Jueves,10:00,Norma,0,8,1,moto
+05/08/2023,Física,Lluvioso,Martes,12:00,Ana,1,2,0,combi
+24/02/2023,Física,Ventoso,Viernes,08:00,Norma,0,7,1,taxi
+14/06/2023,Biología,Soleado,Jueves,12:00,Juan,1,1,1,camina
+08/05/2023,Matemáticas,Soleado,Viernes,14:00,Norma,0,2,1,taxi
+23/07/2023,Química,Lluvioso,Viernes,08:00,Carmen,0,6,0,camina
+28/07/2023,Matemáticas,Nublado,Jueves,12:00,Carmen,0,3,1,taxi
+16/05/2023,Biología,Soleado,Jueves,08:00,Norma,1,8,0,combi
+17/11/2023,Matemáticas,Lluvioso,Lunes,10:00,Jose,0,9,0,auto propio
+19/08/2023,Biología,Lluvioso,Lunes,14:00,Ana,1,6,1,moto
+20/03/2023,Física,Ventoso,Lunes,14:00,Juan,1,3,0,auto propio
+25/04/2023,Matemáticas,Soleado,Viernes,08:00,Carmen,0,7,0,bicicleta
+02/12/2023,Física,Lluvioso,Viernes,10:00,Jose,1,6,1,camión
+30/07/2023,Matemáticas,Lluvioso,Martes,12:00,Jose,1,6,1,bicicleta
+09/12/2023,Química,Nublado,Jueves,16:00,Ana,1,7,1,auto propio
+07/01/2023,Matemáticas,Nublado,Viernes,10:00,Juan,0,3,0,auto propio
+02/02/2023,Física,Ventoso,Viernes,14:00,Ana,1,2,1,camión
+16/05/2023,Historia,Ventoso,Viernes,08:00,Ana,0,5,0,camión
+20/04/2023,Química,Soleado,Viernes,08:00,Juan,0,4,1,bicicleta
+30/01/2023,Biología,Soleado,Viernes,10:00,Carmen,1,3,1,bicicleta
+25/10/2023,Historia,Lluvioso,Jueves,12:00,Carmen,0,9,1,moto
+31/07/2023,Física,Lluvioso,Jueves,08:00,Carmen,0,5,1,auto propio
+01/08/2023,Biología,Lluvioso,Viernes,10:00,Juan,0,4,0,moto
+29/03/2023,Física,Lluvioso,Viernes,10:00,Carmen,1,2,1,combi
+05/12/2023,Historia,Soleado,Martes,10:00,Jose,0,7,0,camión
+10/09/2023,Biología,Soleado,Lunes,16:00,Carmen,0,5,0,taxi
+03/09/2023,Química,Soleado,Lunes,14:00,Norma,0,7,0,auto propio
+30/04/2023,Física,Soleado,Miércoles,08:00,Carmen,0,9,1,taxi
+08/06/2023,Historia,Soleado,Martes,12:00,Ana,1,10,1,moto
+18/10/2023,Física,Soleado,Viernes,12:00,Ana,0,3,0,auto propio
+22/04/2023,Biología,Nublado,Lunes,10:00,Jose,0,10,1,combi
+20/07/2023,Química,Lluvioso,Lunes,12:00,Ana,0,3,0,camión
+07/07/2023,Física,Nublado,Miércoles,12:00,Ana,0,3,1,taxi
+10/05/2023,Matemáticas,Lluvioso,Miércoles,16:00,Juan,1,7,0,taxi
+26/01/2023,Biología,Ventoso,Lunes,10:00,Ana,0,1,1,moto
+27/05/2023,Física,Ventoso,Miércoles,14:00,Carmen,1,6,0,combi
+10/12/2023,Matemáticas,Soleado,Viernes,08:00,Juan,1,10,1,camina
+09/07/2023,Química,Lluvioso,Martes,10:00,Jose,0,0,1,combi
+19/06/2023,Matemáticas,Ventoso,Miércoles,16:00,Norma,1,3,0,camión
+08/12/2023,Química,Soleado,Miércoles,08:00,Norma,1,9,1,bicicleta
+07/11/2023,Química,Nublado,Jueves,14:00,Ana,0,0,1,moto
+11/07/2023,Matemáticas,Soleado,Lunes,08:00,Norma,0,0,1,combi
+02/11/2023,Química,Nublado,Jueves,14:00,Carmen,0,3,1,taxi
+07/10/2023,Física,Lluvioso,Martes,08:00,Norma,0,10,1,moto
+05/08/2023,Biología,Lluvioso,Miércoles,10:00,Ana,1,4,0,taxi
+08/05/2023,Física,Lluvioso,Martes,16:00,Juan,0,3,0,camión
+18/09/2023,Química,Soleado,Lunes,14:00,Carmen,1,0,0,bicicleta
+09/05/2023,Biología,Lluvioso,Viernes,14:00,Jose,0,0,0,camión
+10/07/2023,Biología,Lluvioso,Viernes,12:00,Ana,1,1,1,camina
+09/02/2023,Física,Soleado,Lunes,12:00,Ana,0,3,1,auto propio
+13/11/2023,Historia,Soleado,Martes,12:00,Norma,1,5,0,auto propio
+14/02/2023,Física,Lluvioso,Martes,16:00,Jose,0,5,0,bicicleta
+01/05/2023,Historia,Lluvioso,Lunes,16:00,Jose,0,6,1,bicicleta
+15/04/2023,Historia,Lluvioso,Martes,12:00,Juan,0,6,1,taxi
+08/12/2023,Biología,Soleado,Viernes,08:00,Juan,0,6,0,bicicleta
+10/07/2023,Física,Nublado,Lunes,12:00,Juan,0,9,1,camión
+29/11/2023,Física,Soleado,Miércoles,10:00,Jose,0,8,0,taxi
+07/11/2023,Física,Ventoso,Lunes,08:00,Jose,1,3,1,camión
+19/01/2023,Química,Soleado,Lunes,14:00,Jose,0,3,0,moto
+23/11/2023,Física,Soleado,Viernes,10:00,Juan,1,0,1,combi
+15/09/2023,Biología,Ventoso,Miércoles,10:00,Carmen,1,5,0,camión
+07/10/2023,Química,Nublado,Martes,16:00,Norma,0,7,1,moto
+13/11/2023,Química,Lluvioso,Jueves,16:00,Carmen,0,10,1,camina
+28/09/2023,Física,Soleado,Miércoles,10:00,Jose,0,3,0,camina
+12/07/2023,Matemáticas,Soleado,Martes,14:00,Norma,1,4,0,camión
+05/10/2023,Física,Ventoso,Jueves,16:00,Jose,0,1,1,moto
+23/05/2023,Historia,Nublado,Miércoles,16:00,Norma,1,8,1,camina
+01/03/2023,Física,Nublado,Jueves,16:00,Carmen,0,9,0,bicicleta
+04/04/2023,Historia,Lluvioso,Miércoles,14:00,Carmen,0,5,0,taxi
+05/07/2023,Matemáticas,Nublado,Jueves,10:00,Jose,1,3,0,moto
+13/02/2023,Física,Ventoso,Miércoles,10:00,Carmen,1,3,0,auto propio
+15/11/2023,Física,Soleado,Jueves,12:00,Juan,0,4,0,taxi
+26/06/2023,Matemáticas,Nublado,Martes,14:00,Norma,1,4,1,bicicleta
+12/06/2023,Matemáticas,Soleado,Martes,16:00,Norma,0,2,0,camina
+22/12/2023,Química,Soleado,Lunes,10:00,Carmen,0,0,1,camina
+11/06/2023,Química,Soleado,Viernes,10:00,Norma,1,4,1,camión
+26/03/2023,Biología,Nublado,Miércoles,12:00,Ana,1,8,0,camina
+03/12/2023,Historia,Ventoso,Martes,14:00,Carmen,1,3,0,moto
+06/03/2023,Matemáticas,Nublado,Lunes,14:00,Juan,1,0,1,moto
+04/08/2023,Matemáticas,Ventoso,Jueves,12:00,Norma,0,2,0,combi
+25/09/2023,Matemáticas,Ventoso,Lunes,14:00,Norma,1,7,0,auto propio
+30/07/2023,Historia,Nublado,Jueves,16:00,Juan,0,2,0,taxi
+10/04/2023,Matemáticas,Lluvioso,Miércoles,12:00,Ana,1,8,0,taxi
+09/07/2023,Física,Ventoso,Miércoles,10:00,Norma,0,10,0,camión
+23/12/2023,Matemáticas,Lluvioso,Martes,08:00,Norma,0,7,0,moto
+09/02/2023,Historia,Soleado,Jueves,10:00,Juan,1,4,0,auto propio
+29/06/2023,Física,Ventoso,Lunes,16:00,Norma,0,8,0,taxi
+08/03/2023,Química,Nublado,Viernes,10:00,Ana,0,5,0,taxi
+23/03/2023,Física,Nublado,Lunes,12:00,Juan,0,5,1,auto propio
+25/01/2023,Biología,Lluvioso,Martes,08:00,Juan,1,3,1,bicicleta
+24/01/2023,Física,Ventoso,Lunes,10:00,Jose,1,6,0,taxi
+22/10/2023,Biología,Lluvioso,Viernes,16:00,Norma,0,9,0,moto
+22/12/2023,Matemáticas,Soleado,Martes,08:00,Ana,1,9,1,bicicleta
+23/12/2023,Física,Lluvioso,Jueves,08:00,Jose,0,0,1,taxi
+23/04/2023,Matemáticas,Nublado,Lunes,14:00,Jose,1,9,0,moto
+04/01/2023,Historia,Ventoso,Lunes,12:00,Ana,1,0,1,moto
+09/08/2023,Física,Nublado,Miércoles,12:00,Juan,0,7,1,combi
+16/02/2023,Biología,Lluvioso,Viernes,14:00,Ana,0,0,1,moto
+15/08/2023,Historia,Ventoso,Jueves,16:00,Juan,0,0,0,auto propio
+15/06/2023,Física,Nublado,Martes,10:00,Jose,0,4,0,camina
+12/04/2023,Química,Lluvioso,Viernes,10:00,Norma,0,6,0,combi
+12/05/2023,Matemáticas,Soleado,Martes,08:00,Ana,1,1,1,camina
+22/05/2023,Historia,Ventoso,Miércoles,12:00,Ana,1,4,1,moto
+29/08/2023,Matemáticas,Lluvioso,Viernes,16:00,Carmen,0,0,0,moto
+07/10/2023,Biología,Soleado,Viernes,16:00,Carmen,1,9,1,auto propio
+16/02/2023,Matemáticas,Soleado,Miércoles,08:00,Norma,1,1,1,combi
+29/09/2023,Historia,Lluvioso,Martes,12:00,Jose,1,1,0,bicicleta
+30/06/2023,Física,Lluvioso,Miércoles,16:00,Ana,1,8,1,camina
+21/09/2023,Biología,Nublado,Miércoles,10:00,Juan,0,5,0,taxi
+20/04/2023,Historia,Lluvioso,Jueves,14:00,Ana,1,9,0,moto
+29/10/2023,Física,Soleado,Miércoles,14:00,Carmen,0,2,0,combi
+15/01/2023,Física,Lluvioso,Lunes,10:00,Carmen,0,4,1,combi
+28/06/2023,Historia,Ventoso,Viernes,14:00,Norma,1,5,0,auto propio
+16/03/2023,Biología,Nublado,Martes,14:00,Jose,0,1,0,taxi
+25/10/2023,Matemáticas,Ventoso,Lunes,14:00,Jose,1,1,1,taxi
+18/07/2023,Historia,Ventoso,Miércoles,08:00,Jose,1,1,0,combi
+22/09/2023,Física,Lluvioso,Lunes,08:00,Carmen,1,1,1,auto propio
+06/11/2023,Matemáticas,Lluvioso,Viernes,14:00,Juan,1,4,0,taxi
+01/05/2023,Biología,Soleado,Viernes,08:00,Jose,1,9,1,bicicleta
+23/08/2023,Biología,Lluvioso,Jueves,10:00,Jose,1,1,0,taxi
+25/03/2023,Matemáticas,Soleado,Lunes,16:00,Juan,1,7,0,bicicleta
+21/05/2023,Física,Ventoso,Lunes,10:00,Jose,0,6,0,taxi
+22/12/2023,Historia,Lluvioso,Jueves,08:00,Norma,0,8,1,moto
+13/04/2023,Biología,Ventoso,Lunes,10:00,Norma,0,1,0,combi
+27/09/2023,Química,Soleado,Lunes,14:00,Jose,1,8,0,moto
+04/12/2023,Matemáticas,Soleado,Viernes,14:00,Norma,1,3,0,taxi
+03/05/2023,Química,Lluvioso,Miércoles,14:00,Ana,1,9,1,moto
+25/10/2023,Matemáticas,Lluvioso,Viernes,10:00,Ana,1,3,1,camina
+16/03/2023,Matemáticas,Soleado,Lunes,10:00,Carmen,0,3,0,auto propio
+25/09/2023,Matemáticas,Soleado,Miércoles,14:00,Carmen,1,0,1,moto
+14/08/2023,Química,Lluvioso,Lunes,12:00,Norma,1,6,1,auto propio
+18/07/2023,Química,Ventoso,Martes,12:00,Juan,1,3,0,camina
+25/11/2023,Química,Soleado,Martes,12:00,Carmen,0,3,1,bicicleta
